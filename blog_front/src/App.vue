@@ -14,5 +14,7 @@ export default {
 </script>
 
 <style>
-
+  ul,li {
+    list-style: none;
+  }
 </style>

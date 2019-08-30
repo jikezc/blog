@@ -13,6 +13,12 @@ Vue.prototype.$settings = settings;
 import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
 
+// 引入jquery
+import $ from 'jquery'
+
+// 引入bootstarp
+import './assets/bootstrap-3.3.7-dist/css/bootstrap.css'
+import './assets/bootstrap-3.3.7-dist/js/bootstrap'
 
 
 // 调用插件
