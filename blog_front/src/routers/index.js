@@ -1,6 +1,7 @@
 import Vue from "vue"
 import Router from "vue-router"
 import Home from "@/components/Home"
+import Support from "../components/Support";
 
 // 这里导入可以让让用户访问的组件
 
@@ -21,6 +22,11 @@ export default new Router({
       name: "Home",
       path: "/home",
       component: Home,
+    },
+    {
+      name: "Support",
+      path: "/support",
+      component: Support,
     }
   ]
 })

@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa29db98-8be5-4ce7-851b-b3a37818363a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../blog_front/src/assets/js/canvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog_front/static/image/back_top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog_front/static/image/carousel1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog_front/static/image/timg.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/build/webpack.base.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/Banner.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/Banner.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/Footer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_front/static/image/alipay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog_front/static/image/wechatpay.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/Header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/src/routers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/routers/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,48 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/manage.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blogapi/settings/dev.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1650">
-              <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogapi/apps/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogapi/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogapi/settings/prop.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogapi/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -96,10 +52,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="951" />
-    <option name="y" value="156" />
-    <option name="width" value="859" />
-    <option name="height" value="689" />
+    <option name="x" value="158" />
+    <option name="y" value="98" />
+    <option name="width" value="551" />
+    <option name="height" value="431" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -107,6 +63,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,7 +108,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,18 +205,20 @@
       <workItem from="1567066452509" duration="2026000" />
       <workItem from="1567068929955" duration="2407000" />
       <workItem from="1567084438089" duration="1919000" />
-      <workItem from="1567146205134" duration="625000" />
+      <workItem from="1567146205134" duration="1132000" />
+      <workItem from="1567149136234" duration="13000" />
+      <workItem from="1567149420939" duration="624000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6977000" />
+    <option name="totallyTimeSpent" value="8121000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="67" y="25" width="1851" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14214325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14841579" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -304,16 +262,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogapi/apps/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/blogapi/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -333,8 +281,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blogapi/settings/dev.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
+        <state relative-caret-position="330">
+          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogapi/apps/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

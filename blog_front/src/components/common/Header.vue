@@ -31,7 +31,8 @@
           </ul>
           <ul class="nav navbar-nav navbar-right">
             <li><a href="../navbar/">留言</a></li>
-            <li><a href="../navbar-static-top/">赞助</a></li>
+            <li><router-link to="support/">赞助</router-link></li>
+<!--            <li><a href="../navbar-static-top/">赞助</a></li>-->
             <li class="active"><a href="./">菜单 <span class="sr-only">(current)</span></a></li>
           </ul>
         </div><!--/.nav-collapse -->
