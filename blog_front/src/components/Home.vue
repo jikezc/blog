@@ -1,8 +1,8 @@
 <template>
   <div class="home">
-    <Header></Header>
+<!--    <Header></Header>-->
     <Banner></Banner>
-    <Footer></Footer>
+<!--    <Footer></Footer>-->
   </div>
 </template>
 

@@ -1,20 +1,25 @@
 <template>
   <div id="app">
-    <router-view />
+    <Header></Header>
+    <router-view/>
+    <Footer></Footer>
   </div>
 </template>
 
 <script>
-
-export default {
-  name: 'App',
-  components: {
-  }
-}
+    import Header from "./components/common/Header";
+    import Footer from "./components/common/Footer";
+    export default {
+        name: 'App',
+        components: {
+            Header,
+            Footer
+        }
+    }
 </script>
 
 <style>
-  ul,li {
+  ul, li {
     list-style: none;
   }
 </style>

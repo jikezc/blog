@@ -22,8 +22,10 @@
 .footer {
   width: 100%;
   height: 128px;
-  background: #25292e;
-  color: #fff;
+  /*background: #25292e;*/
+  /*color: #fff;*/
+  background-color: #f8f8f8;
+  color: #777777;
   margin-top: 40px;
 }
 .footer ul{
@@ -47,5 +49,6 @@
 .footer p{
   text-align: center;
   font-size: 12px;
+  font-family: "Helvetica Neue";
 }
 </style>

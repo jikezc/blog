@@ -3,6 +3,9 @@ import Router from "vue-router"
 import Home from "@/components/Home"
 import Support from "../components/Support";
 import Article from "../components/Article";
+import ArticleDetail from "../components/ArticleDetail";
+import MessageBoard from "../components/MessageBoard";
+import About from "../components/About";
 
 // 这里导入可以让让用户访问的组件
 
@@ -33,6 +36,21 @@ export default new Router({
       name: "Article",
       path: "/article",
       component: Article,
+    },
+    {
+      name: "ArticleDetail",
+      path: "/articledetail",
+      component: ArticleDetail
+    },
+    {
+      name: "MessageBoard",
+      path: "/messageboard",
+      component: MessageBoard
+    },
+    {
+      name: "About",
+      path: "/about",
+      component: About,
     }
   ]
 })
