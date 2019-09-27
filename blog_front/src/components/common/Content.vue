@@ -52,7 +52,7 @@
         name: "Content",
         data() {
             return {
-                value: new Data()
+                // value: new Data()
             }
         }
     }

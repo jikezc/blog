@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa29db98-8be5-4ce7-851b-b3a37818363a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../blog_front/src/components/About.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog_front/src/components/ArticleDetail.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog_front/src/components/MessageBoard.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog_front/src/components/common/Content.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog_front/src/components/common/MessageContent.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/Article.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/Article.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/Footer.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/Header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/routers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/routers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/blogapi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blogapi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/ArticleList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/ArticleList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/Content.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/Content.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/MessageContent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/MessageContent.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -139,7 +129,7 @@
       <workItem from="1567149420939" duration="624000" />
       <workItem from="1569546211578" duration="1088000" />
       <workItem from="1569547326024" duration="619000" />
-      <workItem from="1569551362880" duration="13445000" />
+      <workItem from="1569551362880" duration="13691000" />
     </task>
     <servers />
   </component>

@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <div class="row featurette">
+      <div class="row featurette" @click="go_to_url">
         <div class="col-md-7">
           <h2 class="featurette-heading">Git代码管理
             <!--            <span class="text-muted">It'll blow your mind.</span>-->
@@ -49,9 +49,18 @@
 </template>
 
 <script>
-  export default {
-    name: "ArticleList"
-  }
+    export default {
+        name: "ArticleList",
+        components: {},
+        data() {
+            return {}
+        },
+        methods: {
+            go_to_url() {
+                window.location.href="/articledetail"
+            }
+        }
+    }
 </script>
 
 <style scoped>
