@@ -26,11 +26,13 @@
               <ul class="dropdown-menu">
 
                 <li>
-                  <router-link to="/article">全部文章</router-link>
+                  <router-link to="/article" class="categroy_name">全部文章</router-link>
                 </li>
-                <li><a href="#">Python</a></li>
-                <li><a href="#">Django</a></li>
-                <li><a href="#">Flask</a></li>
+                <li v-for="item in categroy_list">
+                  <a href="javascript:void(0)" class="categroy_name">{{item.name}}</a>
+                </li>
+                <!--                <li><a href="#">Django</a></li>-->
+                <!--                <li><a href="#">Flask</a></li>-->
                 <!--                <li role="separator" class="divider"></li>-->
                 <!--                <li class="dropdown-header">全部文章</li>-->
                 <!--                <li><a href="#">Separated link</a></li>-->
@@ -61,20 +63,27 @@
         data() {
             return {
                 index: 10,
-                visible: false
+                visible: false,
+                categroy_list: [],
             }
         },
         created() {
+            this.$axios.get(this.$settings.Host + "article/categroy/").then(response => {
+                this.categroy_list = response.data
+            }).catch(error => {
+                console.log(error.response)
+            })
         },
         mounted() {
             console.log(this.index)
         },
-        methods: {
-
-        }
+        methods: {}
     }
 </script>
 
 <style scoped>
-
+  .categroy_name {
+    color: #777777;
+    font-size: 15px;
+  }
 </style>

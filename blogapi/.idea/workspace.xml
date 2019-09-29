@@ -2,17 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa29db98-8be5-4ce7-851b-b3a37818363a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/About.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/ArticleList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/ArticleList.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/Content.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/Content.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/MessageContent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/MessageContent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/apps/blog/adminx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/apps/blog/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/apps/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/apps/home/adminx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/apps/home/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/apps/home/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/utils/basemodels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapi/utils/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/Banner.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/Banner.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/src/settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/settings.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapi/settings/dev.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/settings/dev.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapi/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blog@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blog: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blog: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tb_article_categroy: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
@@ -30,17 +80,19 @@
   <component name="ProjectId" id="1ROlpkNdvOhOpSzlIgo7095ZwmK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blogapi/apps/blog" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/blogapi/settings" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blogapi/apps/blog" />
+      <recent name="$PROJECT_DIR$/blogapi/settings" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -56,6 +108,28 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.manage">
+    <configuration name="dev" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="blogapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blogapi/settings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blogapi/settings/dev.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="blogapi" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,7 +144,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
-      <option name="PARAMETERS" value="runserver" />
+      <option name="PARAMETERS" value="runserver api.cgtblog.com:8000" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -104,12 +178,29 @@
     <list>
       <item itemvalue="Django server.blogapi" />
       <item itemvalue="Python.manage" />
+      <item itemvalue="Python.dev" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.manage" />
+        <item itemvalue="Python.dev" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@7d25b29b" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -130,6 +221,7 @@
       <workItem from="1569546211578" duration="1088000" />
       <workItem from="1569547326024" duration="619000" />
       <workItem from="1569551362880" duration="13691000" />
+      <workItem from="1569634399625" duration="25954000" />
     </task>
     <servers />
   </component>
@@ -150,6 +242,7 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/blogapi$manage.coverage" NAME="manage Coverage Results" MODIFIED="1569566697861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/blogapi$dev.coverage" NAME="dev Coverage Results" MODIFIED="1569671018684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blogapi/settings" />
+    <SUITE FILE_PATH="coverage/blogapi$manage.coverage" NAME="manage Coverage Results" MODIFIED="1569730404982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

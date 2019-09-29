@@ -2,9 +2,9 @@
   <div class="container">
     <div id="target"></div>
     <div class="carousel-picture">
-      <el-carousel :interval="5000" arrow="always" height="600px">
-        <el-carousel-item v-for="item in 4" :key="item">
-          <img src="../../../static/image/carousel1.jpg" alt="" width="100%">
+      <el-carousel :interval="2000" arrow="always" height="600px">
+        <el-carousel-item v-for="item in slideshow_list">
+          <img :src="item.image" alt="" width="100%">
         </el-carousel-item>
       </el-carousel>
     </div>
@@ -70,73 +70,80 @@
 </template>
 
 <script>
-  export default {
-    name: "Banner",
-    data() {
-      return {}
-    },
-    mounted(){
-      window.addEventListener('scroll', this.scrollToTop)
-    },
-    methods: {
-      // back_top() {
-      //   target.scrollIntoView();
-      // },
-      scrollToTop(el) {
-        let topBtn = document.getElementById('to-top-btn');
-        let scrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop;
-        let browserHeight = 400;
-        if (scrollTop > browserHeight) {
-          topBtn.style.display = 'block';
-        } else {
-          topBtn.style.display = 'none';
-        }
-      },
-      back_top() {
-        let scroll_top = 0;
-        if (document.documentElement && document.documentElement.scrollTop) {
-          scroll_top = document.documentElement.scrollTop;
-        } else if (document.body) {
-          scroll_top = document.body.scrollTop;
-        }
-        if (scroll_top > 0) {
-          let timer = setInterval(function () {
-            scroll_top -= 100;
-            console.log(scroll_top);
-            window.scroll(0,scroll_top);
-            if (scroll_top<0){
-              clearInterval(timer);
+    export default {
+        name: "Banner",
+        data() {
+            return {
+                slideshow_list: [],
             }
-          }, 10);
+        },
+        created() {
+            this.$axios.get(this.$settings.Host + "slideshow/").then(response => {
+                this.slideshow_list = response.data;
+            }).catch(error => {
+                console.log(error.response);
+            })
+        },
+        mounted() {
+            window.addEventListener('scroll', this.scrollToTop)
+        },
+        methods: {
+            // back_top() {
+            //   target.scrollIntoView();
+            // },
+            scrollToTop(el) {
+                let topBtn = document.getElementById('to-top-btn');
+                let scrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop;
+                let browserHeight = 400;
+                if (scrollTop > browserHeight) {
+                    topBtn.style.display = 'block';
+                } else {
+                    topBtn.style.display = 'none';
+                }
+            },
+            back_top() {
+                let scroll_top = 0;
+                if (document.documentElement && document.documentElement.scrollTop) {
+                    scroll_top = document.documentElement.scrollTop;
+                } else if (document.body) {
+                    scroll_top = document.body.scrollTop;
+                }
+                if (scroll_top > 0) {
+                    let timer = setInterval(function () {
+                        scroll_top -= 100;
+                        window.scroll(0, scroll_top);
+                        if (scroll_top < 0) {
+                            clearInterval(timer);
+                        }
+                    }, 10);
+                }
+
+            },
+            go_content() {
+                let scroll_now = 0;
+                let timer = setInterval(function () {
+                    scroll_now += 10;
+                    window.scroll(0, scroll_now);
+                    if (scroll_now >= 900) {
+                        clearInterval(timer);
+                    }
+
+                })
+
+            }
+            // 获取导航条高度
+            // get_scrollTop() {
+            //   var scroll_top = 0;
+            //   if (document.documentElement && document.documentElement.scrollTop) {
+            //     scroll_top = document.documentElement.scrollTop;
+            //   } else if (document.body) {
+            //     scroll_top = document.body.scrollTop;
+            //   }
+            //   console.log(scroll_top);
+            //   return scroll_top;
+            // }
         }
-
-      },
-      go_content(){
-        let scroll_now = 0;
-        let timer = setInterval(function(){
-          scroll_now += 10;
-          console.log(scroll_now);
-          window.scroll(0,scroll_now);
-          if (scroll_now >= 900){
-            clearInterval(timer);
-          }
-
-        })
-
-      }
-      // 获取导航条高度
-      // get_scrollTop() {
-      //   var scroll_top = 0;
-      //   if (document.documentElement && document.documentElement.scrollTop) {
-      //     scroll_top = document.documentElement.scrollTop;
-      //   } else if (document.body) {
-      //     scroll_top = document.body.scrollTop;
-      //   }
-      //   console.log(scroll_top);
-      //   return scroll_top;
-      // }
     }
-  }
 </script>
 
 <style scoped>

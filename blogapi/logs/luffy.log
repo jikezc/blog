@@ -1,0 +1,680 @@
+INFO 2019-09-28 12:57:47,964 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-28 12:58:13,513 autoreload 597 Watching for file changes with StatReloader
+WARNING 2019-09-28 12:58:20,815 log 228 Not Found: /
+WARNING 2019-09-28 12:58:20,816 basehttp 154 "GET / HTTP/1.1" 404 2097
+INFO 2019-09-28 12:58:38,765 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 5252
+INFO 2019-09-28 12:58:38,790 basehttp 154 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2019-09-28 12:58:38,818 basehttp 154 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2019-09-28 12:58:38,820 basehttp 154 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2019-09-28 12:58:38,825 basehttp 154 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2019-09-28 12:58:38,827 basehttp 154 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2019-09-28 12:58:38,841 basehttp 154 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2019-09-28 12:58:38,843 basehttp 154 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+INFO 2019-09-28 12:58:38,845 basehttp 154 "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 200 88145
+INFO 2019-09-28 12:58:38,846 basehttp 154 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37608
+INFO 2019-09-28 12:58:38,848 basehttp 154 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2019-09-28 12:58:38,866 basehttp 154 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2019-09-28 12:58:45,371 basehttp 154 "GET /slideshow HTTP/1.1" 301 0
+INFO 2019-09-28 12:58:45,398 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 5252
+INFO 2019-09-28 13:02:22,552 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/settings/dev.py changed, reloading.
+INFO 2019-09-28 21:02:22,953 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-28 21:02:39,273 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/settings/dev.py changed, reloading.
+INFO 2019-09-28 21:02:40,091 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-28 21:04:33,199 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/urls.py changed, reloading.
+INFO 2019-09-28 21:04:34,500 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-28 21:06:27,449 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/urls.py changed, reloading.
+INFO 2019-09-28 21:06:28,499 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-28 21:15:13,022 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-28 21:15:24,452 basehttp 154 "GET /xadmin HTTP/1.1" 301 0
+INFO 2019-09-28 21:15:24,547 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 4354
+INFO 2019-09-28 21:15:24,627 basehttp 154 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+INFO 2019-09-28 21:15:24,642 basehttp 154 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8376
+INFO 2019-09-28 21:15:24,650 basehttp 154 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+INFO 2019-09-28 21:15:24,655 basehttp 154 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+INFO 2019-09-28 21:15:24,657 basehttp 154 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+INFO 2019-09-28 21:15:24,676 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4361
+INFO 2019-09-28 21:15:24,679 basehttp 154 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+INFO 2019-09-28 21:15:24,684 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+INFO 2019-09-28 21:15:24,686 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+INFO 2019-09-28 21:15:24,687 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+INFO 2019-09-28 21:15:24,687 basehttp 154 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240196
+INFO 2019-09-28 21:15:24,702 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+INFO 2019-09-28 21:15:24,720 basehttp 154 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+INFO 2019-09-28 21:15:24,724 basehttp 154 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+INFO 2019-09-28 21:15:24,728 basehttp 154 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4165
+INFO 2019-09-28 21:15:24,733 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+INFO 2019-09-28 21:15:24,739 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+INFO 2019-09-28 21:15:24,807 basehttp 154 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+INFO 2019-09-28 21:15:32,114 basehttp 154 "POST /xadmin/ HTTP/1.1" 200 4591
+INFO 2019-09-28 21:15:32,145 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4361
+INFO 2019-09-28 21:15:51,398 basehttp 154 "POST /xadmin/ HTTP/1.1" 302 0
+INFO 2019-09-28 21:15:55,667 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 14361
+INFO 2019-09-28 21:15:55,744 basehttp 154 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 200 790
+INFO 2019-09-28 21:15:55,746 basehttp 154 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 200 3208
+INFO 2019-09-28 21:15:55,749 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 200 1000
+INFO 2019-09-28 21:15:55,760 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+ERROR 2019-09-28 21:15:59,359 log 228 Internal Server Error: /xadmin/home/slideshow/
+Traceback (most recent call last):
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/db/models/options.py", line 565, in get_field
+    return self.fields_map[field_name]
+KeyError: 'orders'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/contrib/admin/utils.py", line 316, in label_for_field
+    field = _get_non_gfk_field(model._meta, name)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/contrib/admin/utils.py", line 293, in _get_non_gfk_field
+    field = opts.get_field(name)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/db/models/options.py", line 567, in get_field
+    raise FieldDoesNotExist("%s has no field named '%s'" % (self.object_name, field_name))
+django.core.exceptions.FieldDoesNotExist: Slideshow has no field named 'orders'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/utils/decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/list.py", line 405, in get
+    context = self.get_context()
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  [Previous line repeated 2 more times]
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  [Previous line repeated 2 more times]
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/list.py", line 384, in get_context
+    'result_headers': self.result_headers(),
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/list.py", line 524, in result_headers
+    field_name, row) for field_name in self.list_display]
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/list.py", line 524, in <listcomp>
+    field_name, row) for field_name in self.list_display]
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 49, in filter_chain
+    return func()
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/views/list.py", line 441, in result_header
+    return_attr=True
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/contrib/admin/utils.py", line 341, in label_for_field
+    raise AttributeError(message)
+AttributeError: Unable to lookup 'orders' on Slideshow or homeslideshowAdminListAdminViewModelAdminViewGlobalSettingsCommAdminViewBaseSettingBaseAdminViewBaseAdminObjectViewobject
+ERROR 2019-09-28 21:15:59,361 basehttp 154 "GET /xadmin/home/slideshow/ HTTP/1.1" 500 263513
+INFO 2019-09-28 21:17:26,432 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/home/adminx.py changed, reloading.
+INFO 2019-09-28 21:17:27,351 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-28 21:17:37,922 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-28 21:17:42,124 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 14361
+INFO 2019-09-28 21:17:42,169 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-28 21:17:45,956 basehttp 154 "GET /xadmin/home/slideshow/ HTTP/1.1" 200 24023
+INFO 2019-09-28 21:17:46,010 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 200 2319
+INFO 2019-09-28 21:17:46,022 basehttp 154 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 200 3763
+INFO 2019-09-28 21:17:46,027 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 200 1990
+INFO 2019-09-28 21:17:46,029 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 200 529
+INFO 2019-09-28 21:17:46,030 basehttp 154 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 200 1105
+INFO 2019-09-28 21:17:46,038 basehttp 154 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 200 1948
+INFO 2019-09-28 21:17:46,046 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-28 21:17:48,445 basehttp 154 "GET /xadmin/home/slideshow/add/ HTTP/1.1" 200 19660
+INFO 2019-09-28 21:17:48,492 basehttp 154 "GET /static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js HTTP/1.1" 200 15611
+INFO 2019-09-28 21:17:48,493 basehttp 154 "GET /static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css HTTP/1.1" 200 3339
+INFO 2019-09-28 21:17:48,494 basehttp 154 "GET /static/xadmin/vendor/load-image/load-image.js HTTP/1.1" 200 8309
+INFO 2019-09-28 21:17:48,503 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-28 21:24:10,650 basehttp 154 "POST /xadmin/home/slideshow/add/ HTTP/1.1" 302 0
+INFO 2019-09-28 21:24:10,731 basehttp 154 "GET /xadmin/home/slideshow/ HTTP/1.1" 200 28044
+INFO 2019-09-28 21:24:10,795 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 200 4198
+INFO 2019-09-28 21:24:10,805 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+ERROR 2019-09-28 21:24:17,096 log 228 Internal Server Error: /slideshow/
+Traceback (most recent call last):
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 757, in data
+    ret = super().data
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 675, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 511, in to_representation
+    for field in fields:
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 372, in _readable_fields
+    for field in self.fields.values():
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/utils/functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 360, in fields
+    for key, value in self.get_fields().items():
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 1022, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 1099, in get_field_names
+    serializer_class=self.__class__.__name__
+AssertionError: ("Creating a ModelSerializer without either the 'fields' attribute or the 'exclude' attribute has been deprecated since 3.3.0, and is now disallowed. Add an explicit fields = '__all__' to the SlideshowModelSerializer serializer.",)
+ERROR 2019-09-28 21:24:17,099 basehttp 154 "GET /slideshow/ HTTP/1.1" 500 149100
+WARNING 2019-09-28 21:24:24,537 log 228 Not Found: /
+WARNING 2019-09-28 21:24:24,538 basehttp 154 "GET / HTTP/1.1" 404 2204
+ERROR 2019-09-28 21:24:32,977 log 228 Internal Server Error: /slideshow/
+Traceback (most recent call last):
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 757, in data
+    ret = super().data
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 675, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 511, in to_representation
+    for field in fields:
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 372, in _readable_fields
+    for field in self.fields.values():
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/utils/functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 360, in fields
+    for key, value in self.get_fields().items():
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 1022, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 1099, in get_field_names
+    serializer_class=self.__class__.__name__
+AssertionError: ("Creating a ModelSerializer without either the 'fields' attribute or the 'exclude' attribute has been deprecated since 3.3.0, and is now disallowed. Add an explicit fields = '__all__' to the SlideshowModelSerializer serializer.",)
+ERROR 2019-09-28 21:24:32,978 basehttp 154 "GET /slideshow/ HTTP/1.1" 500 149100
+INFO 2019-09-28 21:25:42,925 autoreload 597 Watching for file changes with StatReloader
+ERROR 2019-09-28 21:25:46,132 log 228 Internal Server Error: /slideshow/
+Traceback (most recent call last):
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 757, in data
+    ret = super().data
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 675, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 511, in to_representation
+    for field in fields:
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 372, in _readable_fields
+    for field in self.fields.values():
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/utils/functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 360, in fields
+    for key, value in self.get_fields().items():
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 1022, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 1099, in get_field_names
+    serializer_class=self.__class__.__name__
+AssertionError: ("Creating a ModelSerializer without either the 'fields' attribute or the 'exclude' attribute has been deprecated since 3.3.0, and is now disallowed. Add an explicit fields = '__all__' to the SlideshowModelSerializer serializer.",)
+ERROR 2019-09-28 21:25:46,133 basehttp 154 "GET /slideshow/ HTTP/1.1" 500 149235
+INFO 2019-09-28 21:27:35,691 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/home/serializers.py changed, reloading.
+INFO 2019-09-28 21:27:36,515 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-28 21:27:36,828 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 5560
+INFO 2019-09-28 21:27:36,850 basehttp 154 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2019-09-28 21:27:36,872 basehttp 154 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2019-09-28 21:27:36,880 basehttp 154 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2019-09-28 21:27:36,884 basehttp 154 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2019-09-28 21:27:36,898 basehttp 154 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2019-09-28 21:27:36,903 basehttp 154 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2019-09-28 21:27:36,904 basehttp 154 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2019-09-28 21:27:36,910 basehttp 154 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2019-09-28 21:27:36,912 basehttp 154 "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 304 0
+INFO 2019-09-28 21:27:36,923 basehttp 154 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2019-09-28 21:27:36,927 basehttp 154 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2019-09-28 21:35:36,951 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-28 21:36:49,600 basehttp 154 "GET /media/slideshow/2.jpg HTTP/1.1" 200 26034
+INFO 2019-09-28 21:40:51,270 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 5560
+INFO 2019-09-28 21:40:51,285 basehttp 154 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2019-09-28 21:40:51,291 basehttp 154 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2019-09-28 21:40:51,297 basehttp 154 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2019-09-28 21:40:51,303 basehttp 154 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2019-09-28 21:40:51,304 basehttp 154 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2019-09-28 21:40:51,307 basehttp 154 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2019-09-28 21:40:51,314 basehttp 154 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2019-09-28 21:40:51,314 basehttp 154 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2019-09-28 21:40:51,314 basehttp 154 "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 304 0
+INFO 2019-09-28 21:40:51,318 basehttp 154 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2019-09-28 21:40:51,392 basehttp 154 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2019-09-28 21:45:08,431 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 80
+INFO 2019-09-28 21:49:06,418 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/settings/dev.py changed, reloading.
+INFO 2019-09-28 21:49:08,439 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-28 21:52:35,733 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/settings/dev.py changed, reloading.
+INFO 2019-09-28 21:52:36,446 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-29 09:11:44,173 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-29 09:26:46,065 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-29 09:28:41,327 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-29 09:30:21,791 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-29 09:33:43,206 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-29 09:35:00,608 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-29 09:36:11,376 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-29 09:38:12,032 autoreload 597 Watching for file changes with StatReloader
+WARNING 2019-09-29 09:38:25,160 log 228 Not Found: /
+WARNING 2019-09-29 09:38:25,161 basehttp 154 "GET / HTTP/1.1" 404 2210
+WARNING 2019-09-29 09:38:25,296 log 228 Not Found: /favicon.ico
+WARNING 2019-09-29 09:38:25,301 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2261
+INFO 2019-09-29 09:38:38,391 basehttp 154 "GET /slideshow HTTP/1.1" 301 0
+INFO 2019-09-29 09:38:38,477 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 5536
+INFO 2019-09-29 09:38:38,543 basehttp 154 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2019-09-29 09:38:38,576 basehttp 154 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2019-09-29 09:38:38,581 basehttp 154 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2019-09-29 09:38:38,581 basehttp 154 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+INFO 2019-09-29 09:38:38,584 basehttp 154 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2019-09-29 09:38:38,585 basehttp 154 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2019-09-29 09:38:38,589 basehttp 154 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37608
+INFO 2019-09-29 09:38:38,589 basehttp 154 "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 200 88145
+INFO 2019-09-29 09:38:38,600 basehttp 154 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2019-09-29 09:38:38,601 basehttp 154 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2019-09-29 09:38:38,613 basehttp 154 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2019-09-29 09:42:23,043 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 86
+INFO 2019-09-29 09:42:39,896 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 86
+INFO 2019-09-29 09:42:49,870 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 5536
+INFO 2019-09-29 09:43:07,896 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 86
+INFO 2019-09-29 09:44:02,458 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 5536
+INFO 2019-09-29 09:44:47,470 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-29 09:45:29,214 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 86
+INFO 2019-09-29 09:45:33,981 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 86
+INFO 2019-09-29 09:48:34,745 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/settings/dev.py changed, reloading.
+INFO 2019-09-29 09:48:35,682 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-29 09:50:32,679 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-29 09:52:48,672 autoreload 597 Watching for file changes with StatReloader
+WARNING 2019-09-29 09:54:20,327 log 228 Not Found: /
+WARNING 2019-09-29 09:54:20,329 basehttp 154 "GET / HTTP/1.1" 404 2210
+WARNING 2019-09-29 09:54:29,391 log 228 Not Found: /sildeshow
+WARNING 2019-09-29 09:54:29,392 basehttp 154 "GET /sildeshow HTTP/1.1" 404 2255
+WARNING 2019-09-29 09:54:35,876 log 228 Not Found: /sildeshow/
+WARNING 2019-09-29 09:54:35,877 basehttp 154 "GET /sildeshow/ HTTP/1.1" 404 2258
+INFO 2019-09-29 09:54:52,400 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 5536
+INFO 2019-09-29 09:56:58,291 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 86
+INFO 2019-09-29 10:02:41,294 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 86
+INFO 2019-09-29 10:03:45,322 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 5536
+INFO 2019-09-29 10:03:47,650 basehttp 154 "GET /media/slideshow/2.jpg HTTP/1.1" 200 26034
+INFO 2019-09-29 10:06:25,826 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 86
+INFO 2019-09-29 10:08:07,327 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 86
+INFO 2019-09-29 10:10:45,301 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 86
+INFO 2019-09-29 10:15:15,031 basehttp 154 "GET /xadmin HTTP/1.1" 301 0
+INFO 2019-09-29 10:15:15,206 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 4354
+INFO 2019-09-29 10:15:15,335 basehttp 154 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+INFO 2019-09-29 10:15:15,341 basehttp 154 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+INFO 2019-09-29 10:15:15,346 basehttp 154 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+INFO 2019-09-29 10:15:15,347 basehttp 154 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+INFO 2019-09-29 10:15:15,348 basehttp 154 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+INFO 2019-09-29 10:15:15,349 basehttp 154 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8376
+INFO 2019-09-29 10:15:15,365 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+INFO 2019-09-29 10:15:15,370 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+INFO 2019-09-29 10:15:15,372 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+INFO 2019-09-29 10:15:15,402 basehttp 154 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240196
+INFO 2019-09-29 10:15:15,403 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+INFO 2019-09-29 10:15:15,405 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4361
+INFO 2019-09-29 10:15:15,420 basehttp 154 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+INFO 2019-09-29 10:15:15,426 basehttp 154 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+INFO 2019-09-29 10:15:15,428 basehttp 154 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4165
+INFO 2019-09-29 10:15:15,440 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+INFO 2019-09-29 10:15:15,444 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+INFO 2019-09-29 10:15:15,567 basehttp 154 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+INFO 2019-09-29 10:15:20,998 basehttp 154 "POST /xadmin/ HTTP/1.1" 302 0
+INFO 2019-09-29 10:15:22,185 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 14361
+INFO 2019-09-29 10:15:22,259 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 200 1000
+INFO 2019-09-29 10:15:22,263 basehttp 154 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 200 3208
+INFO 2019-09-29 10:15:22,264 basehttp 154 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 200 790
+INFO 2019-09-29 10:15:22,278 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 10:15:29,454 basehttp 154 "GET /xadmin/home/slideshow/ HTTP/1.1" 200 27745
+INFO 2019-09-29 10:15:29,500 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 200 529
+INFO 2019-09-29 10:15:29,505 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 200 4198
+INFO 2019-09-29 10:15:29,523 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 200 2319
+INFO 2019-09-29 10:15:29,526 basehttp 154 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 200 3763
+INFO 2019-09-29 10:15:29,528 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 200 1990
+INFO 2019-09-29 10:15:29,530 basehttp 154 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 200 1105
+INFO 2019-09-29 10:15:29,535 basehttp 154 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 200 1948
+INFO 2019-09-29 10:15:29,542 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 10:15:32,567 basehttp 154 "GET /xadmin/home/slideshow/1/update/ HTTP/1.1" 200 20161
+INFO 2019-09-29 10:15:32,604 basehttp 154 "GET /static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css HTTP/1.1" 200 3339
+INFO 2019-09-29 10:15:32,609 basehttp 154 "GET /static/xadmin/vendor/load-image/load-image.js HTTP/1.1" 200 8309
+INFO 2019-09-29 10:15:32,618 basehttp 154 "GET /static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js HTTP/1.1" 200 15611
+INFO 2019-09-29 10:15:32,636 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 10:15:49,515 basehttp 154 "POST /xadmin/home/slideshow/1/update/ HTTP/1.1" 302 0
+INFO 2019-09-29 10:15:49,620 basehttp 154 "GET /xadmin/home/slideshow/ HTTP/1.1" 200 27976
+INFO 2019-09-29 10:15:49,710 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 10:15:52,785 basehttp 154 "GET /xadmin/home/slideshow/add/ HTTP/1.1" 200 19660
+INFO 2019-09-29 10:15:52,820 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 10:16:25,922 basehttp 154 "POST /xadmin/home/slideshow/add/ HTTP/1.1" 302 0
+INFO 2019-09-29 10:16:26,122 basehttp 154 "GET /xadmin/home/slideshow/ HTTP/1.1" 200 28631
+INFO 2019-09-29 10:16:26,212 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 10:16:31,765 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 176
+INFO 2019-09-29 10:16:32,080 basehttp 154 "GET /media/slideshow/carousel1.jpg HTTP/1.1" 200 68645
+INFO 2019-09-29 10:19:50,891 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 176
+INFO 2019-09-29 10:19:50,957 basehttp 154 "GET /media/slideshow/carousel1.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:20:30,039 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 176
+INFO 2019-09-29 10:20:30,109 basehttp 154 "GET /media/slideshow/carousel1.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:24:58,377 basehttp 154 "GET /xadmin/home/slideshow/add/ HTTP/1.1" 200 19660
+INFO 2019-09-29 10:24:58,434 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 10:25:17,585 basehttp 154 "POST /xadmin/home/slideshow/add/ HTTP/1.1" 302 0
+INFO 2019-09-29 10:25:17,700 basehttp 154 "GET /xadmin/home/slideshow/ HTTP/1.1" 200 29220
+INFO 2019-09-29 10:25:17,798 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 10:25:20,114 basehttp 154 "GET /xadmin/home/slideshow/add/ HTTP/1.1" 200 19660
+INFO 2019-09-29 10:25:20,159 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 10:25:34,184 basehttp 154 "POST /xadmin/home/slideshow/add/ HTTP/1.1" 302 0
+INFO 2019-09-29 10:25:34,312 basehttp 154 "GET /xadmin/home/slideshow/ HTTP/1.1" 200 29809
+INFO 2019-09-29 10:25:34,390 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 10:25:37,980 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:25:38,062 basehttp 154 "GET /media/slideshow/carousel1.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:25:38,095 basehttp 154 "GET /media/slideshow/carousel4.jpg HTTP/1.1" 200 71032
+INFO 2019-09-29 10:25:38,097 basehttp 154 "GET /media/slideshow/carousel3.jpg HTTP/1.1" 200 65613
+INFO 2019-09-29 10:26:21,077 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:26:21,392 basehttp 154 "GET /media/slideshow/carousel3.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:26:21,394 basehttp 154 "GET /media/slideshow/carousel4.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:26:33,497 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:26:33,590 basehttp 154 "GET /media/slideshow/carousel1.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:26:33,594 basehttp 154 "GET /media/slideshow/carousel3.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:26:33,594 basehttp 154 "GET /media/slideshow/carousel4.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:26:39,565 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:26:39,760 basehttp 154 "GET /media/slideshow/carousel4.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:26:48,714 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:26:48,904 basehttp 154 "GET /media/slideshow/carousel4.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:26:48,907 basehttp 154 "GET /media/slideshow/carousel3.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:27:02,020 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:27:02,113 basehttp 154 "GET /media/slideshow/carousel3.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:27:02,114 basehttp 154 "GET /media/slideshow/carousel4.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:27:04,285 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:27:31,385 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:27:31,438 basehttp 154 "GET /media/slideshow/carousel3.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:27:31,444 basehttp 154 "GET /media/slideshow/carousel4.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:28:29,212 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:28:29,265 basehttp 154 "GET /media/slideshow/carousel3.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:28:29,270 basehttp 154 "GET /media/slideshow/carousel1.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:28:29,273 basehttp 154 "GET /media/slideshow/carousel4.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:28:46,257 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:28:48,447 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:28:48,520 basehttp 154 "GET /media/slideshow/carousel3.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:28:48,527 basehttp 154 "GET /media/slideshow/carousel4.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:29:21,147 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:29:21,193 basehttp 154 "GET /media/slideshow/carousel3.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:29:21,195 basehttp 154 "GET /media/slideshow/carousel4.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:29:22,447 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:29:22,980 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:42:05,980 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/home/models.py changed, reloading.
+INFO 2019-09-29 10:42:07,957 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-29 10:51:15,411 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:51:15,660 basehttp 154 "GET /media/slideshow/carousel4.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:51:15,670 basehttp 154 "GET /media/slideshow/carousel1.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:51:15,676 basehttp 154 "GET /media/slideshow/carousel3.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 10:51:17,861 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:51:27,088 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:52:12,044 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:52:17,032 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:52:23,556 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:52:34,892 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 340
+INFO 2019-09-29 10:56:35,081 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/home/models.py changed, reloading.
+INFO 2019-09-29 10:56:37,165 autoreload 597 Watching for file changes with StatReloader
+ERROR 2019-09-29 10:56:44,023 exceptions 25 [<home.views.SlideshowListAPIView object at 0x7ff549d1e6d8>] (1054, "Unknown column 'blog_slideshow.create_time' in 'field list'")
+ERROR 2019-09-29 10:56:44,032 log 228 Insufficient Storage: /slideshow/
+ERROR 2019-09-29 10:56:44,037 basehttp 154 "GET /slideshow/ HTTP/1.1" 507 35
+INFO 2019-09-29 11:13:18,507 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/home/models.py changed, reloading.
+INFO 2019-09-29 11:13:21,714 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-29 11:30:46,677 autoreload 597 Watching for file changes with StatReloader
+ERROR 2019-09-29 11:30:56,454 exceptions 25 [<home.views.SlideshowListAPIView object at 0x7f7af9271940>] (1054, "Unknown column 'blog_slideshow.create_time' in 'field list'")
+ERROR 2019-09-29 11:30:56,476 log 228 Insufficient Storage: /slideshow/
+ERROR 2019-09-29 11:30:56,477 basehttp 154 "GET /slideshow/ HTTP/1.1" 507 35
+INFO 2019-09-29 11:34:41,372 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/utils/basemodels.py changed, reloading.
+INFO 2019-09-29 11:34:42,855 autoreload 597 Watching for file changes with StatReloader
+ERROR 2019-09-29 11:45:04,323 exceptions 25 [<home.views.SlideshowListAPIView object at 0x7f77b798c668>] (1146, "Table 'blog.blog_slideshow' doesn't exist")
+ERROR 2019-09-29 11:45:04,339 log 228 Insufficient Storage: /slideshow/
+ERROR 2019-09-29 11:45:04,340 basehttp 154 "GET /slideshow/ HTTP/1.1" 507 35
+INFO 2019-09-29 11:47:28,348 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/home/migrations/0001_initial.py changed, reloading.
+INFO 2019-09-29 11:47:29,242 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-29 11:48:24,300 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 4354
+INFO 2019-09-29 11:48:24,377 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4361
+INFO 2019-09-29 11:48:28,224 basehttp 154 "POST /xadmin/ HTTP/1.1" 302 0
+INFO 2019-09-29 11:48:31,226 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 15973
+INFO 2019-09-29 11:48:31,319 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:48:34,595 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 26110
+INFO 2019-09-29 11:48:34,655 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:48:36,881 basehttp 154 "GET /xadmin/blog/articlecategroy/ HTTP/1.1" 200 25521
+INFO 2019-09-29 11:48:36,927 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:48:38,294 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 26110
+INFO 2019-09-29 11:48:38,336 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:48:40,989 basehttp 154 "GET /xadmin/home/slideshow/ HTTP/1.1" 200 25913
+INFO 2019-09-29 11:48:41,030 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:48:43,331 basehttp 154 "GET /xadmin/home/slideshow/add/ HTTP/1.1" 200 21225
+INFO 2019-09-29 11:48:43,395 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:50:07,562 basehttp 154 "POST /xadmin/home/slideshow/add/ HTTP/1.1" 302 0
+INFO 2019-09-29 11:50:07,726 basehttp 154 "GET /xadmin/home/slideshow/add/ HTTP/1.1" 200 21571
+INFO 2019-09-29 11:50:07,831 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:50:24,404 basehttp 154 "POST /xadmin/home/slideshow/add/ HTTP/1.1" 302 0
+INFO 2019-09-29 11:50:24,539 basehttp 154 "GET /xadmin/home/slideshow/add/ HTTP/1.1" 200 21571
+INFO 2019-09-29 11:50:24,636 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:50:35,931 basehttp 154 "POST /xadmin/home/slideshow/add/ HTTP/1.1" 302 0
+INFO 2019-09-29 11:50:36,094 basehttp 154 "GET /xadmin/home/slideshow/add/ HTTP/1.1" 200 21571
+INFO 2019-09-29 11:50:36,189 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:50:47,683 basehttp 154 "POST /xadmin/home/slideshow/add/ HTTP/1.1" 302 0
+INFO 2019-09-29 11:50:47,852 basehttp 154 "GET /xadmin/home/slideshow/ HTTP/1.1" 200 31699
+INFO 2019-09-29 11:50:47,947 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:50:51,901 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 353
+INFO 2019-09-29 11:50:52,145 basehttp 154 "GET /media/slideshow/carousel2.jpg HTTP/1.1" 200 26034
+INFO 2019-09-29 11:50:52,149 basehttp 154 "GET /media/slideshow/carousel1_11tJn8N.jpg HTTP/1.1" 200 68645
+INFO 2019-09-29 11:50:52,150 basehttp 154 "GET /media/slideshow/carousel3_9vWAyAB.jpg HTTP/1.1" 200 65613
+INFO 2019-09-29 11:50:52,151 basehttp 154 "GET /media/slideshow/carousel4_CtSqEeE.jpg HTTP/1.1" 200 71032
+INFO 2019-09-29 11:51:24,304 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 26110
+INFO 2019-09-29 11:51:24,340 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:51:25,001 basehttp 154 "GET /xadmin/blog/articlecategroy/ HTTP/1.1" 200 25521
+INFO 2019-09-29 11:51:25,040 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:51:26,545 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 26110
+INFO 2019-09-29 11:51:26,591 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:51:27,280 basehttp 154 "GET /xadmin/blog/articlecategroy/ HTTP/1.1" 200 25521
+INFO 2019-09-29 11:51:27,319 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:51:28,058 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 26110
+INFO 2019-09-29 11:51:28,110 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:51:29,571 basehttp 154 "GET /xadmin/blog/articlecategroy/ HTTP/1.1" 200 25521
+INFO 2019-09-29 11:51:29,607 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:51:30,880 basehttp 154 "GET /xadmin/blog/articlecategroy/add/ HTTP/1.1" 200 18702
+INFO 2019-09-29 11:51:30,928 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:51:42,045 basehttp 154 "POST /xadmin/blog/articlecategroy/add/ HTTP/1.1" 302 0
+INFO 2019-09-29 11:51:42,166 basehttp 154 "GET /xadmin/blog/articlecategroy/add/ HTTP/1.1" 200 19063
+INFO 2019-09-29 11:51:42,263 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:51:54,822 basehttp 154 "POST /xadmin/blog/articlecategroy/add/ HTTP/1.1" 302 0
+INFO 2019-09-29 11:51:54,974 basehttp 154 "GET /xadmin/blog/articlecategroy/add/ HTTP/1.1" 200 19063
+INFO 2019-09-29 11:51:55,060 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:52:32,556 basehttp 154 "POST /xadmin/blog/articlecategroy/add/ HTTP/1.1" 302 0
+INFO 2019-09-29 11:52:32,701 basehttp 154 "GET /xadmin/blog/articlecategroy/add/ HTTP/1.1" 200 19069
+INFO 2019-09-29 11:52:32,780 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:52:41,872 basehttp 154 "POST /xadmin/blog/articlecategroy/add/ HTTP/1.1" 302 0
+INFO 2019-09-29 11:52:42,051 basehttp 154 "GET /xadmin/blog/articlecategroy/add/ HTTP/1.1" 200 19068
+INFO 2019-09-29 11:52:42,137 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:52:52,376 basehttp 154 "POST /xadmin/blog/articlecategroy/add/ HTTP/1.1" 302 0
+INFO 2019-09-29 11:52:52,475 basehttp 154 "GET /xadmin/blog/articlecategroy/add/ HTTP/1.1" 200 19068
+INFO 2019-09-29 11:52:52,567 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 11:53:00,749 basehttp 154 "POST /xadmin/blog/articlecategroy/add/ HTTP/1.1" 302 0
+INFO 2019-09-29 11:53:00,877 basehttp 154 "GET /xadmin/blog/articlecategroy/ HTTP/1.1" 200 33280
+INFO 2019-09-29 11:53:00,930 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-09-29 12:09:52,680 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/urls.py changed, reloading.
+INFO 2019-09-29 12:09:54,780 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-29 12:11:23,558 autoreload 597 Watching for file changes with StatReloader
+WARNING 2019-09-29 12:11:27,203 log 228 Not Found: /
+WARNING 2019-09-29 12:11:27,204 basehttp 154 "GET / HTTP/1.1" 404 2318
+WARNING 2019-09-29 12:11:46,836 log 228 Not Found: /aritcle
+WARNING 2019-09-29 12:11:46,837 basehttp 154 "GET /aritcle HTTP/1.1" 404 2357
+WARNING 2019-09-29 12:11:59,165 log 228 Not Found: /article/
+WARNING 2019-09-29 12:11:59,167 basehttp 154 "GET /article/ HTTP/1.1" 404 2416
+WARNING 2019-09-29 12:12:05,691 log 228 Not Found: /article/category/
+WARNING 2019-09-29 12:12:05,692 basehttp 154 "GET /article/category/ HTTP/1.1" 404 2443
+ERROR 2019-09-29 12:12:15,358 log 228 Internal Server Error: /article/categroy/
+Traceback (most recent call last):
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 757, in data
+    ret = super().data
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 675, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 511, in to_representation
+    for field in fields:
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 372, in _readable_fields
+    for field in self.fields.values():
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/utils/functional.py", line 80, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 360, in fields
+    for key, value in self.get_fields().items():
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/rest_framework/serializers.py", line 1004, in get_fields
+    serializer_class=self.__class__.__name__
+AssertionError: Class ArticleCategroyModelSerializer missing "Meta.model" attribute
+ERROR 2019-09-29 12:12:15,360 basehttp 154 "GET /article/categroy/ HTTP/1.1" 500 138850
+INFO 2019-09-29 12:13:26,438 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-29 12:13:29,357 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 5884
+INFO 2019-09-29 12:13:29,427 basehttp 154 "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 304 0
+INFO 2019-09-29 12:13:29,428 basehttp 154 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2019-09-29 12:13:29,429 basehttp 154 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2019-09-29 12:13:29,431 basehttp 154 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2019-09-29 12:13:29,432 basehttp 154 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2019-09-29 12:13:29,436 basehttp 154 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2019-09-29 12:13:29,447 basehttp 154 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2019-09-29 12:13:29,449 basehttp 154 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2019-09-29 12:13:29,449 basehttp 154 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2019-09-29 12:13:29,450 basehttp 154 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2019-09-29 12:13:29,501 basehttp 154 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2019-09-29 12:25:40,083 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 353
+INFO 2019-09-29 12:25:43,067 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 167
+INFO 2019-09-29 12:25:43,073 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 353
+INFO 2019-09-29 12:25:43,101 basehttp 154 "GET /media/slideshow/carousel1_11tJn8N.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 12:25:43,121 basehttp 154 "GET /media/slideshow/carousel3_9vWAyAB.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 12:25:43,125 basehttp 154 "GET /media/slideshow/carousel2.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 12:25:43,126 basehttp 154 "GET /media/slideshow/carousel4_CtSqEeE.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 12:26:22,578 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 167
+INFO 2019-09-29 12:26:55,131 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 167
+INFO 2019-09-29 12:28:24,293 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 167
+INFO 2019-09-29 12:28:58,017 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 167
+INFO 2019-09-29 12:32:05,560 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 167
+INFO 2019-09-29 12:32:09,327 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 353
+INFO 2019-09-29 12:32:09,428 basehttp 154 "GET /media/slideshow/carousel4_CtSqEeE.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 12:32:09,430 basehttp 154 "GET /media/slideshow/carousel1_11tJn8N.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 12:32:09,435 basehttp 154 "GET /media/slideshow/carousel2.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 12:32:09,436 basehttp 154 "GET /media/slideshow/carousel3_9vWAyAB.jpg HTTP/1.1" 304 0
+INFO 2019-09-29 12:32:53,360 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 167
+INFO 2019-09-29 12:36:19,782 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/serializers.py changed, reloading.
+INFO 2019-09-29 12:36:23,858 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-09-29 13:35:28,949 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/serializers.py changed, reloading.
+INFO 2019-09-29 13:35:33,436 autoreload 597 Watching for file changes with StatReloader

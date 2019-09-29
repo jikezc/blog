@@ -20,6 +20,11 @@ import $ from 'jquery'
 import './assets/bootstrap-3.3.7-dist/css/bootstrap.css'
 import './assets/bootstrap-3.3.7-dist/js/bootstrap'
 
+import axios from 'axios'; // 从node_modules目录中导入包
+// 允许ajax发送请求时附带cookie
+axios.defaults.withCredentials = false;
+
+Vue.prototype.$axios = axios; // 把对象挂载vue中
 
 // 调用插件
 Vue.use(ElementUI);
