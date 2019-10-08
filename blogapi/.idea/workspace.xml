@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa29db98-8be5-4ce7-851b-b3a37818363a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../blog_front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/ArticleList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/ArticleList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/Content.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/Content.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/Footer.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/MessageContent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/MessageContent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog_front/src/routers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/routers/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogapi/apps/blog/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/apps/blog/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapi/apps/blog/adminx.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/apps/blog/adminx.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogapi/apps/blog/migrations/0001_initial.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/blogapi/apps/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/apps/blog/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogapi/apps/blog/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/apps/blog/serializers.py" afterDir="false" />
@@ -15,14 +23,6 @@
       <change beforePath="$PROJECT_DIR$/blogapi/settings/dev.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/settings/dev.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogapi/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/luffy.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/luffy.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slideshow/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slideshow/carousel1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slideshow/carousel1_11tJn8N.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slideshow/carousel2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slideshow/carousel3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slideshow/carousel3_9vWAyAB.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slideshow/carousel4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slideshow/carousel4_CtSqEeE.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +80,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -190,7 +191,12 @@
           <expand>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@7d25b29b" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@8f3d5511" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@8f3d5511" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@30787f47" type="9fbbdea:ServiceModel$ServiceNode" />
             </path>
           </expand>
           <select />
@@ -220,6 +226,7 @@
       <workItem from="1569634399625" duration="39527000" />
       <workItem from="1570502657680" duration="135000" />
       <workItem from="1570502812110" duration="36000" />
+      <workItem from="1570503143006" duration="22758000" />
     </task>
     <servers />
   </component>
@@ -241,6 +248,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/blogapi$dev.coverage" NAME="dev Coverage Results" MODIFIED="1569671018684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blogapi/settings" />
-    <SUITE FILE_PATH="coverage/blogapi$manage.coverage" NAME="manage Coverage Results" MODIFIED="1569745158559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/blogapi$manage.coverage" NAME="manage Coverage Results" MODIFIED="1570535674864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

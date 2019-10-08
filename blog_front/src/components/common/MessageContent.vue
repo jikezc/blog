@@ -3,21 +3,21 @@
     <h2 class="atricle-title">留言板</h2>
     <hr/>
     <div class="card-container">
-      <el-card class="box-card">
-        留言内容测试
+      <el-card class="box-card" v-for="message in messages">
+        {{message.message_content}}
       </el-card>
-      <el-card class="box-card">
-        留言内容测试
-      </el-card>
+      <!--      <el-card class="box-card">-->
+      <!--        留言内容测试-->
+      <!--      </el-card>-->
     </div>
-    <div class="card-container">
-      <el-card class="box-card">
-        留言内容测试
-      </el-card>
-      <el-card class="box-card">
-        留言内容测试
-      </el-card>
-    </div>
+    <!--    <div class="card-container">-->
+    <!--      <el-card class="box-card">-->
+    <!--        留言内容测试-->
+    <!--      </el-card>-->
+    <!--      <el-card class="box-card">-->
+    <!--        留言内容测试-->
+    <!--      </el-card>-->
+    <!--    </div>-->
     <hr/>
     <div class="message_input">
       <el-input
@@ -28,7 +28,7 @@
       </el-input>
     </div>
     <div>
-      <el-button class="message_btn"> 留 言</el-button>
+      <el-button class="message_btn" @click=" send_messages()"> 留 言</el-button>
     </div>
   </div>
 </template>
@@ -39,7 +39,37 @@
         components: {},
         data() {
             return {
-                textarea: ''
+                textarea: '',
+                messages: []
+            }
+        },
+        watch: {
+            "textarea"(to, from) {
+                console.log(to)
+            }
+        },
+        created() {
+            this.get_messages()
+        },
+        methods: {
+            get_messages() {
+                this.$axios.get(this.$settings.Host + "article/messages").then(response => {
+                    this.messages = response.data;
+                    console.log(this.messages)
+                }).catch(error => {
+                    console.log(error.response)
+                })
+            },
+            send_messages() {
+                this.$axios.post(this.$settings.Host + "article/send_messages/", {"message_content": this.textarea}, {
+                    responseData: "json",
+                }).then(response => {
+                    console.log(response.data);
+                    alert("留言成功");
+                    location.reload()
+                }).catch(error => {
+                    console.log(error.response)
+                })
             }
         }
     }
@@ -74,6 +104,7 @@
     height: 200px;
     font-size: 18px;
     color: #868686;
+    margin-bottom: 30px;
     font-family: 微软雅黑;
   }
 

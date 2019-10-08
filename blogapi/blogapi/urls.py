@@ -31,4 +31,6 @@ urlpatterns = [
     path(r'xadmin/', xadmin.site.urls),
     re_path(r'media/(?P<path>.*)', serve, {"document_root": settings.MEDIA_ROOT}),
     path('article/', include("blog.urls")),
+    path(r'^ckeditor/', include('ckeditor_uploader.urls')),
+    path(r'^mdeditor/', include('mdeditor.urls')),
 ]

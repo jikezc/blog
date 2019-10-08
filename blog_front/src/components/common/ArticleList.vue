@@ -3,14 +3,22 @@
     <div v-for="article in article_list">
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading" @click="go_to_url">{{article.title}}
-            <!--            <span class="text-muted">It'll blow your mind.</span>-->
-          </h2>
+          <router-link :to="'/articledetail/?id='+article.id">
+            <h2 class="featurette-heading">
+
+              {{article.title}}
+
+              <!--            <span class="text-muted">It'll blow your mind.</span>-->
+            </h2>
+          </router-link>
           <p class="lead">{{article.about_aritcle}}</p>
         </div>
-        <div class="col-md-5" @click="go_to_url">
-          <img class="featurette-image img-responsive center-block" :src="article.article_picture"
-               alt="Generic placeholder image">
+        <!--        @click="go_to_url()-->
+        <div class="col-md-5">
+          <router-link :to="'/articledetail/?id='+article.id">
+            <img class="featurette-image img-responsive center-block" :src="article.article_picture"
+                 alt="Generic placeholder image">
+          </router-link>
         </div>
       </div>
 
@@ -70,7 +78,7 @@
         },
         methods: {
             go_to_url() {
-                window.location.href = "/articledetail"
+                window.location.href = '/articledetail';
             },
             get_article_list() {
                 this.page = this.$route.query.categroy;
@@ -96,6 +104,10 @@
 </script>
 
 <style scoped>
+  a {
+    color: #333333;
+    text-decoration: none;
+  }
   .container {
     padding-top: 70px;
   }
@@ -110,6 +122,10 @@
     line-height: 1;
     letter-spacing: -1px;
     margin-top: 119px;
+  }
+
+  .featurette-heading:hover {
+    text-decoration: none;
   }
 
   .featurette-image {

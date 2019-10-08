@@ -1610,3 +1610,1111 @@ INFO 2019-10-08 10:40:21,730 basehttp 154 "GET /article/?article_categroy=4 HTTP
 INFO 2019-10-08 10:40:23,027 basehttp 154 "GET /article/?article_categroy=5 HTTP/1.1" 200 591
 INFO 2019-10-08 10:40:24,374 basehttp 154 "GET /article/?article_categroy=4 HTTP/1.1" 200 2
 INFO 2019-10-08 10:40:25,444 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 2
+INFO 2019-10-08 10:52:32,108 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 10:52:56,389 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 329
+INFO 2019-10-08 10:52:56,390 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 10:53:02,168 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 10:53:02,247 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 329
+INFO 2019-10-08 10:53:04,825 basehttp 154 "GET /article/ HTTP/1.1" 200 1419
+INFO 2019-10-08 10:53:10,025 basehttp 154 "GET /article/?article_categroy=2 HTTP/1.1" 200 460
+INFO 2019-10-08 10:53:11,485 basehttp 154 "GET /article/?article_categroy=3 HTTP/1.1" 200 370
+INFO 2019-10-08 10:53:13,117 basehttp 154 "GET /article/?article_categroy=5 HTTP/1.1" 200 591
+INFO 2019-10-08 10:53:24,931 basehttp 154 "GET /article/ HTTP/1.1" 200 1419
+INFO 2019-10-08 10:53:26,626 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 10:55:05,312 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 2
+INFO 2019-10-08 10:55:06,579 basehttp 154 "GET /article/?article_categroy=5 HTTP/1.1" 200 591
+INFO 2019-10-08 10:55:12,201 basehttp 154 "GET /article/ HTTP/1.1" 200 8868
+WARNING 2019-10-08 10:55:12,682 log 228 Not Found: /favicon.ico
+WARNING 2019-10-08 10:55:12,683 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2369
+INFO 2019-10-08 10:55:41,683 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 15975
+INFO 2019-10-08 10:55:41,746 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 10:55:46,057 basehttp 154 "GET /xadmin/blog/articlecategroy/ HTTP/1.1" 200 31998
+INFO 2019-10-08 10:55:46,094 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 10:55:46,888 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 28896
+INFO 2019-10-08 10:55:46,913 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 10:55:48,436 basehttp 154 "GET /xadmin/blog/articlepost/3/update/ HTTP/1.1" 200 25706
+INFO 2019-10-08 10:55:48,486 basehttp 154 "GET /static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css HTTP/1.1" 304 0
+INFO 2019-10-08 10:55:48,487 basehttp 154 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 304 0
+INFO 2019-10-08 10:55:48,488 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 10:55:48,490 basehttp 154 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 304 0
+INFO 2019-10-08 10:55:48,492 basehttp 154 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 304 0
+INFO 2019-10-08 10:55:48,494 basehttp 154 "GET /static/xadmin/vendor/load-image/load-image.js HTTP/1.1" 304 0
+INFO 2019-10-08 10:55:48,495 basehttp 154 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 304 0
+INFO 2019-10-08 10:55:48,502 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.quick-form.js HTTP/1.1" 304 0
+INFO 2019-10-08 10:55:48,544 basehttp 154 "GET /static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js HTTP/1.1" 304 0
+INFO 2019-10-08 10:55:48,549 basehttp 154 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 304 0
+INFO 2019-10-08 10:55:48,551 basehttp 154 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 304 0
+WARNING 2019-10-08 10:55:48,552 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+WARNING 2019-10-08 10:55:48,700 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 10:56:22,985 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/serializers.py changed, reloading.
+INFO 2019-10-08 10:56:23,884 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 10:59:27,078 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/serializers.py changed, reloading.
+INFO 2019-10-08 10:59:27,957 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 10:59:29,513 basehttp 154 "GET /article/ HTTP/1.1" 200 10286
+INFO 2019-10-08 10:59:52,681 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:00:37,697 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:00:42,757 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:01:02,973 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:01:09,994 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:02:00,935 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:02:04,735 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:03:36,056 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:03:41,648 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:03:43,236 basehttp 154 "GET /article/?article_categroy=3 HTTP/1.1" 200 668
+INFO 2019-10-08 11:03:45,151 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:04:18,495 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:04:23,549 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:04:23,550 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:04:27,561 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:04:37,852 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:04:41,406 basehttp 154 "GET /article/?article_categroy=2 HTTP/1.1" 200 846
+INFO 2019-10-08 11:04:44,351 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:05:13,663 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:09:12,873 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:09:14,572 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 329
+INFO 2019-10-08 11:09:18,544 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:09:18,546 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 329
+INFO 2019-10-08 11:09:25,347 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:09:33,987 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:09:37,409 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:09:39,697 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:09:48,517 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 329
+INFO 2019-10-08 11:09:49,448 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 2
+INFO 2019-10-08 11:09:50,337 basehttp 154 "GET /article/?article_categroy=3 HTTP/1.1" 200 668
+INFO 2019-10-08 11:09:52,730 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:09:55,536 basehttp 154 "GET /article/?article_categroy=5 HTTP/1.1" 200 1115
+INFO 2019-10-08 11:10:00,616 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:10:10,237 basehttp 154 "GET /article/?article_categroy=2 HTTP/1.1" 200 846
+INFO 2019-10-08 11:10:11,795 basehttp 154 "GET /article/?article_categroy=3 HTTP/1.1" 200 668
+INFO 2019-10-08 11:10:14,783 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:13:37,974 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:13:43,092 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 329
+INFO 2019-10-08 11:13:43,094 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:13:44,769 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:13:45,683 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 2
+INFO 2019-10-08 11:13:48,264 basehttp 154 "GET /article/?article_categroy=3 HTTP/1.1" 200 668
+INFO 2019-10-08 11:13:55,813 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:20:46,566 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 329
+INFO 2019-10-08 11:20:48,267 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 2
+INFO 2019-10-08 11:20:50,813 basehttp 154 "GET /article/?article_categroy=2 HTTP/1.1" 200 846
+INFO 2019-10-08 11:20:56,926 basehttp 154 "GET /article/?article_categroy=4 HTTP/1.1" 200 2
+INFO 2019-10-08 11:20:58,913 basehttp 154 "GET /article/?article_categroy=2 HTTP/1.1" 200 846
+INFO 2019-10-08 11:21:03,831 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 2
+INFO 2019-10-08 11:21:21,883 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 2
+INFO 2019-10-08 11:21:21,895 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:21:24,437 basehttp 154 "GET /article/?article_categroy=3 HTTP/1.1" 200 668
+INFO 2019-10-08 11:22:49,274 basehttp 154 "GET /article/?article_categroy=3 HTTP/1.1" 200 668
+INFO 2019-10-08 11:22:50,396 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:22:50,400 basehttp 154 "GET /article/?article_categroy=3 HTTP/1.1" 200 668
+INFO 2019-10-08 11:22:56,185 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:23:00,215 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:23:25,324 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:23:27,752 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:23:29,092 basehttp 154 "GET /article/?article_categroy=2 HTTP/1.1" 200 846
+INFO 2019-10-08 11:23:41,742 basehttp 154 "GET /article/?article_categroy=2 HTTP/1.1" 200 846
+INFO 2019-10-08 11:26:28,845 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:27:29,050 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:27:29,054 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:28:15,198 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:28:18,752 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:28:18,756 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:28:30,532 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:28:30,534 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:30:14,054 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:30:14,057 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:30:34,595 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:30:36,567 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:30:38,421 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:32:06,263 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 11:32:06,265 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:32:18,618 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:38:38,043 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:40:33,425 basehttp 154 "GET /article/ HTTP/1.1" 200 2627
+INFO 2019-10-08 11:40:37,900 basehttp 154 "GET /article/?article_categroy=4 HTTP/1.1" 200 2
+INFO 2019-10-08 11:40:39,414 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 2
+INFO 2019-10-08 11:40:40,915 basehttp 154 "GET /article/?article_categroy=5 HTTP/1.1" 200 1115
+WARNING 2019-10-08 11:44:42,679 log 228 Not Found: //articledetail/
+WARNING 2019-10-08 11:44:42,684 basehttp 154 "GET //articledetail/?id=3 HTTP/1.1" 404 2386
+WARNING 2019-10-08 11:44:45,458 log 228 Not Found: /article/1
+WARNING 2019-10-08 11:44:45,459 basehttp 154 "GET /article/1 HTTP/1.1" 404 2574
+INFO 2019-10-08 11:44:50,025 basehttp 154 "GET /article/ HTTP/1.1" 200 10286
+WARNING 2019-10-08 11:44:56,090 log 228 Not Found: /article/1
+WARNING 2019-10-08 11:44:56,091 basehttp 154 "GET /article/1 HTTP/1.1" 404 2574
+INFO 2019-10-08 11:45:02,914 basehttp 154 "GET /article/?id=1 HTTP/1.1" 200 10319
+INFO 2019-10-08 11:45:14,021 basehttp 154 "GET /article/ HTTP/1.1" 200 10286
+INFO 2019-10-08 11:45:22,371 basehttp 154 "OPTIONS /article/ HTTP/1.1" 200 5682
+INFO 2019-10-08 11:45:24,498 basehttp 154 "OPTIONS /article/ HTTP/1.1" 200 5682
+INFO 2019-10-08 11:57:28,866 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/views.py changed, reloading.
+INFO 2019-10-08 11:57:29,532 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 11:57:45,880 autoreload 597 Watching for file changes with StatReloader
+WARNING 2019-10-08 11:57:52,652 log 228 Not Found: /
+WARNING 2019-10-08 11:57:52,652 basehttp 154 "GET / HTTP/1.1" 404 2318
+INFO 2019-10-08 11:57:58,794 basehttp 154 "GET /article/ HTTP/1.1" 200 8869
+WARNING 2019-10-08 11:58:01,469 log 228 Not Found: /article/1
+WARNING 2019-10-08 11:58:01,470 basehttp 154 "GET /article/1 HTTP/1.1" 404 2746
+WARNING 2019-10-08 11:58:04,569 log 228 Not Found: /article/1/
+WARNING 2019-10-08 11:58:04,569 basehttp 154 "GET /article/1/ HTTP/1.1" 404 2749
+INFO 2019-10-08 11:59:13,793 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/urls.py changed, reloading.
+INFO 2019-10-08 11:59:14,438 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 11:59:20,538 autoreload 597 Watching for file changes with StatReloader
+WARNING 2019-10-08 11:59:28,064 log 228 Not Found: /article/1
+WARNING 2019-10-08 11:59:28,065 basehttp 154 "GET /article/1 HTTP/1.1" 404 2747
+INFO 2019-10-08 11:59:28,896 basehttp 154 "GET /article/ HTTP/1.1" 200 8869
+WARNING 2019-10-08 11:59:37,557 log 228 Not Found: /article/1/
+WARNING 2019-10-08 11:59:37,558 basehttp 154 "GET /article/1/ HTTP/1.1" 404 2750
+WARNING 2019-10-08 11:59:53,215 log 228 Not Found: /article/1/
+WARNING 2019-10-08 11:59:53,216 basehttp 154 "GET /article/1/ HTTP/1.1" 404 2750
+WARNING 2019-10-08 11:59:56,657 log 228 Not Found: /article/2/
+WARNING 2019-10-08 11:59:56,657 basehttp 154 "GET /article/2/ HTTP/1.1" 404 2750
+WARNING 2019-10-08 12:00:00,703 log 228 Not Found: /article/2/
+WARNING 2019-10-08 12:00:00,703 basehttp 154 "GET /article/2/ HTTP/1.1" 404 2750
+WARNING 2019-10-08 12:00:10,268 log 228 Not Found: /
+WARNING 2019-10-08 12:00:10,269 basehttp 154 "GET / HTTP/1.1" 404 2318
+WARNING 2019-10-08 12:00:11,896 log 228 Not Found: /
+WARNING 2019-10-08 12:00:11,897 basehttp 154 "GET / HTTP/1.1" 404 2318
+INFO 2019-10-08 12:00:14,667 basehttp 154 "GET /article/ HTTP/1.1" 200 8869
+INFO 2019-10-08 12:00:18,274 basehttp 154 "GET /article/ HTTP/1.1" 200 8869
+INFO 2019-10-08 12:01:39,114 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/urls.py changed, reloading.
+INFO 2019-10-08 12:01:39,917 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 12:01:41,763 basehttp 154 "GET /article/ HTTP/1.1" 200 8869
+INFO 2019-10-08 12:01:44,496 basehttp 154 "GET /article/1/ HTTP/1.1" 200 5847
+INFO 2019-10-08 12:01:48,394 basehttp 154 "GET /article/2/ HTTP/1.1" 200 5937
+WARNING 2019-10-08 12:02:13,515 log 228 Not Found: //article/3
+WARNING 2019-10-08 12:02:13,516 basehttp 154 "GET //article/3 HTTP/1.1" 404 2366
+INFO 2019-10-08 12:02:15,100 basehttp 154 "GET /article/21 HTTP/1.1" 301 0
+WARNING 2019-10-08 12:02:15,125 log 228 Not Found: /article/21/
+WARNING 2019-10-08 12:02:15,126 basehttp 154 "GET /article/21/ HTTP/1.1" 404 5479
+INFO 2019-10-08 12:02:18,767 basehttp 154 "GET /article/1 HTTP/1.1" 301 0
+INFO 2019-10-08 12:02:18,791 basehttp 154 "GET /article/1/ HTTP/1.1" 200 5847
+WARNING 2019-10-08 12:02:43,717 log 228 Not Found: //article/1
+WARNING 2019-10-08 12:02:43,718 basehttp 154 "GET //article/1 HTTP/1.1" 404 2366
+INFO 2019-10-08 12:02:43,722 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+WARNING 2019-10-08 12:03:27,395 log 228 Not Found: //article/1
+WARNING 2019-10-08 12:03:27,396 basehttp 154 "GET //article/1 HTTP/1.1" 404 2366
+WARNING 2019-10-08 12:03:30,005 log 228 Not Found: //article/1
+WARNING 2019-10-08 12:03:30,006 basehttp 154 "GET //article/1 HTTP/1.1" 404 2366
+INFO 2019-10-08 12:03:30,010 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 12:03:31,922 basehttp 154 "GET /article/ HTTP/1.1" 200 1419
+WARNING 2019-10-08 12:03:33,841 log 228 Not Found: //article/1
+WARNING 2019-10-08 12:03:33,842 basehttp 154 "GET //article/1 HTTP/1.1" 404 2366
+WARNING 2019-10-08 12:04:20,771 log 228 Not Found: //article/1
+WARNING 2019-10-08 12:04:20,772 basehttp 154 "GET //article/1 HTTP/1.1" 404 2366
+WARNING 2019-10-08 12:04:38,895 log 228 Not Found: //article/1
+WARNING 2019-10-08 12:04:38,899 basehttp 154 "GET //article/1 HTTP/1.1" 404 2366
+INFO 2019-10-08 12:04:38,900 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 12:05:07,620 basehttp 154 "GET /article/1 HTTP/1.1" 301 0
+INFO 2019-10-08 12:05:07,651 basehttp 154 "GET /article/1/ HTTP/1.1" 200 332
+INFO 2019-10-08 12:05:10,072 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 12:05:10,189 basehttp 154 "GET /article/1/ HTTP/1.1" 200 332
+INFO 2019-10-08 12:05:49,581 basehttp 154 "GET /article/1/ HTTP/1.1" 200 332
+INFO 2019-10-08 12:05:55,879 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 12:05:55,975 basehttp 154 "GET /article/1/ HTTP/1.1" 200 332
+INFO 2019-10-08 12:06:08,055 basehttp 154 "GET /article/1/ HTTP/1.1" 200 332
+INFO 2019-10-08 12:06:11,898 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 12:06:12,000 basehttp 154 "GET /article/1/ HTTP/1.1" 200 332
+INFO 2019-10-08 12:06:18,020 basehttp 154 "GET /article/1 HTTP/1.1" 301 0
+INFO 2019-10-08 12:06:18,061 basehttp 154 "GET /article/1/ HTTP/1.1" 200 5847
+INFO 2019-10-08 12:07:29,466 basehttp 154 "GET /article/1 HTTP/1.1" 301 0
+INFO 2019-10-08 12:07:29,507 basehttp 154 "GET /article/1/ HTTP/1.1" 200 332
+INFO 2019-10-08 12:07:35,045 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 12:07:35,132 basehttp 154 "GET /article/1/ HTTP/1.1" 200 332
+INFO 2019-10-08 12:08:26,996 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 12:08:27,265 basehttp 154 "GET /article/1/ HTTP/1.1" 200 332
+INFO 2019-10-08 12:09:10,337 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 12:09:10,457 basehttp 154 "GET /article/1/ HTTP/1.1" 200 332
+INFO 2019-10-08 12:10:06,951 basehttp 154 "GET /article/1/ HTTP/1.1" 200 332
+INFO 2019-10-08 12:11:16,054 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/serializers.py changed, reloading.
+INFO 2019-10-08 12:11:16,827 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 12:12:33,064 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/serializers.py changed, reloading.
+INFO 2019-10-08 12:12:33,958 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 12:12:37,428 basehttp 154 "GET /article/1/ HTTP/1.1" 200 5949
+INFO 2019-10-08 12:13:46,534 basehttp 154 "GET /article/1/ HTTP/1.1" 200 382
+INFO 2019-10-08 12:13:51,652 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 12:13:51,759 basehttp 154 "GET /article/1/ HTTP/1.1" 200 382
+INFO 2019-10-08 12:14:22,918 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 12:14:23,057 basehttp 154 "GET /article/1/ HTTP/1.1" 200 382
+INFO 2019-10-08 12:15:16,149 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 154
+INFO 2019-10-08 12:15:16,238 basehttp 154 "GET /article/1/ HTTP/1.1" 200 382
+INFO 2019-10-08 14:54:52,444 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/settings/dev.py changed, reloading.
+INFO 2019-10-08 14:54:53,060 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 14:56:57,953 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/models.py changed, reloading.
+INFO 2019-10-08 14:56:58,781 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 15:02:55,653 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/home/migrations/0001_initial.py changed, reloading.
+INFO 2019-10-08 15:02:56,448 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 15:09:27,326 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 15:09:46,205 basehttp 154 "GET /xadmin/blog/articlepost/3/update/ HTTP/1.1" 200 4380
+INFO 2019-10-08 15:09:46,253 basehttp 154 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2019-10-08 15:09:46,259 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4361
+INFO 2019-10-08 15:09:49,746 basehttp 154 "POST /xadmin/blog/articlepost/3/update/ HTTP/1.1" 200 4617
+INFO 2019-10-08 15:09:49,802 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4361
+INFO 2019-10-08 15:09:54,648 basehttp 154 "POST /xadmin/blog/articlepost/3/update/ HTTP/1.1" 200 4617
+INFO 2019-10-08 15:09:54,682 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4361
+INFO 2019-10-08 15:10:03,518 basehttp 154 "GET /xadmin/xadmin/password_reset/ HTTP/1.1" 200 3443
+INFO 2019-10-08 15:10:03,550 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4361
+INFO 2019-10-08 15:10:12,344 basehttp 154 "POST /xadmin/xadmin/password_reset/ HTTP/1.1" 200 2651
+INFO 2019-10-08 15:10:12,380 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4361
+INFO 2019-10-08 15:10:22,008 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 4354
+INFO 2019-10-08 15:10:22,107 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4361
+WARNING 2019-10-08 15:11:10,361 log 228 Not Found: /
+WARNING 2019-10-08 15:11:10,362 basehttp 154 "GET / HTTP/1.1" 404 2428
+INFO 2019-10-08 15:11:13,936 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 4354
+INFO 2019-10-08 15:11:13,986 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4361
+INFO 2019-10-08 15:11:20,135 basehttp 154 "POST /xadmin/ HTTP/1.1" 302 0
+INFO 2019-10-08 15:11:23,478 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 15973
+INFO 2019-10-08 15:11:23,556 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:11:27,842 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 26368
+INFO 2019-10-08 15:11:27,899 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:11:30,099 basehttp 154 "GET /xadmin/blog/articlecategroy/ HTTP/1.1" 200 25521
+INFO 2019-10-08 15:11:30,128 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:11:31,410 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 26368
+INFO 2019-10-08 15:11:31,443 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:11:32,365 basehttp 154 "GET /xadmin/blog/articlecategroy/ HTTP/1.1" 200 25521
+INFO 2019-10-08 15:11:32,393 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:11:32,999 basehttp 154 "GET /xadmin/blog/articlecategroy/ HTTP/1.1" 200 25521
+INFO 2019-10-08 15:11:33,036 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:11:35,494 basehttp 154 "GET /xadmin/home/slideshow/ HTTP/1.1" 200 25913
+INFO 2019-10-08 15:11:35,529 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:11:37,241 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 26368
+INFO 2019-10-08 15:11:37,277 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:11:38,099 basehttp 154 "GET /xadmin/blog/articlecategroy/ HTTP/1.1" 200 25521
+INFO 2019-10-08 15:11:38,136 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:11:40,706 basehttp 154 "GET /xadmin/home/slideshow/ HTTP/1.1" 200 25913
+INFO 2019-10-08 15:11:40,743 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+ERROR 2019-10-08 15:13:25,409 log 228 Internal Server Error: /xadmin/
+Traceback (most recent call last):
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/contrib/sessions/backends/base.py", line 189, in _get_session
+    return self._session_cache
+AttributeError: 'SessionStore' object has no attribute '_session_cache'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table 'blog.django_session' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/sites.py", line 206, in inner
+    if not self.has_permission(request) and getattr(view, 'need_site_permission', True):
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/xadmin/sites.py", line 161, in has_permission
+    return request.user.is_active and request.user.is_staff
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/utils/functional.py", line 256, in inner
+    self._setup()
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/utils/functional.py", line 392, in _setup
+    self._wrapped = self._setupfunc()
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/contrib/auth/middleware.py", line 24, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/contrib/auth/middleware.py", line 12, in get_user
+    request._cached_user = auth.get_user(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/contrib/auth/__init__.py", line 182, in get_user
+    user_id = _get_user_session_key(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/contrib/auth/__init__.py", line 59, in _get_user_session_key
+    return get_user_model()._meta.pk.to_python(request.session[SESSION_KEY])
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/contrib/sessions/backends/base.py", line 54, in __getitem__
+    return self._session[key]
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/contrib/sessions/backends/base.py", line 194, in _get_session
+    self._session_cache = self.load()
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/contrib/sessions/backends/db.py", line 43, in load
+    s = self._get_session_from_db()
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/contrib/sessions/backends/db.py", line 34, in _get_session_from_db
+    expire_date__gt=timezone.now()
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/db/models/query.py", line 402, in get
+    num = len(clone)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/db/models/query.py", line 256, in __len__
+    self._fetch_all()
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/db/models/query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/db/models/query.py", line 55, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/db/models/sql/compiler.py", line 1100, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/db/backends/utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/db/backends/utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.ProgrammingError: (1146, "Table 'blog.django_session' doesn't exist")
+ERROR 2019-10-08 15:13:25,413 basehttp 154 "GET /xadmin/ HTTP/1.1" 500 263885
+INFO 2019-10-08 15:13:41,898 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/home/migrations/0001_initial.py changed, reloading.
+INFO 2019-10-08 15:13:42,729 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 15:13:49,658 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 4354
+INFO 2019-10-08 15:13:49,732 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4361
+INFO 2019-10-08 15:14:17,559 basehttp 154 "POST /xadmin/ HTTP/1.1" 302 0
+WARNING 2019-10-08 15:14:19,450 log 228 Forbidden (CSRF token missing or incorrect.): /xadmin/
+WARNING 2019-10-08 15:14:19,452 basehttp 154 "POST /xadmin/ HTTP/1.1" 403 2508
+WARNING 2019-10-08 15:14:28,252 log 228 Forbidden (CSRF token missing or incorrect.): /xadmin/
+WARNING 2019-10-08 15:14:28,253 basehttp 154 "POST /xadmin/ HTTP/1.1" 403 2508
+INFO 2019-10-08 15:14:29,305 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 15973
+INFO 2019-10-08 15:14:38,791 basehttp 154 "GET /article/1 HTTP/1.1" 301 0
+WARNING 2019-10-08 15:14:38,854 log 228 Not Found: /article/1/
+WARNING 2019-10-08 15:14:38,855 basehttp 154 "GET /article/1/ HTTP/1.1" 404 5473
+INFO 2019-10-08 15:14:42,714 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 15973
+INFO 2019-10-08 15:14:42,760 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:14:46,269 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 26368
+INFO 2019-10-08 15:14:46,324 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:14:46,727 basehttp 154 "GET /xadmin/blog/articlecategroy/ HTTP/1.1" 200 25521
+INFO 2019-10-08 15:14:46,773 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:14:48,813 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 26368
+INFO 2019-10-08 15:14:48,853 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:14:50,838 basehttp 154 "GET /xadmin/blog/articlepost/add/ HTTP/1.1" 200 25473
+INFO 2019-10-08 15:14:50,895 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:14:50,926 basehttp 154 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 200 2216
+WARNING 2019-10-08 15:14:50,938 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:14:50,947 basehttp 154 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 200 701922
+WARNING 2019-10-08 15:14:51,093 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:14:51,149 basehttp 154 "GET /static/ckeditor/ckeditor/config.js?t=J39A HTTP/1.1" 200 338
+INFO 2019-10-08 15:14:51,169 basehttp 154 "GET /static/ckeditor/ckeditor/lang/zh.js?t=J39A HTTP/1.1" 200 18443
+INFO 2019-10-08 15:14:51,170 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=J39A HTTP/1.1" 200 47805
+INFO 2019-10-08 15:14:51,187 basehttp 154 "GET /static/ckeditor/ckeditor/styles.js?t=J39A HTTP/1.1" 200 5579
+INFO 2019-10-08 15:14:51,249 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css?t=J39A HTTP/1.1" 200 419
+INFO 2019-10-08 15:14:51,252 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css?t=J39A HTTP/1.1" 200 381
+INFO 2019-10-08 15:14:51,253 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css?t=J39A HTTP/1.1" 200 1306
+INFO 2019-10-08 15:14:51,256 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css HTTP/1.1" 200 1145
+INFO 2019-10-08 15:14:51,257 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css HTTP/1.1" 200 1513
+INFO 2019-10-08 15:14:51,309 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=e1836357e HTTP/1.1" 200 12421
+INFO 2019-10-08 15:14:51,360 basehttp 154 "GET /static/ckeditor/ckeditor/contents.css?t=J39A HTTP/1.1" 200 3094
+INFO 2019-10-08 15:21:13,713 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 15:21:20,830 basehttp 154 "GET /xadmin/blog/articlepost/add/ HTTP/1.1" 200 25473
+INFO 2019-10-08 15:21:20,894 basehttp 154 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 304 0
+WARNING 2019-10-08 15:21:20,899 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:21:20,912 basehttp 154 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 304 0
+INFO 2019-10-08 15:21:20,919 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+WARNING 2019-10-08 15:21:21,109 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:21:21,178 basehttp 154 "GET /static/ckeditor/ckeditor/config.js?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:21:21,196 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:21:21,197 basehttp 154 "GET /static/ckeditor/ckeditor/lang/zh.js?t=J39A HTTP/1.1" 200 18573
+INFO 2019-10-08 15:21:28,766 basehttp 154 "GET /xadmin/blog/articlecategroy/ HTTP/1.1" 200 25521
+INFO 2019-10-08 15:21:28,813 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:21:31,778 basehttp 154 "GET /xadmin/home/slideshow/ HTTP/1.1" 200 25913
+INFO 2019-10-08 15:21:31,813 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:21:34,541 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 26368
+INFO 2019-10-08 15:21:34,578 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:21:35,778 basehttp 154 "GET /xadmin/blog/articlepost/add/ HTTP/1.1" 200 25473
+WARNING 2019-10-08 15:21:35,826 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:21:35,841 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+WARNING 2019-10-08 15:21:36,030 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:21:36,092 basehttp 154 "GET /static/ckeditor/ckeditor/lang/zh.js?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:22:24,189 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 15:22:29,527 basehttp 154 "GET /xadmin/blog/articlepost/add/ HTTP/1.1" 200 25473
+WARNING 2019-10-08 15:22:29,564 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:22:29,570 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+WARNING 2019-10-08 15:22:29,804 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:22:29,885 basehttp 154 "GET /static/ckeditor/ckeditor/lang/zh.js?t=J39A HTTP/1.1" 200 18443
+INFO 2019-10-08 15:22:29,898 basehttp 154 "GET /static/ckeditor/ckeditor/styles.js?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:22:29,958 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:22:29,964 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css HTTP/1.1" 304 0
+INFO 2019-10-08 15:22:29,967 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:22:29,967 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css HTTP/1.1" 304 0
+INFO 2019-10-08 15:22:29,968 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:22:30,023 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=e1836357e HTTP/1.1" 304 0
+INFO 2019-10-08 15:22:30,079 basehttp 154 "GET /static/ckeditor/ckeditor/contents.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:28:52,881 basehttp 154 "GET /xadmin/blog/articlepost/add/ HTTP/1.1" 200 25473
+WARNING 2019-10-08 15:28:52,953 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:28:52,965 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:28:52,966 basehttp 154 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 304 0
+INFO 2019-10-08 15:28:52,969 basehttp 154 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 304 0
+WARNING 2019-10-08 15:28:53,086 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:28:53,161 basehttp 154 "GET /static/ckeditor/ckeditor/config.js?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:28:53,177 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:28:53,178 basehttp 154 "GET /static/ckeditor/ckeditor/lang/zh.js?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:28:53,192 basehttp 154 "GET /static/ckeditor/ckeditor/styles.js?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:28:53,258 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:28:53,266 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:28:53,269 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css HTTP/1.1" 304 0
+INFO 2019-10-08 15:28:53,272 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:28:53,276 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css HTTP/1.1" 304 0
+INFO 2019-10-08 15:28:53,353 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=e1836357e HTTP/1.1" 304 0
+INFO 2019-10-08 15:28:53,411 basehttp 154 "GET /static/ckeditor/ckeditor/contents.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:28:56,373 basehttp 154 "GET /xadmin/blog/articlecategroy/ HTTP/1.1" 200 25521
+INFO 2019-10-08 15:28:56,410 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:28:58,089 basehttp 154 "GET /xadmin/blog/articlecategroy/add/ HTTP/1.1" 200 18702
+INFO 2019-10-08 15:28:58,131 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:29:08,964 basehttp 154 "POST /xadmin/blog/articlecategroy/add/ HTTP/1.1" 302 0
+INFO 2019-10-08 15:29:09,085 basehttp 154 "GET /xadmin/blog/articlecategroy/ HTTP/1.1" 200 28331
+INFO 2019-10-08 15:29:09,163 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:29:10,484 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 26368
+INFO 2019-10-08 15:29:10,519 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:29:12,577 basehttp 154 "GET /xadmin/blog/articlepost/add/ HTTP/1.1" 200 25513
+WARNING 2019-10-08 15:29:12,625 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:29:12,636 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+WARNING 2019-10-08 15:29:12,817 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:30:20,429 basehttp 154 "POST /xadmin/blog/articlepost/add/ HTTP/1.1" 302 0
+INFO 2019-10-08 15:30:20,534 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 28443
+INFO 2019-10-08 15:30:20,614 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:30:23,806 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 15:30:29,822 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 32
+INFO 2019-10-08 15:30:29,825 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 15:30:33,142 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 149
+INFO 2019-10-08 15:30:33,154 basehttp 154 "GET /media/articleimage/timg_MIWfJi0.jpeg HTTP/1.1" 200 17582
+INFO 2019-10-08 15:30:34,686 basehttp 154 "GET /article/1 HTTP/1.1" 301 0
+INFO 2019-10-08 15:30:34,737 basehttp 154 "GET /article/1/ HTTP/1.1" 200 249
+INFO 2019-10-08 15:34:48,439 basehttp 154 "GET /xadmin/blog/articlepost/1/update/ HTTP/1.1" 200 26226
+INFO 2019-10-08 15:34:48,476 basehttp 154 "GET /media/articleimage/timg_MIWfJi0.jpeg HTTP/1.1" 304 0
+INFO 2019-10-08 15:34:48,486 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:34:48,526 basehttp 154 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 304 0
+WARNING 2019-10-08 15:34:48,556 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:34:48,557 basehttp 154 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 304 0
+WARNING 2019-10-08 15:34:48,745 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:34:48,834 basehttp 154 "GET /static/ckeditor/ckeditor/config.js?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:34:48,861 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:34:48,862 basehttp 154 "GET /static/ckeditor/ckeditor/lang/zh.js?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:34:48,873 basehttp 154 "GET /static/ckeditor/ckeditor/styles.js?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:34:48,938 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:34:48,943 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:34:48,952 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css HTTP/1.1" 304 0
+INFO 2019-10-08 15:34:48,954 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css HTTP/1.1" 304 0
+INFO 2019-10-08 15:34:48,956 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:34:49,038 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=e1836357e HTTP/1.1" 304 0
+INFO 2019-10-08 15:34:49,101 basehttp 154 "GET /static/ckeditor/ckeditor/contents.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:40:30,087 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 32
+INFO 2019-10-08 15:40:30,113 basehttp 154 "GET /article/1/ HTTP/1.1" 200 249
+INFO 2019-10-08 15:41:27,719 basehttp 154 "POST /xadmin/blog/articlepost/1/update/ HTTP/1.1" 302 0
+INFO 2019-10-08 15:41:27,824 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 28375
+INFO 2019-10-08 15:41:27,903 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:41:31,663 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 32
+INFO 2019-10-08 15:41:31,847 basehttp 154 "GET /article/1/ HTTP/1.1" 200 715
+INFO 2019-10-08 15:42:03,004 basehttp 154 "GET /xadmin/blog/articlepost/1/update/ HTTP/1.1" 200 26708
+INFO 2019-10-08 15:42:03,046 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:42:03,054 basehttp 154 "GET /media/articleimage/timg_MIWfJi0.jpeg HTTP/1.1" 304 0
+INFO 2019-10-08 15:42:03,108 basehttp 154 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 304 0
+INFO 2019-10-08 15:42:03,125 basehttp 154 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 304 0
+WARNING 2019-10-08 15:42:03,140 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+WARNING 2019-10-08 15:42:03,311 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:42:03,383 basehttp 154 "GET /static/ckeditor/ckeditor/config.js?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:42:03,400 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:42:03,401 basehttp 154 "GET /static/ckeditor/ckeditor/lang/zh.js?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:42:03,421 basehttp 154 "GET /static/ckeditor/ckeditor/styles.js?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:42:03,491 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:42:03,496 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css HTTP/1.1" 304 0
+INFO 2019-10-08 15:42:03,498 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:42:03,502 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css HTTP/1.1" 304 0
+INFO 2019-10-08 15:42:03,503 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:42:03,566 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=e1836357e HTTP/1.1" 304 0
+INFO 2019-10-08 15:42:03,621 basehttp 154 "GET /static/ckeditor/ckeditor/contents.css?t=J39A HTTP/1.1" 304 0
+INFO 2019-10-08 15:48:05,514 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/settings/dev.py changed, reloading.
+INFO 2019-10-08 15:48:06,827 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 15:51:48,424 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 15:52:35,860 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/migrations/0001_initial.py changed, reloading.
+INFO 2019-10-08 15:52:36,834 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 15:53:02,880 basehttp 154 "GET /xadmin/blog/articlepost/1/update/ HTTP/1.1" 200 4380
+INFO 2019-10-08 15:53:02,943 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4361
+INFO 2019-10-08 15:53:05,559 basehttp 154 "POST /xadmin/blog/articlepost/1/update/ HTTP/1.1" 302 0
+WARNING 2019-10-08 15:53:05,578 log 228 Not Found: /xadmin/blog/articlepost/1/update/
+WARNING 2019-10-08 15:53:05,579 basehttp 154 "GET /xadmin/blog/articlepost/1/update/ HTTP/1.1" 404 1942
+INFO 2019-10-08 15:53:19,446 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 15973
+INFO 2019-10-08 15:53:19,546 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:53:19,554 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 15973
+INFO 2019-10-08 15:53:23,098 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 26368
+INFO 2019-10-08 15:53:23,139 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:53:25,540 basehttp 154 "GET /xadmin/blog/articlecategroy/ HTTP/1.1" 200 25521
+INFO 2019-10-08 15:53:25,585 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:53:27,020 basehttp 154 "GET /xadmin/blog/articlecategroy/add/ HTTP/1.1" 200 18702
+INFO 2019-10-08 15:53:27,061 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:53:31,854 basehttp 154 "POST /xadmin/blog/articlecategroy/add/ HTTP/1.1" 302 0
+INFO 2019-10-08 15:53:32,002 basehttp 154 "GET /xadmin/blog/articlecategroy/ HTTP/1.1" 200 28319
+INFO 2019-10-08 15:53:32,085 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:53:32,750 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 26368
+INFO 2019-10-08 15:53:32,791 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:53:34,321 basehttp 154 "GET /xadmin/blog/articlepost/add/ HTTP/1.1" 200 27420
+INFO 2019-10-08 15:53:34,386 basehttp 154 "GET /static/mdeditor/css/editormd.css HTTP/1.1" 200 78173
+WARNING 2019-10-08 15:53:34,402 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:53:34,406 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:53:34,409 basehttp 154 "GET /static/mdeditor/js/jquery.min.js HTTP/1.1" 200 95870
+INFO 2019-10-08 15:53:34,410 basehttp 154 "GET /static/mdeditor/js/editormd.min.js HTTP/1.1" 200 54058
+INFO 2019-10-08 15:53:34,472 basehttp 154 "GET /static/mdeditor/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 200 56780
+WARNING 2019-10-08 15:53:34,572 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:53:34,653 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addon/search/matchesonscrollbar.css HTTP/1.1" 200 188
+INFO 2019-10-08 15:53:34,657 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addon/dialog/dialog.css HTTP/1.1" 200 502
+INFO 2019-10-08 15:53:34,658 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/codemirror.min.css HTTP/1.1" 200 5312
+INFO 2019-10-08 15:53:34,661 basehttp 154 "GET /static/mdeditor/images/loading.gif HTTP/1.1" 200 7726
+INFO 2019-10-08 15:53:34,662 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/codemirror.min.js HTTP/1.1" 200 221231
+INFO 2019-10-08 15:53:34,719 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/modes.min.js HTTP/1.1" 200 205435
+INFO 2019-10-08 15:53:34,794 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addons.min.js HTTP/1.1" 200 39221
+INFO 2019-10-08 15:53:35,022 basehttp 154 "GET /static/mdeditor/js/lib/marked.min.js HTTP/1.1" 200 19256
+INFO 2019-10-08 15:53:35,158 basehttp 154 "GET /static/mdeditor/js/lib/prettify.min.js HTTP/1.1" 200 17973
+INFO 2019-10-08 15:53:35,188 basehttp 154 "GET /static/mdeditor/js/lib/raphael.min.js HTTP/1.1" 200 92705
+INFO 2019-10-08 15:53:35,250 basehttp 154 "GET /static/mdeditor/js/lib/underscore.min.js HTTP/1.1" 200 16487
+INFO 2019-10-08 15:53:35,312 basehttp 154 "GET /static/mdeditor/js/lib/flowchart.min.js HTTP/1.1" 200 19807
+INFO 2019-10-08 15:53:35,371 basehttp 154 "GET /static/mdeditor/js/lib/jquery.flowchart.min.js HTTP/1.1" 200 1396
+INFO 2019-10-08 15:53:35,422 basehttp 154 "GET /static/mdeditor/js/lib/sequence-diagram.min.js HTTP/1.1" 200 87695
+INFO 2019-10-08 15:54:41,827 basehttp 154 "POST /xadmin/blog/articlepost/add/ HTTP/1.1" 302 0
+INFO 2019-10-08 15:54:41,974 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 28443
+INFO 2019-10-08 15:54:42,069 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:54:46,266 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 15:54:46,289 basehttp 154 "GET /article/1/ HTTP/1.1" 200 186
+INFO 2019-10-08 15:54:59,914 basehttp 154 "GET /xadmin/blog/articlepost/1/update/ HTTP/1.1" 200 28026
+INFO 2019-10-08 15:54:59,941 basehttp 154 "GET /static/mdeditor/css/editormd.css HTTP/1.1" 304 0
+INFO 2019-10-08 15:54:59,961 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:54:59,974 basehttp 154 "GET /media/articleimage/timg_BxDQSai.jpeg HTTP/1.1" 200 17582
+INFO 2019-10-08 15:55:00,019 basehttp 154 "GET /static/mdeditor/js/jquery.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 15:55:00,039 basehttp 154 "GET /static/mdeditor/js/editormd.min.js HTTP/1.1" 304 0
+WARNING 2019-10-08 15:55:00,048 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:55:00,090 basehttp 154 "GET /static/mdeditor/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 304 0
+WARNING 2019-10-08 15:55:00,237 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 15:55:00,334 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/codemirror.min.css HTTP/1.1" 304 0
+INFO 2019-10-08 15:55:00,337 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addon/dialog/dialog.css HTTP/1.1" 304 0
+INFO 2019-10-08 15:55:00,338 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/codemirror.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 15:55:00,339 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addon/search/matchesonscrollbar.css HTTP/1.1" 304 0
+INFO 2019-10-08 15:55:00,341 basehttp 154 "GET /static/mdeditor/images/loading.gif HTTP/1.1" 304 0
+INFO 2019-10-08 15:55:00,452 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/modes.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 15:55:00,515 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addons.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 15:55:00,618 basehttp 154 "GET /static/mdeditor/js/lib/marked.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 15:55:00,659 basehttp 154 "GET /static/mdeditor/js/lib/prettify.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 15:55:00,697 basehttp 154 "GET /static/mdeditor/js/lib/raphael.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 15:55:00,758 basehttp 154 "GET /static/mdeditor/js/lib/underscore.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 15:55:00,815 basehttp 154 "GET /static/mdeditor/js/lib/flowchart.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 15:55:00,867 basehttp 154 "GET /static/mdeditor/js/lib/jquery.flowchart.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 15:55:00,922 basehttp 154 "GET /static/mdeditor/js/lib/sequence-diagram.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 15:55:10,424 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 15:55:10,654 basehttp 154 "GET /article/1/ HTTP/1.1" 200 186
+INFO 2019-10-08 15:58:13,234 basehttp 154 "POST /xadmin/blog/articlepost/1/update/ HTTP/1.1" 302 0
+INFO 2019-10-08 15:58:13,379 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 28375
+INFO 2019-10-08 15:58:13,467 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 15:58:16,983 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 15:58:17,023 basehttp 154 "GET /article/1/ HTTP/1.1" 200 196
+INFO 2019-10-08 15:58:53,870 basehttp 154 "GET /article/1/ HTTP/1.1" 200 196
+INFO 2019-10-08 15:58:56,694 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 15:58:56,731 basehttp 154 "GET /article/1/ HTTP/1.1" 200 196
+INFO 2019-10-08 16:01:48,222 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 16:01:48,478 basehttp 154 "GET /article/1/ HTTP/1.1" 200 196
+INFO 2019-10-08 16:03:29,931 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 16:03:29,992 basehttp 154 "GET /article/1/ HTTP/1.1" 200 196
+INFO 2019-10-08 16:03:32,109 basehttp 154 "GET /article/ HTTP/1.1" 200 149
+INFO 2019-10-08 16:03:32,137 basehttp 154 "GET /media/articleimage/timg_BxDQSai.jpeg HTTP/1.1" 304 0
+INFO 2019-10-08 16:03:33,264 basehttp 154 "GET /article/1/ HTTP/1.1" 200 196
+INFO 2019-10-08 16:03:36,157 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 16:03:36,158 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 16:03:39,105 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 16:03:39,111 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 16:03:41,459 basehttp 154 "GET /article/ HTTP/1.1" 200 149
+INFO 2019-10-08 16:03:42,415 basehttp 154 "GET /article/1/ HTTP/1.1" 200 196
+INFO 2019-10-08 16:03:49,268 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 16:03:51,463 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 16:03:51,463 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 16:03:53,383 basehttp 154 "GET /article/ HTTP/1.1" 200 149
+INFO 2019-10-08 16:03:54,410 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 149
+INFO 2019-10-08 16:03:55,351 basehttp 154 "GET /article/ HTTP/1.1" 200 149
+INFO 2019-10-08 16:03:57,857 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 149
+INFO 2019-10-08 16:04:05,218 basehttp 154 "GET /article/ HTTP/1.1" 200 149
+INFO 2019-10-08 16:04:07,277 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 16:04:07,280 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 16:04:08,828 basehttp 154 "GET /article/ HTTP/1.1" 200 149
+INFO 2019-10-08 16:04:09,888 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 149
+INFO 2019-10-08 16:04:11,146 basehttp 154 "GET /article/1/ HTTP/1.1" 200 196
+INFO 2019-10-08 16:07:15,150 basehttp 154 "GET /xadmin/blog/articlepost/1/update/ HTTP/1.1" 200 28034
+INFO 2019-10-08 16:07:15,192 basehttp 154 "GET /static/mdeditor/css/editormd.css HTTP/1.1" 304 0
+INFO 2019-10-08 16:07:15,205 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 16:07:15,213 basehttp 154 "GET /media/articleimage/timg_BxDQSai.jpeg HTTP/1.1" 304 0
+INFO 2019-10-08 16:07:15,273 basehttp 154 "GET /static/mdeditor/js/jquery.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:07:15,293 basehttp 154 "GET /static/mdeditor/js/editormd.min.js HTTP/1.1" 304 0
+WARNING 2019-10-08 16:07:15,296 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 16:07:15,343 basehttp 154 "GET /static/mdeditor/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 304 0
+WARNING 2019-10-08 16:07:15,505 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 16:07:15,576 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addon/dialog/dialog.css HTTP/1.1" 304 0
+INFO 2019-10-08 16:07:15,577 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/codemirror.min.css HTTP/1.1" 304 0
+INFO 2019-10-08 16:07:15,588 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addon/search/matchesonscrollbar.css HTTP/1.1" 304 0
+INFO 2019-10-08 16:07:15,589 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/codemirror.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:07:15,594 basehttp 154 "GET /static/mdeditor/images/loading.gif HTTP/1.1" 304 0
+INFO 2019-10-08 16:07:15,690 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/modes.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:07:15,753 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addons.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:07:15,841 basehttp 154 "GET /static/mdeditor/js/lib/marked.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:07:15,878 basehttp 154 "GET /static/mdeditor/js/lib/prettify.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:07:15,943 basehttp 154 "GET /static/mdeditor/js/lib/raphael.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:07:16,008 basehttp 154 "GET /static/mdeditor/js/lib/underscore.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:07:16,064 basehttp 154 "GET /static/mdeditor/js/lib/flowchart.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:07:16,121 basehttp 154 "GET /static/mdeditor/js/lib/jquery.flowchart.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:07:16,177 basehttp 154 "GET /static/mdeditor/js/lib/sequence-diagram.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:56:50,654 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 16:57:02,110 basehttp 154 "GET /xadmin/blog/articlepost/1/update/ HTTP/1.1" 200 28034
+INFO 2019-10-08 16:57:02,180 basehttp 154 "GET /static/mdeditor/css/editormd.css HTTP/1.1" 304 0
+INFO 2019-10-08 16:57:02,187 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 16:57:02,196 basehttp 154 "GET /media/articleimage/timg_BxDQSai.jpeg HTTP/1.1" 304 0
+INFO 2019-10-08 16:57:02,197 basehttp 154 "GET /static/mdeditor/js/jquery.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:57:02,224 basehttp 154 "GET /static/mdeditor/js/editormd.min.js HTTP/1.1" 304 0
+WARNING 2019-10-08 16:57:02,230 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 16:57:02,279 basehttp 154 "GET /static/mdeditor/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 304 0
+WARNING 2019-10-08 16:57:02,565 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 16:57:02,635 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/codemirror.min.css HTTP/1.1" 304 0
+INFO 2019-10-08 16:57:02,655 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addon/dialog/dialog.css HTTP/1.1" 304 0
+INFO 2019-10-08 16:57:02,660 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addon/search/matchesonscrollbar.css HTTP/1.1" 304 0
+INFO 2019-10-08 16:57:02,662 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/codemirror.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:57:02,673 basehttp 154 "GET /static/mdeditor/images/loading.gif HTTP/1.1" 304 0
+INFO 2019-10-08 16:57:02,751 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/modes.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:57:02,853 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addons.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:57:02,937 basehttp 154 "GET /static/mdeditor/js/lib/marked.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:57:02,988 basehttp 154 "GET /static/mdeditor/js/lib/prettify.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:57:03,026 basehttp 154 "GET /static/mdeditor/js/lib/raphael.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:57:03,097 basehttp 154 "GET /static/mdeditor/js/lib/underscore.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:57:03,155 basehttp 154 "GET /static/mdeditor/js/lib/flowchart.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:57:03,211 basehttp 154 "GET /static/mdeditor/js/lib/jquery.flowchart.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:57:03,261 basehttp 154 "GET /static/mdeditor/js/lib/sequence-diagram.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 16:57:04,169 basehttp 154 "GET /xadmin/blog/articlecategroy/ HTTP/1.1" 200 28012
+INFO 2019-10-08 16:57:04,219 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 16:57:08,726 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 15973
+INFO 2019-10-08 16:57:08,766 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 16:57:09,233 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 15973
+WARNING 2019-10-08 16:57:14,307 log 228 Not Found: /
+WARNING 2019-10-08 16:57:14,309 basehttp 154 "GET / HTTP/1.1" 404 2538
+INFO 2019-10-08 16:57:17,722 basehttp 154 "GET /article/ HTTP/1.1" 200 7030
+WARNING 2019-10-08 16:57:44,246 log 228 Not Found: /article/id
+WARNING 2019-10-08 16:57:44,247 basehttp 154 "GET /article/id HTTP/1.1" 404 2970
+INFO 2019-10-08 16:57:48,346 basehttp 154 "GET /article/1 HTTP/1.1" 301 0
+INFO 2019-10-08 16:57:48,443 basehttp 154 "GET /article/1/ HTTP/1.1" 200 5933
+INFO 2019-10-08 16:58:38,977 basehttp 154 "GET /article/1 HTTP/1.1" 301 0
+INFO 2019-10-08 16:58:38,983 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 16:58:39,017 basehttp 154 "GET /article/1/ HTTP/1.1" 200 292
+INFO 2019-10-08 16:59:21,120 basehttp 154 "GET /xadmin/blog/articlecategroy/1/update/ HTTP/1.1" 200 18984
+INFO 2019-10-08 16:59:21,192 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 16:59:24,678 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 28140
+INFO 2019-10-08 16:59:24,719 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 16:59:26,095 basehttp 154 "GET /xadmin/blog/articlepost/1/update/ HTTP/1.1" 200 28034
+INFO 2019-10-08 16:59:26,162 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+WARNING 2019-10-08 16:59:26,201 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+WARNING 2019-10-08 16:59:26,354 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 16:59:42,895 basehttp 154 "POST /xadmin/blog/articlepost/1/update/ HTTP/1.1" 302 0
+INFO 2019-10-08 16:59:43,032 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 28375
+INFO 2019-10-08 16:59:43,145 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 16:59:48,633 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 16:59:48,861 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1267
+INFO 2019-10-08 17:00:00,728 basehttp 154 "GET /xadmin/blog/articlepost/1/update/ HTTP/1.1" 200 28501
+INFO 2019-10-08 17:00:00,784 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+WARNING 2019-10-08 17:00:00,838 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+WARNING 2019-10-08 17:00:01,068 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 17:00:17,115 basehttp 154 "GET /article/1/ HTTP/1.1" 200 6956
+INFO 2019-10-08 17:04:07,062 basehttp 154 "POST /xadmin/blog/articlepost/1/update/ HTTP/1.1" 302 0
+INFO 2019-10-08 17:04:07,174 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 28375
+INFO 2019-10-08 17:04:07,264 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 17:04:11,286 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 17:04:11,322 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1759
+INFO 2019-10-08 17:11:48,088 basehttp 154 "GET /xadmin/blog/articlepost/1/update/ HTTP/1.1" 200 28741
+INFO 2019-10-08 17:11:48,126 basehttp 154 "GET /static/mdeditor/css/editormd.css HTTP/1.1" 304 0
+INFO 2019-10-08 17:11:48,145 basehttp 154 "GET /media/articleimage/timg_BxDQSai.jpeg HTTP/1.1" 304 0
+INFO 2019-10-08 17:11:48,168 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 17:11:48,175 basehttp 154 "GET /static/mdeditor/js/jquery.min.js HTTP/1.1" 304 0
+WARNING 2019-10-08 17:11:48,239 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 17:11:48,243 basehttp 154 "GET /static/mdeditor/js/editormd.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:11:48,309 basehttp 154 "GET /static/mdeditor/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 304 0
+WARNING 2019-10-08 17:11:48,453 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 17:11:48,514 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/codemirror.min.css HTTP/1.1" 304 0
+INFO 2019-10-08 17:11:48,534 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addon/dialog/dialog.css HTTP/1.1" 304 0
+INFO 2019-10-08 17:11:48,537 basehttp 154 "GET /static/mdeditor/images/loading.gif HTTP/1.1" 304 0
+INFO 2019-10-08 17:11:48,539 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addon/search/matchesonscrollbar.css HTTP/1.1" 304 0
+INFO 2019-10-08 17:11:48,540 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/codemirror.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:11:48,598 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/modes.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:11:48,679 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addons.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:11:48,847 basehttp 154 "GET /static/mdeditor/js/lib/marked.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:11:48,904 basehttp 154 "GET /static/mdeditor/js/lib/prettify.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:11:48,936 basehttp 154 "GET /static/mdeditor/js/lib/raphael.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:11:49,004 basehttp 154 "GET /static/mdeditor/js/lib/underscore.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:11:49,063 basehttp 154 "GET /static/mdeditor/js/lib/flowchart.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:11:49,115 basehttp 154 "GET /static/mdeditor/js/lib/jquery.flowchart.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:11:49,165 basehttp 154 "GET /static/mdeditor/js/lib/sequence-diagram.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:19:53,051 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1759
+INFO 2019-10-08 17:20:36,491 basehttp 154 "POST /xadmin/blog/articlepost/1/update/ HTTP/1.1" 302 0
+INFO 2019-10-08 17:20:36,599 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 28375
+INFO 2019-10-08 17:20:36,684 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 17:26:09,855 basehttp 154 "GET /xadmin/blog/articlepost/1/update/ HTTP/1.1" 200 28740
+INFO 2019-10-08 17:26:09,909 basehttp 154 "GET /static/mdeditor/css/editormd.css HTTP/1.1" 304 0
+INFO 2019-10-08 17:26:09,931 basehttp 154 "GET /media/articleimage/timg_BxDQSai.jpeg HTTP/1.1" 304 0
+INFO 2019-10-08 17:26:09,942 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 17:26:09,962 basehttp 154 "GET /static/mdeditor/js/jquery.min.js HTTP/1.1" 304 0
+WARNING 2019-10-08 17:26:10,014 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 17:26:10,017 basehttp 154 "GET /static/mdeditor/js/editormd.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:26:10,079 basehttp 154 "GET /static/mdeditor/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 304 0
+WARNING 2019-10-08 17:26:10,289 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 17:26:10,352 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/codemirror.min.css HTTP/1.1" 304 0
+INFO 2019-10-08 17:26:10,389 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addon/search/matchesonscrollbar.css HTTP/1.1" 304 0
+INFO 2019-10-08 17:26:10,393 basehttp 154 "GET /static/mdeditor/images/loading.gif HTTP/1.1" 304 0
+INFO 2019-10-08 17:26:10,395 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addon/dialog/dialog.css HTTP/1.1" 304 0
+INFO 2019-10-08 17:26:10,397 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/codemirror.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:26:10,483 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/modes.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:26:10,571 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addons.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:26:10,702 basehttp 154 "GET /static/mdeditor/js/lib/marked.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:26:10,772 basehttp 154 "GET /static/mdeditor/js/lib/prettify.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:26:10,806 basehttp 154 "GET /static/mdeditor/js/lib/raphael.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:26:10,868 basehttp 154 "GET /static/mdeditor/js/lib/underscore.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:26:10,928 basehttp 154 "GET /static/mdeditor/js/lib/flowchart.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:26:10,982 basehttp 154 "GET /static/mdeditor/js/lib/jquery.flowchart.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:26:11,043 basehttp 154 "GET /static/mdeditor/js/lib/sequence-diagram.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 17:46:11,151 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 17:46:11,378 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1754
+INFO 2019-10-08 18:52:56,558 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 18:52:56,952 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1754
+INFO 2019-10-08 18:53:36,009 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1754
+INFO 2019-10-08 18:53:39,297 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 18:53:39,446 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1754
+INFO 2019-10-08 18:57:10,284 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 18:57:10,473 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1754
+INFO 2019-10-08 19:02:18,002 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1754
+INFO 2019-10-08 19:02:50,890 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1754
+INFO 2019-10-08 19:13:25,343 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 19:13:25,491 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1754
+INFO 2019-10-08 19:17:09,477 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 19:17:09,574 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1754
+INFO 2019-10-08 19:19:55,244 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1754
+INFO 2019-10-08 19:20:25,063 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 19:20:25,109 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1754
+INFO 2019-10-08 19:20:47,417 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 19:20:47,483 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1754
+INFO 2019-10-08 19:20:53,634 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 19:20:54,823 basehttp 154 "GET /article/ HTTP/1.1" 200 149
+INFO 2019-10-08 19:20:54,845 basehttp 154 "GET /media/articleimage/timg_BxDQSai.jpeg HTTP/1.1" 304 0
+INFO 2019-10-08 19:21:32,176 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1754
+INFO 2019-10-08 19:23:31,406 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1754
+INFO 2019-10-08 19:25:26,545 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/models.py changed, reloading.
+INFO 2019-10-08 19:25:30,037 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 19:25:36,165 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 19:25:36,335 basehttp 154 "GET /article/1/ HTTP/1.1" 200 914
+INFO 2019-10-08 19:27:46,853 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 19:27:46,885 basehttp 154 "GET /article/1/ HTTP/1.1" 200 914
+INFO 2019-10-08 19:27:51,091 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 19:27:51,130 basehttp 154 "GET /article/1/ HTTP/1.1" 200 914
+INFO 2019-10-08 19:28:04,442 basehttp 154 "POST /xadmin/blog/articlepost/1/update/ HTTP/1.1" 302 0
+INFO 2019-10-08 19:28:05,849 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 28399
+INFO 2019-10-08 19:28:05,941 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 19:28:09,331 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 19:28:09,388 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1892
+INFO 2019-10-08 19:28:59,106 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 173
+INFO 2019-10-08 19:29:00,102 basehttp 154 "GET /article/ HTTP/1.1" 200 173
+INFO 2019-10-08 19:29:00,931 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 173
+INFO 2019-10-08 19:29:03,332 basehttp 154 "GET /article/ HTTP/1.1" 200 173
+INFO 2019-10-08 19:29:05,014 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 19:29:06,079 basehttp 154 "GET /article/ HTTP/1.1" 200 173
+INFO 2019-10-08 19:29:07,379 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1892
+INFO 2019-10-08 19:29:20,617 basehttp 154 "GET /article/ HTTP/1.1" 200 173
+INFO 2019-10-08 19:29:26,255 basehttp 154 "GET /article/ HTTP/1.1" 200 173
+INFO 2019-10-08 19:29:27,283 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 173
+INFO 2019-10-08 19:29:27,924 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1892
+INFO 2019-10-08 19:29:54,341 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 19:29:55,845 basehttp 154 "GET /article/ HTTP/1.1" 200 173
+INFO 2019-10-08 19:29:58,579 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 173
+INFO 2019-10-08 19:29:59,336 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1892
+INFO 2019-10-08 19:30:02,725 basehttp 154 "GET /article/ HTTP/1.1" 200 173
+INFO 2019-10-08 19:30:04,271 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1892
+INFO 2019-10-08 19:32:49,540 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/models.py changed, reloading.
+INFO 2019-10-08 19:32:53,422 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 19:33:01,851 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 19:33:01,852 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 19:33:30,487 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 19:33:30,488 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 19:33:33,073 basehttp 154 "GET /article/ HTTP/1.1" 200 173
+INFO 2019-10-08 19:33:34,353 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 173
+INFO 2019-10-08 19:33:36,748 basehttp 154 "GET /article/ HTTP/1.1" 200 173
+INFO 2019-10-08 19:33:38,148 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1892
+INFO 2019-10-08 19:35:38,532 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1892
+INFO 2019-10-08 19:35:41,161 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 19:35:41,192 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1892
+INFO 2019-10-08 19:36:15,738 basehttp 154 "GET /xadmin/blog/articlepost/1/update/ HTTP/1.1" 200 29727
+INFO 2019-10-08 19:36:16,090 basehttp 154 "GET /xadmin/blog/articlepost/1/update/ HTTP/1.1" 200 29727
+INFO 2019-10-08 19:36:16,141 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 19:36:16,157 basehttp 154 "GET /static/mdeditor/css/editormd.css HTTP/1.1" 304 0
+INFO 2019-10-08 19:36:16,186 basehttp 154 "GET /static/mdeditor/js/jquery.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 19:36:16,252 basehttp 154 "GET /static/mdeditor/js/editormd.min.js HTTP/1.1" 304 0
+WARNING 2019-10-08 19:36:16,254 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 19:36:16,421 basehttp 154 "GET /static/mdeditor/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1" 304 0
+WARNING 2019-10-08 19:36:16,452 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1771
+INFO 2019-10-08 19:36:16,571 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/codemirror.min.css HTTP/1.1" 304 0
+INFO 2019-10-08 19:36:16,586 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/codemirror.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 19:36:16,614 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addon/dialog/dialog.css HTTP/1.1" 304 0
+INFO 2019-10-08 19:36:16,618 basehttp 154 "GET /static/mdeditor/images/loading.gif HTTP/1.1" 304 0
+INFO 2019-10-08 19:36:16,621 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addon/search/matchesonscrollbar.css HTTP/1.1" 304 0
+INFO 2019-10-08 19:36:16,659 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/modes.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 19:36:16,755 basehttp 154 "GET /static/mdeditor/js/lib/codemirror/addons.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 19:36:16,765 basehttp 154 "GET /xadmin/blog/articlepost/1/update/ HTTP/1.1" 200 29727
+INFO 2019-10-08 19:36:16,909 basehttp 154 "GET /static/mdeditor/js/lib/marked.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 19:36:17,038 basehttp 154 "GET /static/mdeditor/js/lib/prettify.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 19:36:17,094 basehttp 154 "GET /static/mdeditor/js/lib/raphael.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 19:36:17,124 basehttp 154 "GET /static/mdeditor/js/lib/underscore.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 19:36:17,183 basehttp 154 "GET /static/mdeditor/js/lib/flowchart.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 19:36:17,235 basehttp 154 "GET /static/mdeditor/js/lib/jquery.flowchart.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 19:36:17,291 basehttp 154 "GET /static/mdeditor/js/lib/sequence-diagram.min.js HTTP/1.1" 304 0
+INFO 2019-10-08 19:38:44,758 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 173
+INFO 2019-10-08 19:38:47,535 basehttp 154 "GET /article/1/ HTTP/1.1" 200 1892
+INFO 2019-10-08 19:38:49,772 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 19:38:51,472 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 19:38:51,477 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 19:39:00,327 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 173
+INFO 2019-10-08 19:39:02,252 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 19:39:02,252 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 19:42:30,971 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/serializers.py changed, reloading.
+INFO 2019-10-08 19:42:35,684 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 19:46:18,145 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/serializers.py changed, reloading.
+INFO 2019-10-08 19:46:20,356 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 19:51:38,308 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/serializers.py changed, reloading.
+INFO 2019-10-08 19:51:39,693 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 19:53:07,681 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 19:54:22,624 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/models.py changed, reloading.
+INFO 2019-10-08 19:54:23,593 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 19:54:36,838 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 19:55:04,637 basehttp 154 "GET /xadmin/blog/articlepost/ HTTP/1.1" 200 28581
+INFO 2019-10-08 19:55:07,647 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 16402
+INFO 2019-10-08 19:55:07,729 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 19:55:09,966 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 16402
+INFO 2019-10-08 19:55:25,591 basehttp 154 "GET /xadmin/blog/messages/ HTTP/1.1" 200 25270
+INFO 2019-10-08 19:55:25,632 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 19:55:28,212 basehttp 154 "GET /xadmin/blog/messages/add/ HTTP/1.1" 200 18308
+INFO 2019-10-08 19:55:28,285 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 19:55:43,349 basehttp 154 "POST /xadmin/blog/messages/add/ HTTP/1.1" 302 0
+INFO 2019-10-08 19:55:43,514 basehttp 154 "GET /xadmin/blog/messages/ HTTP/1.1" 200 27353
+INFO 2019-10-08 19:55:43,601 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 19:55:50,423 basehttp 154 "GET /xadmin/blog/messages/add/ HTTP/1.1" 200 18308
+INFO 2019-10-08 19:55:50,458 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 19:56:29,849 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/models.py changed, reloading.
+INFO 2019-10-08 19:56:31,337 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 19:56:33,486 basehttp 154 "GET /xadmin/blog/messages/add/ HTTP/1.1" 200 18308
+INFO 2019-10-08 19:56:33,526 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 19:56:46,577 basehttp 154 "POST /xadmin/blog/messages/add/ HTTP/1.1" 302 0
+INFO 2019-10-08 19:56:46,683 basehttp 154 "GET /xadmin/blog/messages/ HTTP/1.1" 200 27787
+INFO 2019-10-08 19:56:46,761 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+WARNING 2019-10-08 19:57:26,472 log 228 Not Found: /messages
+WARNING 2019-10-08 19:57:26,473 basehttp 154 "GET /messages HTTP/1.1" 404 2580
+INFO 2019-10-08 19:58:32,432 basehttp 154 "GET /article/messages HTTP/1.1" 301 0
+INFO 2019-10-08 19:58:32,487 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 5695
+INFO 2019-10-08 20:02:20,409 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:02:59,791 basehttp 154 "GET /article/messages HTTP/1.1" 301 0
+INFO 2019-10-08 20:02:59,821 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 142
+INFO 2019-10-08 20:03:10,813 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:03:10,815 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 20:03:12,215 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 142
+INFO 2019-10-08 20:05:32,808 basehttp 154 "GET /xadmin/blog/messages/add/ HTTP/1.1" 200 18308
+INFO 2019-10-08 20:05:32,845 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 20:05:43,235 basehttp 154 "POST /xadmin/blog/messages/add/ HTTP/1.1" 302 0
+INFO 2019-10-08 20:05:43,383 basehttp 154 "GET /xadmin/blog/messages/ HTTP/1.1" 200 28142
+INFO 2019-10-08 20:05:43,473 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 20:05:47,907 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:05:47,936 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 187
+INFO 2019-10-08 20:05:55,168 basehttp 154 "GET /xadmin/blog/messages/add/ HTTP/1.1" 200 18308
+INFO 2019-10-08 20:05:55,213 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 20:06:01,560 basehttp 154 "POST /xadmin/blog/messages/add/ HTTP/1.1" 302 0
+INFO 2019-10-08 20:06:01,704 basehttp 154 "GET /xadmin/blog/messages/ HTTP/1.1" 200 28515
+INFO 2019-10-08 20:06:01,785 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 20:06:08,809 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:06:09,014 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 232
+INFO 2019-10-08 20:06:14,049 basehttp 154 "GET /xadmin/blog/messages/add/ HTTP/1.1" 200 18308
+INFO 2019-10-08 20:06:14,101 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 20:06:21,240 basehttp 154 "POST /xadmin/blog/messages/add/ HTTP/1.1" 302 0
+INFO 2019-10-08 20:06:21,396 basehttp 154 "GET /xadmin/blog/messages/ HTTP/1.1" 200 28918
+INFO 2019-10-08 20:06:21,470 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 20:06:25,726 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:06:25,742 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 292
+INFO 2019-10-08 20:12:28,090 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:12:28,121 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 292
+INFO 2019-10-08 20:15:48,052 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 292
+INFO 2019-10-08 20:17:43,579 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:17:43,706 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 292
+INFO 2019-10-08 20:18:32,502 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 20:18:34,154 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:18:34,157 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 20:18:37,830 basehttp 154 "GET /article/?article_categroy=1 HTTP/1.1" 200 173
+INFO 2019-10-08 20:18:37,858 basehttp 154 "GET /media/articleimage/timg_BxDQSai.jpeg HTTP/1.1" 304 0
+INFO 2019-10-08 20:18:38,835 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 292
+INFO 2019-10-08 20:21:45,042 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 292
+INFO 2019-10-08 20:23:43,766 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 292
+INFO 2019-10-08 20:25:57,022 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/views.py changed, reloading.
+INFO 2019-10-08 20:26:01,318 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-10-08 20:26:47,215 autoreload 217 /home/xiaojin/桌面/blog/blogapi/blogapi/apps/blog/urls.py changed, reloading.
+INFO 2019-10-08 20:26:49,783 autoreload 597 Watching for file changes with StatReloader
+WARNING 2019-10-08 20:26:56,847 log 228 Method Not Allowed: /article/send_messages/
+WARNING 2019-10-08 20:26:56,848 basehttp 154 "GET /article/send_messages/ HTTP/1.1" 405 7484
+INFO 2019-10-08 20:27:15,523 basehttp 154 "POST /article/send_messages/ HTTP/1.1" 201 7504
+INFO 2019-10-08 20:27:24,165 basehttp 154 "GET /xadmin/blog/messages/ HTTP/1.1" 200 28973
+INFO 2019-10-08 20:27:24,222 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 20:32:30,172 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 337
+INFO 2019-10-08 20:39:14,470 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:39:14,574 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 337
+INFO 2019-10-08 20:39:51,040 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:39:51,148 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 337
+INFO 2019-10-08 20:39:54,242 basehttp 154 "OPTIONS /article/send_messages HTTP/1.1" 200 0
+ERROR 2019-10-08 20:39:54,373 log 228 Internal Server Error: /article/send_messages
+Traceback (most recent call last):
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/utils/deprecation.py", line 93, in __call__
+    response = self.process_request(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/middleware/common.py", line 53, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/middleware/common.py", line 93, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to api.cgtblog.com:8000/article/send_messages/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2019-10-08 20:39:54,376 basehttp 154 "POST /article/send_messages HTTP/1.1" 500 68155
+INFO 2019-10-08 20:41:18,179 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:41:18,513 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 337
+ERROR 2019-10-08 20:41:22,952 log 228 Internal Server Error: /article/send_messages
+Traceback (most recent call last):
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/utils/deprecation.py", line 93, in __call__
+    response = self.process_request(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/middleware/common.py", line 53, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/middleware/common.py", line 93, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to api.cgtblog.com:8000/article/send_messages/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2019-10-08 20:41:22,956 basehttp 154 "POST /article/send_messages HTTP/1.1" 500 68155
+INFO 2019-10-08 20:41:38,222 basehttp 154 "GET /article/send_messages HTTP/1.1" 301 0
+WARNING 2019-10-08 20:41:38,308 log 228 Method Not Allowed: /article/send_messages/
+WARNING 2019-10-08 20:41:38,309 basehttp 154 "GET /article/send_messages/ HTTP/1.1" 405 7484
+ERROR 2019-10-08 20:42:24,821 log 228 Internal Server Error: /article/send_messages
+Traceback (most recent call last):
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/utils/deprecation.py", line 93, in __call__
+    response = self.process_request(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/middleware/common.py", line 53, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/middleware/common.py", line 93, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to api.cgtblog.com:8000/article/send_messages/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2019-10-08 20:42:24,824 basehttp 154 "POST /article/send_messages HTTP/1.1" 500 68155
+WARNING 2019-10-08 20:42:40,231 log 228 Method Not Allowed: /article/send_messages/
+WARNING 2019-10-08 20:42:40,233 basehttp 154 "GET /article/send_messages/ HTTP/1.1" 405 7484
+INFO 2019-10-08 20:42:45,479 basehttp 154 "GET /article/ HTTP/1.1" 200 7054
+INFO 2019-10-08 20:42:47,467 basehttp 154 "GET /article/ HTTP/1.1" 200 7054
+WARNING 2019-10-08 20:42:53,674 log 228 Method Not Allowed: /article/send_messages/
+WARNING 2019-10-08 20:42:53,675 basehttp 154 "GET /article/send_messages/ HTTP/1.1" 405 7484
+INFO 2019-10-08 20:43:11,291 basehttp 154 "POST /article/send_messages/ HTTP/1.1" 201 7498
+INFO 2019-10-08 20:47:36,056 basehttp 154 "POST /article/send_messages/ HTTP/1.1" 201 42
+INFO 2019-10-08 20:48:26,043 basehttp 154 "GET /xadmin/blog/messages/ HTTP/1.1" 200 29714
+INFO 2019-10-08 20:48:27,305 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2019-10-08 20:50:10,380 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:50:10,389 basehttp 154 "GET /article/ HTTP/1.1" 200 173
+INFO 2019-10-08 20:50:10,465 basehttp 154 "GET /media/articleimage/timg_BxDQSai.jpeg HTTP/1.1" 304 0
+INFO 2019-10-08 20:50:11,816 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 422
+INFO 2019-10-08 20:50:21,517 basehttp 154 "OPTIONS /article/send_messages HTTP/1.1" 200 0
+ERROR 2019-10-08 20:50:21,592 log 228 Internal Server Error: /article/send_messages
+Traceback (most recent call last):
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/utils/deprecation.py", line 93, in __call__
+    response = self.process_request(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/middleware/common.py", line 53, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/middleware/common.py", line 93, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to api.cgtblog.com:8000/article/send_messages/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2019-10-08 20:50:21,594 basehttp 154 "POST /article/send_messages HTTP/1.1" 500 68155
+INFO 2019-10-08 20:51:32,979 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 422
+INFO 2019-10-08 20:51:35,866 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:51:35,975 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 422
+ERROR 2019-10-08 20:51:39,838 log 228 Internal Server Error: /article/send_messages
+Traceback (most recent call last):
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/utils/deprecation.py", line 93, in __call__
+    response = self.process_request(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/middleware/common.py", line 53, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/middleware/common.py", line 93, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to api.cgtblog.com:8000/article/send_messages/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2019-10-08 20:51:39,841 basehttp 154 "POST /article/send_messages HTTP/1.1" 500 68155
+ERROR 2019-10-08 20:53:18,009 log 228 Internal Server Error: /article/send_messages
+Traceback (most recent call last):
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/utils/deprecation.py", line 93, in __call__
+    response = self.process_request(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/middleware/common.py", line 53, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "/home/xiaojin/.virtualenvs/blogenv/lib/python3.7/site-packages/django/middleware/common.py", line 93, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to api.cgtblog.com:8000/article/send_messages/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2019-10-08 20:53:18,013 basehttp 154 "POST /article/send_messages HTTP/1.1" 500 68155
+INFO 2019-10-08 20:53:18,121 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 422
+INFO 2019-10-08 20:53:27,125 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:53:27,236 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 422
+INFO 2019-10-08 20:53:37,169 basehttp 154 "OPTIONS /article/send_messages/ HTTP/1.1" 200 0
+INFO 2019-10-08 20:53:37,198 basehttp 154 "POST /article/send_messages/ HTTP/1.1" 201 42
+INFO 2019-10-08 20:53:41,879 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:53:42,237 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 465
+INFO 2019-10-08 20:55:24,299 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:55:24,397 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 465
+INFO 2019-10-08 20:55:32,119 basehttp 154 "POST /article/send_messages/ HTTP/1.1" 201 43
+INFO 2019-10-08 20:55:36,187 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:55:37,103 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 509
+INFO 2019-10-08 20:55:48,020 basehttp 154 "GET /article/ HTTP/1.1" 200 173
+INFO 2019-10-08 20:55:49,668 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 509
+INFO 2019-10-08 20:55:51,984 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 509
+INFO 2019-10-08 20:57:23,092 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:57:34,124 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:57:39,469 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 20:57:41,217 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:57:41,225 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 20:57:44,023 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:57:44,043 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 20:57:48,355 basehttp 154 "GET /article/ HTTP/1.1" 200 173
+INFO 2019-10-08 20:57:53,448 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 509
+INFO 2019-10-08 20:58:26,149 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 509
+INFO 2019-10-08 20:58:30,750 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 20:58:30,750 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:58:45,617 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:58:45,619 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 20:59:15,671 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:59:15,685 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 20:59:19,033 basehttp 154 "GET /article/ HTTP/1.1" 200 173
+INFO 2019-10-08 20:59:23,243 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 509
+INFO 2019-10-08 20:59:27,950 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:59:27,956 basehttp 154 "GET /slideshow/ HTTP/1.1" 200 2
+INFO 2019-10-08 20:59:30,759 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 509
+INFO 2019-10-08 20:59:35,316 basehttp 154 "POST /article/send_messages/ HTTP/1.1" 201 39
+INFO 2019-10-08 20:59:38,296 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 20:59:38,305 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 549
+INFO 2019-10-08 21:00:27,446 basehttp 154 "GET /article/categroy/ HTTP/1.1" 200 26
+INFO 2019-10-08 21:00:27,453 basehttp 154 "GET /article/messages/ HTTP/1.1" 200 549

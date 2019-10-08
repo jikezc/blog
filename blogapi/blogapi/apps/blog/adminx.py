@@ -1,5 +1,5 @@
 import xadmin
-from .models import ArticlePost, ArticleCategroy
+from .models import ArticlePost, ArticleCategroy, Messages
 
 
 class ArticlePostModelAdmin(object):
@@ -20,3 +20,12 @@ class AricleCategroyModelAdmin(object):
 
 
 xadmin.site.register(ArticleCategroy, AricleCategroyModelAdmin)
+
+
+class MessageModelAdmin(object):
+    """
+    留言板模型管理类
+    """
+    pass
+
+xadmin.site.register(Messages, MessageModelAdmin)

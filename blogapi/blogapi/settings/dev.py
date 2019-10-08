@@ -50,11 +50,26 @@ INSTALLED_APPS = [
     'corsheaders',
     # django过滤
     'django_filters',
+    'ckeditor',  # 富文本编辑器
+    'ckeditor_uploader',  # 富文本编辑器上传图片模块
+    'mdeditor',
 
     # 注册子应用
     'home',
     'blog',
 ]
+
+# 富文本编辑器ckeditor配置
+CKEDITOR_CONFIGS = {
+    'default': {
+        'toolbar': 'full',  # 工具条功能
+        'height': 300,      # 编辑器高度
+        # 'width': 300,     # 编辑器宽
+    },
+}
+
+CKEDITOR_UPLOAD_PATH = ''  # 上传图片保存路径，留空则调用django的文件上传功能
+
 
 # CORS跨域资源共享的配置信息
 CORS_ORIGIN_WHITELIST = (

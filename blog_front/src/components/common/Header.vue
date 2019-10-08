@@ -43,7 +43,7 @@
           </ul>
           <ul class="nav navbar-nav navbar-right">
             <li :class="index==6?'active':''" @click="index=6">
-              <router-link to="messageboard">留言</router-link>
+              <router-link to="/messageboard">留言</router-link>
             </li>
             <li>
               <router-link to="/support">赞助</router-link>
@@ -63,7 +63,7 @@
         name: "Header",
         data() {
             return {
-                index: 10,
+                index: 0,
                 visible: false,
                 categroy_list: [],
                 article_url: "javascript:void(0)"
@@ -79,7 +79,11 @@
         mounted() {
             console.log(this.index)
         },
-        methods: {}
+        methods: {
+            note_message(){
+                alert("暂未提供此功能")
+            }
+        }
     }
 </script>
 

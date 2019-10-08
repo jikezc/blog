@@ -19,7 +19,7 @@
 </script>
 
 <style>
-  ul, li {
-    list-style: none;
-  }
+  /*ul, li {*/
+  /*  list-style: none;*/
+  /*}*/
 </style>
