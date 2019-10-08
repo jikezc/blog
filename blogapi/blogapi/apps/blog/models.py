@@ -11,6 +11,8 @@ class ArticlePost(BaseModel):
     author = models.CharField(max_length=25, verbose_name="作者")
     # 文章标题
     title = models.CharField(max_length=255, verbose_name="标题")
+    # 文章概要
+    about_aritcle = models.TextField(verbose_name="概要")
     # 文章正文
     article_body = models.TextField(verbose_name="正文")
     # 文章浏览量
@@ -19,6 +21,8 @@ class ArticlePost(BaseModel):
     give_like_count = models.IntegerField(verbose_name="点赞数")
     # 文章类
     article_categroy = models.ForeignKey("ArticleCategroy", on_delete=models.CASCADE, verbose_name="文章分类")
+    # 文章图片
+    article_picture = models.ImageField(upload_to="articleimage", verbose_name="文章图片", null=True, blank=True)
 
     class Meta:
         db_table = "tb_atricle_post"

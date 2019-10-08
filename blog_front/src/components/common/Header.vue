@@ -29,7 +29,8 @@
                   <router-link to="/article" class="categroy_name">全部文章</router-link>
                 </li>
                 <li v-for="item in categroy_list">
-                  <a href="javascript:void(0)" class="categroy_name">{{item.name}}</a>
+                  <router-link :to="'/article/?categroy='+item.id">{{item.name}}</router-link>
+<!--                  <a href="/article/?categroy='+item.id" class="categroy_name">{{item.name}}</a>-->
                 </li>
                 <!--                <li><a href="#">Django</a></li>-->
                 <!--                <li><a href="#">Flask</a></li>-->
@@ -65,6 +66,7 @@
                 index: 10,
                 visible: false,
                 categroy_list: [],
+                article_url: "javascript:void(0)"
             }
         },
         created() {
@@ -72,7 +74,7 @@
                 this.categroy_list = response.data
             }).catch(error => {
                 console.log(error.response)
-            })
+            });
         },
         mounted() {
             console.log(this.index)

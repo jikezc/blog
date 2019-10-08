@@ -48,6 +48,8 @@ INSTALLED_APPS = [
     'reversion',
     # 跨域配置
     'corsheaders',
+    # django过滤
+    'django_filters',
 
     # 注册子应用
     'home',
@@ -60,7 +62,6 @@ CORS_ORIGIN_WHITELIST = (
 )
 
 CORS_ALLOW_CREDENTIALS = False  # 允许ajax跨域请求时携带cookie
-
 
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
@@ -150,7 +151,12 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "statics")
 ]
 
-# 访问上传文件的URL地址前缀
+STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), 'statics')
+
+# 项目中存储上传文件的根目录[暂时配置]，注意，static目录需要手动创建否则上传文件时报错
+MEDIA_ROOT = os.path.join(BASE_DIR, "statics")
+
+# 访问上传文件的url地址前缀
 MEDIA_URL = "/media/"
 
 # 日志配置
@@ -203,4 +209,3 @@ REST_FRAMEWORK = {
     # 异常处理
     'EXCEPTION_HANDLER': 'blogapi.utils.exceptions.custom_exception_handler',
 }
-

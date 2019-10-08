@@ -17,4 +17,4 @@ class ArticlePostModelSerializer(ModelSerializer):
     """
     class Meta:
         model = ArticlePost
-        fields = ('id', 'name', )
+        fields = ('id', 'title', 'about_aritcle', 'article_picture')

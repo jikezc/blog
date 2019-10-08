@@ -1,49 +1,48 @@
 <template>
   <div class="container">
-    <div>
-      <div class="row featurette" @click="go_to_url">
+    <div v-for="article in article_list">
+      <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Git代码管理
+          <h2 class="featurette-heading" @click="go_to_url">{{article.title}}
             <!--            <span class="text-muted">It'll blow your mind.</span>-->
           </h2>
-          <p class="lead">Git是一个开源的分布式版本控制系统，可以有效、高速地处理从很小到非常大的项目版本管理。Git是 Linus Torvalds 为了帮助管理 Linux
-            内核开发而开发的一个开放源码的版本控制软件。</p>
+          <p class="lead">{{article.about_aritcle}}</p>
         </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" src="../../../static/image/timg.jpeg"
+        <div class="col-md-5" @click="go_to_url">
+          <img class="featurette-image img-responsive center-block" :src="article.article_picture"
                alt="Generic placeholder image">
         </div>
       </div>
 
       <hr class="featurette-divider">
 
-      <div class="row featurette">
-        <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod
-            semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus
-            commodo.</p>
-        </div>
-        <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block" src="../../../static/image/timg.jpeg"
-               alt="Generic placeholder image">
-        </div>
-      </div>
+      <!--      <div class="row featurette">-->
+      <!--        <div class="col-md-7 col-md-push-5">-->
+      <!--          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>-->
+      <!--          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod-->
+      <!--            semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus-->
+      <!--            commodo.</p>-->
+      <!--        </div>-->
+      <!--        <div class="col-md-5 col-md-pull-7">-->
+      <!--          <img class="featurette-image img-responsive center-block" src="../../../static/image/timg.jpeg"-->
+      <!--               alt="Generic placeholder image">-->
+      <!--        </div>-->
+      <!--      </div>-->
 
-      <hr class="featurette-divider">
+      <!--      <hr class="featurette-divider">-->
 
-      <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod
-            semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus
-            commodo.</p>
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" src="../../../static/image/timg.jpeg"
-               alt="Generic placeholder image">
-        </div>
-      </div>
+      <!--      <div class="row featurette">-->
+      <!--        <div class="col-md-7">-->
+      <!--          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>-->
+      <!--          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod-->
+      <!--            semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus-->
+      <!--            commodo.</p>-->
+      <!--        </div>-->
+      <!--        <div class="col-md-5">-->
+      <!--          <img class="featurette-image img-responsive center-block" src="../../../static/image/timg.jpeg"-->
+      <!--               alt="Generic placeholder image">-->
+      <!--        </div>-->
+      <!--      </div>-->
     </div>
   </div>
 </template>
@@ -53,11 +52,44 @@
         name: "ArticleList",
         components: {},
         data() {
-            return {}
+            return {
+                page: 0,
+                article_list: [],
+            }
+        },
+        watch: {
+            // 监听地址烂发生变化
+            "$route.query.categroy"(to, from) {
+                // console.log(to);
+                this.get_article_list();
+            }
+        },
+        created() {
+            // 获取文章
+            this.get_article_list();
         },
         methods: {
             go_to_url() {
-                window.location.href="/articledetail"
+                window.location.href = "/articledetail"
+            },
+            get_article_list() {
+                this.page = this.$route.query.categroy;
+                console.log(this.page);
+                if (!this.page) {
+                    this.page = 0;
+                    this.$axios.get(this.$settings.Host + "article/").then(response => {
+                        this.article_list = response.data;
+                    }).catch(error => {
+                        console.log(error.response);
+                    })
+                } else {
+                    this.$axios.get(this.$settings.Host + "article/?article_categroy=" + this.page).then(response => {
+                        this.article_list = response.data;
+                    }).catch(error => {
+                        console.log(error.response);
+                    })
+                }
+
             }
         }
     }
@@ -65,7 +97,6 @@
 
 <style scoped>
   .container {
-    min-height: 2000px;
     padding-top: 70px;
   }
 
