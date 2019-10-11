@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa29db98-8be5-4ce7-851b-b3a37818363a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../blog_front/src/components/Connection.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogapi/apps/blog/paginations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/About.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/ArticleList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/ArticleList.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/Banner.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/Banner.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/Content.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/Content.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/Footer.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/components/common/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/components/common/Header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/src/routers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../blog_front/src/routers/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogapi/apps/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/apps/blog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogapi/apps/blog/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/apps/blog/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogapi/apps/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/apps/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogapi/apps/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/apps/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogapi/apps/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/apps/home/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogapi/utils/basemodels.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/utils/basemodels.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/luffy.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/luffy.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -213,7 +198,7 @@
       <workItem from="1570502657680" duration="135000" />
       <workItem from="1570502812110" duration="36000" />
       <workItem from="1570503143006" duration="26534000" />
-      <workItem from="1570673335412" duration="33818000" />
+      <workItem from="1570673335412" duration="34567000" />
     </task>
     <servers />
   </component>
