@@ -1,4 +1,5 @@
 from django.shortcuts import render
+from rest_framework.views import APIView
 from rest_framework.generics import ListAPIView
 from .models import Slideshow
 from .serializers import SlideshowModelSerializer
@@ -12,3 +13,5 @@ class SlideshowListAPIView(ListAPIView):
     """
     queryset = Slideshow.objects.filter(Q(is_show=True) & Q(is_delete=False)).order_by("sort")
     serializer_class = SlideshowModelSerializer
+
+

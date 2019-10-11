@@ -52,6 +52,18 @@
       <!--        </div>-->
       <!--      </div>-->
     </div>
+    <!--    分页器-->
+    <div class="pagination-box">
+      <el-pagination
+        background
+        layout="prev, pager, next"
+        :current-page.sync="filter.page"
+        :page-size="filter.page_size"
+        :total="article_total"
+        @current-change="handleCurrentChange"
+        @size-change="handleSizeChange">
+      </el-pagination>
+    </div>
   </div>
 </template>
 
@@ -61,43 +73,92 @@
         components: {},
         data() {
             return {
-                page: 0,
+                article_total: 0,
                 article_list: [],
+                filter: {
+                    article_categroy: 0,
+                    page_size: 6,
+                    page: 1,
+                }
             }
         },
         watch: {
             // 监听地址烂发生变化
             "$route.query.categroy"(to, from) {
                 // console.log(to);
+                this.filter.page = 1;
+                this.get_article_list();
+            },
+            "filter.page_size"(to, from) {
+                this.get_article_list();
+            },
+            "filter.page"(to, from) {
                 this.get_article_list();
             }
+            /*            "page"(to, from) {
+                            // console.log(to)
+                            this.get_article_list();
+                        }*/
         },
         created() {
             // 获取文章
             this.get_article_list();
         },
         methods: {
-            go_to_url() {
-                window.location.href = '/articledetail';
-            },
+            // 跳转到文章详情页
+            // go_to_url() {
+            //     window.location.href = '/articledetail';
+            // },
+            // 获取文章列表
             get_article_list() {
-                this.page = this.$route.query.categroy;
-                console.log(this.page);
-                if (!this.page) {
-                    this.page = 0;
-                    this.$axios.get(this.$settings.Host + "article/").then(response => {
-                        this.article_list = response.data;
-                    }).catch(error => {
-                        console.log(error.response);
-                    })
-                } else {
-                    this.$axios.get(this.$settings.Host + "article/?article_categroy=" + this.page).then(response => {
-                        this.article_list = response.data;
-                    }).catch(error => {
-                        console.log(error.response);
-                    })
+                let filters = {};
+                this.filter.article_categroy = this.$route.query.categroy;
+                // 判断是否需要按照文章分类获取文章列表
+                if (this.filter.article_categroy > 0) {
+                    filters.article_categroy = this.filter.article_categroy;
                 }
-
+                if (this.filter.page > 1) {
+                    filters.page = this.filter.page
+                } else {
+                    filters.page = 1
+                }
+                this.$axios.get(this.$settings.Host + "article/", {params: filters}).then(response => {
+                    this.article_list = response.data.results;
+                    this.article_total = response.data.count;
+                }).catch(error => {
+                    console.log(error.response);
+                    this.$message({
+                        message: "获取文章信息有误"
+                    })
+                });
+                // 旧版本按照分类获取文章，代码复杂，且实现分页难以修改
+                // this.categroy_page = this.$route.query.categroy;
+                // console.log(this.categroy_page);
+                // if (!this.categroy_page) {
+                //     this.categroy_page = 0;
+                //     this.$axios.get(this.$settings.Host + "article/").then(response => {
+                //         this.article_list = response.data.results;
+                //         this.total = response.data.count
+                //     }).catch(error => {
+                //         console.log(error.response);
+                //     })
+                // } else {
+                //     this.$axios.get(this.$settings.Host + "article/?article_categroy=" + this.categroy_page).then(response => {
+                //         this.article_list = response.data.results;
+                //         this.total = response.data.count
+                //     }).catch(error => {
+                //         console.log(error.response);
+                //     })
+                // }
+            },
+            // 每页数据量发生变化时执行的方法
+            handleSizeChange(val) {
+                this.filter.page = 1;
+                this.filter.page_size = val;
+            },
+            // 页码发生变化时执行的方法
+            handleCurrentChange(val) {
+                this.filter.page = val;
             }
         }
     }
@@ -108,6 +169,7 @@
     color: #333333;
     text-decoration: none;
   }
+
   .container {
     padding-top: 70px;
   }
@@ -150,6 +212,11 @@
   }
 
   .cover-heading {
+    text-align: center;
+  }
+
+  .pagination-box {
+    display: inline;
     text-align: center;
   }
 </style>

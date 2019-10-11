@@ -3,6 +3,7 @@ from blogapi.utils.basemodels import BaseModel
 from ckeditor_uploader.fields import RichTextUploadingField
 from mdeditor.fields import MDTextField
 import markdown
+from datetime import datetime
 
 
 # Create your models here.
@@ -43,6 +44,7 @@ class ArticlePost(BaseModel):
     #                                           ])
     #     return self.article_body
 
+
     def __str__(self):
         return self.title
 
@@ -76,3 +78,4 @@ class Messages(models.Model):
 
     def __str__(self):
         return self.message_content
+

@@ -10,60 +10,85 @@
     </div>
     <div class="inner cover">
       <h1 class="cover-heading">Welcome to My Blog page.</h1>
-      <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the
-        text, and add your own fullscreen background photo to make it your own.</p>
+      <p class="lead">The night gave me black eyes, but I used them to find light</p>
       <p class="lead">
         <a href="javascript:void(0)" class="btn btn-lg btn-default" @click="go_content">Watch more</a>
       </p>
     </div>
     <hr class="featurette-divider">
-    <div>
+
+    <div v-for="article in three_articles_list">
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Git代码管理
-            <!--            <span class="text-muted">It'll blow your mind.</span>-->
-          </h2>
-          <p class="lead">Git是一个开源的分布式版本控制系统，可以有效、高速地处理从很小到非常大的项目版本管理。Git是 Linus Torvalds 为了帮助管理 Linux
-            内核开发而开发的一个开放源码的版本控制软件。</p>
+          <router-link :to="'/articledetail/?id='+article.id">
+            <h2 class="featurette-heading">
+
+              {{article.title}}
+
+              <!--            <span class="text-muted">It'll blow your mind.</span>-->
+            </h2>
+          </router-link>
+          <p class="lead">{{article.about_aritcle}}</p>
         </div>
+        <!--        @click="go_to_url()-->
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" src="../../../static/image/timg.jpeg"
-               alt="Generic placeholder image">
-        </div>
-      </div>
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod
-            semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus
-            commodo.</p>
-        </div>
-        <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block" src="../../../static/image/timg.jpeg"
-               alt="Generic placeholder image">
-        </div>
-      </div>
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod
-            semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus
-            commodo.</p>
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" src="../../../static/image/timg.jpeg"
-               alt="Generic placeholder image">
+          <router-link :to="'/articledetail/?id='+article.id">
+            <img class="featurette-image img-responsive center-block" :src="article.article_picture"
+                 alt="Generic placeholder image">
+          </router-link>
         </div>
       </div>
 
       <hr class="featurette-divider">
     </div>
+
+<!--    <div>-->
+<!--      <div class="row featurette">-->
+<!--        <div class="col-md-7">-->
+<!--          <h2 class="featurette-heading">Git代码管理-->
+<!--            &lt;!&ndash;            <span class="text-muted">It'll blow your mind.</span>&ndash;&gt;-->
+<!--          </h2>-->
+<!--          <p class="lead">Git是一个开源的分布式版本控制系统，可以有效、高速地处理从很小到非常大的项目版本管理。Git是 Linus Torvalds 为了帮助管理 Linux-->
+<!--            内核开发而开发的一个开放源码的版本控制软件。</p>-->
+<!--        </div>-->
+<!--        <div class="col-md-5">-->
+<!--          <img class="featurette-image img-responsive center-block" src="../../../static/image/timg.jpeg"-->
+<!--               alt="Generic placeholder image">-->
+<!--        </div>-->
+<!--      </div>-->
+
+<!--      <hr class="featurette-divider">-->
+
+<!--      <div class="row featurette">-->
+<!--        <div class="col-md-7 col-md-push-5">-->
+<!--          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>-->
+<!--          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod-->
+<!--            semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus-->
+<!--            commodo.</p>-->
+<!--        </div>-->
+<!--        <div class="col-md-5 col-md-pull-7">-->
+<!--          <img class="featurette-image img-responsive center-block" src="../../../static/image/timg.jpeg"-->
+<!--               alt="Generic placeholder image">-->
+<!--        </div>-->
+<!--      </div>-->
+
+<!--      <hr class="featurette-divider">-->
+
+<!--      <div class="row featurette">-->
+<!--        <div class="col-md-7">-->
+<!--          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>-->
+<!--          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod-->
+<!--            semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus-->
+<!--            commodo.</p>-->
+<!--        </div>-->
+<!--        <div class="col-md-5">-->
+<!--          <img class="featurette-image img-responsive center-block" src="../../../static/image/timg.jpeg"-->
+<!--               alt="Generic placeholder image">-->
+<!--        </div>-->
+<!--      </div>-->
+
+<!--      <hr class="featurette-divider">-->
+<!--    </div>-->
     <img src="../../../static/image/back_top.png" alt="" id="to-top-btn" @click="back_top">
     <!--    <button ></button>-->
   </div> <!-- /container -->
@@ -75,19 +100,25 @@
         data() {
             return {
                 slideshow_list: [],
+                three_articles_list: [],
             }
         },
         created() {
-            this.$axios.get(this.$settings.Host + "slideshow/").then(response => {
-                this.slideshow_list = response.data;
-            }).catch(error => {
-                console.log(error.response);
-            })
+            this.get_slideshow();
+            this.get_three_articles();
         },
         mounted() {
             window.addEventListener('scroll', this.scrollToTop)
         },
         methods: {
+            // 获取轮播图
+            get_slideshow() {
+                this.$axios.get(this.$settings.Host + "slideshow/").then(response => {
+                    this.slideshow_list = response.data;
+                }).catch(error => {
+                    console.log(error.response);
+                })
+            },
             // back_top() {
             //   target.scrollIntoView();
             // },
@@ -130,7 +161,7 @@
 
                 })
 
-            }
+            },
             // 获取导航条高度
             // get_scrollTop() {
             //   var scroll_top = 0;
@@ -142,6 +173,17 @@
             //   console.log(scroll_top);
             //   return scroll_top;
             // }
+            // 获取最新添加的三篇文章在首页展示
+            get_three_articles() {
+                this.$axios.get(this.$settings.Host + "article/three").then(response => {
+                    console.log(response.data);
+                    this.three_articles_list = response.data;
+                }).catch(error => {
+                    this.$message({
+                        message: "查询文章列表错误"
+                    })
+                })
+            }
         }
     }
 </script>
@@ -213,5 +255,10 @@
     position: fixed;
     right: 30px;
     bottom: 30px;
+  }
+
+  a {
+    color: #333333;
+    text-decoration: none;
   }
 </style>

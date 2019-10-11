@@ -33,3 +33,9 @@ class MessagesModelSerializer(ModelSerializer):
         model = Messages
         fields = "__all__"
 
+
+class GiveLikeModelSerializer(ModelSerializer):
+    """点赞序列化器"""
+    class Meta:
+        model = ArticlePost
+        fields = ['id', 'give_like_count']

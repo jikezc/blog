@@ -1,20 +1,36 @@
 <template>
   <div class="footer">
     <ul>
-      <li>关于作者</li>
-      <li>联系方式</li>
+      <li>
+        <router-link to="/about">关于作者</router-link>
+      </li>
+      <li @click="note_message()">
+        <router-link to="">技术交流</router-link>
+      </li>
       <li>声明</li>
       <!--        <li></li>-->
       <!--        <li></li>-->
       <!--        <li></li>-->
     </ul>
-    <p>Copyright © cgtblog.cn版权所有 | 粤ICP备19054175号</p>
+    <p><a href="http://www.beian.miit.gov.cn/">Copyright © cgtblog.cn版权所有 | 粤ICP备19054175号</a></p>
   </div>
 </template>
 
 <script>
     export default {
-        name: "Footer"
+        name: "Footer",
+        data() {
+            return {}
+        },
+        created() {
+        },
+        methods: {
+            note_message() {
+                this.$message({
+                    message: "暂未提供此功能"
+                })
+            }
+        }
     }
 </script>
 
@@ -37,7 +53,7 @@
 
   .footer ul li {
     float: left;
-    width: 112px;
+    width: 236px;
     margin: 0 10px;
     text-align: center;
     font-size: 14px;
@@ -58,5 +74,10 @@
 
   ul, li {
     list-style: none;
+  }
+
+  a {
+    color: #777777;
+    text-decoration: none;
   }
 </style>

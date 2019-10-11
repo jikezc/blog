@@ -6,8 +6,10 @@ import Article from "../components/Article";
 import ArticleDetail from "../components/ArticleDetail";
 import MessageBoard from "../components/MessageBoard";
 import About from "../components/About";
+import Connection from "../components/Connection";
 import mavonEditor from 'mavon-editor';
 import 'mavon-editor/dist/css/index.css';
+
 
 // 这里导入可以让让用户访问的组件
 
@@ -54,6 +56,11 @@ export default new Router({
       name: "About",
       path: "/about",
       component: About,
+    },
+    {
+      name: "Connection",
+      path: "/connection",
+      component: Connection,
     }
   ]
 })

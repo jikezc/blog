@@ -1,17 +1,12 @@
 <template>
   <div class="container">
-    <h2 class="atricle-title">个人简介</h2>
+    <h2 class="atricle-title">联系方式</h2>
     <hr>
     <div class="intro">
-      <h4>陈桂涛</h4>
-      <p>昵称：小金</p>
-      <p>来自广东普宁，现居深圳，计算机网络技术专业，2019年毕业</p>
-      <p>涉及方面：python开发，Linux自动化</p>
-      <p>爱技术、爱编程、爱生活、喜欢养动物植物</p>
-      <p>黑夜给了我黑色的眼睛，我却用它寻找光明</p>
-
-
-
+      <p><span>QQ：</span><span>1019691608</span></p>
+      <p><span>WeChat：</span><span>cg08010818</span></p>
+      <p><span>Email:</span><span>1019691608@qq.com</span></p>
+      <p><span>Phone：</span><span>13128648140</span></p>
     </div>
     <hr>
   </div>
@@ -36,7 +31,7 @@
   }
   .intro {
     min-height: 400px;
-    text-align: center;
+    /*text-align: center;*/
   }
 
   h4 {
@@ -45,5 +40,10 @@
 
   p {
     font-size: 18px;
+  }
+
+  span {
+    margin-left: 10px;
+    padding-left: 10px;
   }
 </style>
