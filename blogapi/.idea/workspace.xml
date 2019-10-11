@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="aa29db98-8be5-4ce7-851b-b3a37818363a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/luffy.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/luffy.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapi/settings/prop.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapi/settings/prop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapi/statics/slideshow/carousel1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapi/statics/slideshow/carousel2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapi/statics/slideshow/carousel3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapi/statics/slideshow/carousel4.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -198,7 +202,7 @@
       <workItem from="1570502657680" duration="135000" />
       <workItem from="1570502812110" duration="36000" />
       <workItem from="1570503143006" duration="26534000" />
-      <workItem from="1570673335412" duration="34567000" />
+      <workItem from="1570673335412" duration="36195000" />
     </task>
     <servers />
   </component>
