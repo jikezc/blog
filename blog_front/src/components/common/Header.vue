@@ -15,7 +15,7 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li :class="index==0?'active':''" @click="index=0"><a href="/home">首页</a></li>
+            <li :class="index==0?'active':''" @click="index=0"><router-link to="/">首页</router-link></li>
             <li class="dropdown" @click="index=4">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                  aria-expanded="false">文章分类 <span class="caret"></span></a>
