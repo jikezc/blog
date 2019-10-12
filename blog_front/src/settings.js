@@ -1,3 +1,3 @@
 export default {
-  Host:"http://api.cgtblog.com:8000/"
+  Host:"http://api.cgtblog.top:8000/"
 }

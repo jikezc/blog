@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa29db98-8be5-4ce7-851b-b3a37818363a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/css/app.9b97f5121b930d170d79767e8de39409.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/css/app.9b97f5121b930d170d79767e8de39409.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/font_1439002_qj555p629qr/demo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/font_1439002_qj555p629qr/demo_index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/font_1439002_qj555p629qr/iconfont.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/font_1439002_qj555p629qr/iconfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/font_1439002_qj555p629qr/iconfont.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/font_1439002_qj555p629qr/iconfont.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/font_1439002_qj555p629qr/iconfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/font_1439002_qj555p629qr/iconfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/font_1439002_qj555p629qr/iconfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/font_1439002_qj555p629qr/iconfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/fonts/element-icons.535877f.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/fonts/element-icons.732389d.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/fonts/fontello.068ca2b.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/fonts/fontello.e73a064.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/fonts/glyphicons-halflings-regular.448c34a.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/fonts/glyphicons-halflings-regular.e18bbf6.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/fonts/glyphicons-halflings-regular.f4769f9.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/fonts/glyphicons-halflings-regular.fa27723.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/image/alipay.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/image/back_top.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/image/carousel1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/image/timg.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/image/wechatpay.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/img/alipay.5f0263b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/img/fontello.9354499.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/img/glyphicons-halflings-regular.8988968.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/img/wechatpay.808186b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/js/app.4eb0576707b3dcd525f6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/js/app.4eb0576707b3dcd525f6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/js/manifest.eeb2c031c0c552bd70ec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog_front/dist/static/js/manifest.eeb2c031c0c552bd70ec.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aa29db98-8be5-4ce7-851b-b3a37818363a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +195,7 @@
       <workItem from="1570502657680" duration="135000" />
       <workItem from="1570502812110" duration="36000" />
       <workItem from="1570503143006" duration="26534000" />
-      <workItem from="1570673335412" duration="39179000" />
+      <workItem from="1570673335412" duration="40458000" />
     </task>
     <servers />
   </component>
