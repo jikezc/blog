@@ -29,8 +29,8 @@ SECRET_KEY = '1&%3e$bxrsu@8y&f2bj=@wcz2ba@q2=#@5wn)_fec#+j3$rc&v'
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    "api.cgtblog.com",
-    "www.cgtblog.com",
+    "api.cgtblog.top",
+    "www.cgtblog.top",
     "127.0.0.1",
     "47.106.100.73",
 ]
@@ -78,7 +78,7 @@ CKEDITOR_UPLOAD_PATH = ''  # 上传图片保存路径，留空则调用django的
 
 # CORS跨域资源共享的配置信息
 CORS_ORIGIN_WHITELIST = (
-    'http://www.cgtblog.com:8080',
+    'http://www.cgtblog.top',
 )
 
 CORS_ALLOW_CREDENTIALS = False  # 允许ajax跨域请求时携带cookie
@@ -121,7 +121,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'blog',
-        'HOST': '127.0.0.1',
+        'HOST': '47.106.100.73',
         'POST': '3306',
         'USER': 'blog_user',
         'PASSWORD': '07150818lyqx',

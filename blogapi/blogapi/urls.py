@@ -19,6 +19,7 @@ from django.conf import settings
 from django.views.static import serve
 import xadmin
 from xadmin.plugins import xversion
+from django.conf import settings
 
 #调用xadmin认证方法
 xadmin.autodiscover()
@@ -34,3 +35,7 @@ urlpatterns = [
     path(r'^ckeditor/', include('ckeditor_uploader.urls')),
     path(r'^mdeditor/', include('mdeditor.urls')),
 ]
+
+if settings.DEBUG:
+    # static files (image, css, javascript, etc)
+    urlpatterns += static(settings.MEDIA_URL, document_root=setting.MEDIA_ROOT)

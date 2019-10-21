@@ -4698,3 +4698,1217 @@ INFO 2019-10-11 19:54:19,888 basehttp 154 "GET /article/three/ HTTP/1.1" 200 193
 INFO 2019-10-12 12:04:01,138 autoreload 597 Watching for file changes with StatReloader
 WARNING 2019-10-12 12:04:04,936 log 228 Not Found: /
 WARNING 2019-10-12 12:04:04,937 basehttp 154 "GET / HTTP/1.1" 404 2538
+ERROR 2019-10-14 01:50:13,799 exception 77 Invalid HTTP_HOST header: 'api.cgtblog.top:8000'. You may need to add 'api.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-14 01:50:14,022 log 228 Bad Request: /
+ERROR 2019-10-14 01:50:14,181 exception 77 Invalid HTTP_HOST header: 'api.cgtblog.top:8000'. You may need to add 'api.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-14 01:50:14,181 log 228 Bad Request: /favicon.ico
+ERROR 2019-10-14 01:51:11,080 exception 77 Invalid HTTP_HOST header: 'api.cgtblog.top:8000'. You may need to add 'api.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-14 01:51:11,082 log 228 Bad Request: /
+ERROR 2019-10-14 01:51:11,246 exception 77 Invalid HTTP_HOST header: 'api.cgtblog.top:8000'. You may need to add 'api.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-14 01:51:11,247 log 228 Bad Request: /favicon.ico
+ERROR 2019-10-14 01:51:42,980 exception 77 Invalid HTTP_HOST header: 'api.cgtblog.top:8000'. You may need to add 'api.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-14 01:51:42,980 log 228 Bad Request: /
+ERROR 2019-10-14 01:51:43,131 exception 77 Invalid HTTP_HOST header: 'api.cgtblog.top:8000'. You may need to add 'api.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-14 01:51:43,131 log 228 Bad Request: /favicon.ico
+ERROR 2019-10-14 01:51:45,065 exception 77 Invalid HTTP_HOST header: 'api.cgtblog.top:8000'. You may need to add 'api.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-14 01:51:45,066 log 228 Bad Request: /
+ERROR 2019-10-14 01:51:45,165 exception 77 Invalid HTTP_HOST header: 'api.cgtblog.top:8000'. You may need to add 'api.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-14 01:51:45,166 log 228 Bad Request: /favicon.ico
+ERROR 2019-10-14 01:51:47,372 exception 77 Invalid HTTP_HOST header: 'api.cgtblog.top:8000'. You may need to add 'api.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-14 01:51:47,373 log 228 Bad Request: /
+ERROR 2019-10-14 01:51:47,467 exception 77 Invalid HTTP_HOST header: 'api.cgtblog.top:8000'. You may need to add 'api.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-14 01:51:47,467 log 228 Bad Request: /favicon.ico
+WARNING 2019-10-14 01:52:27,374 log 228 Not Found: /
+WARNING 2019-10-14 01:52:27,583 log 228 Not Found: /favicon.ico
+WARNING 2019-10-14 01:52:45,864 log 228 Not Found: /
+WARNING 2019-10-14 01:52:49,964 log 228 Not Found: /1
+WARNING 2019-10-14 01:52:56,330 log 228 Not Found: /articel
+WARNING 2019-10-14 01:53:03,184 log 228 Not Found: /static/rest_framework/css/bootstrap.min.css
+WARNING 2019-10-14 01:53:03,227 log 228 Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+WARNING 2019-10-14 01:53:03,228 log 228 Not Found: /static/rest_framework/css/prettify.css
+WARNING 2019-10-14 01:53:03,230 log 228 Not Found: /static/rest_framework/css/default.css
+WARNING 2019-10-14 01:53:03,303 log 228 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2019-10-14 01:53:03,305 log 228 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2019-10-14 01:53:03,306 log 228 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2019-10-14 01:53:03,382 log 228 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2019-10-14 01:53:03,389 log 228 Not Found: /static/rest_framework/js/jquery-3.4.1.min.js
+WARNING 2019-10-14 01:53:03,390 log 228 Not Found: /static/rest_framework/js/default.js
+WARNING 2019-10-14 01:53:03,543 log 228 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2019-10-14 01:53:03,595 log 228 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2019-10-14 01:53:03,709 log 228 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2019-10-14 01:53:03,812 log 228 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2019-10-14 01:53:03,944 log 228 Not Found: /static/rest_framework/js/default.js
+WARNING 2019-10-14 01:53:10,184 log 228 Not Found: /static/xadmin/vendor/bootstrap/css/bootstrap.css
+WARNING 2019-10-14 01:53:10,187 log 228 Not Found: /static/xadmin/vendor/font-awesome/css/font-awesome.min.css
+WARNING 2019-10-14 01:53:10,188 log 228 Not Found: /static/xadmin/css/xadmin.plugins.css
+WARNING 2019-10-14 01:53:10,189 log 228 Not Found: /static/xadmin/css/themes/bootstrap-xadmin.css
+WARNING 2019-10-14 01:53:10,190 log 228 Not Found: /static/xadmin/css/xadmin.responsive.css
+WARNING 2019-10-14 01:53:10,191 log 228 Not Found: /static/xadmin/css/xadmin.main.css
+WARNING 2019-10-14 01:53:10,225 log 228 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js
+WARNING 2019-10-14 01:53:10,231 log 228 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js
+WARNING 2019-10-14 01:53:10,235 log 228 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js
+WARNING 2019-10-14 01:53:10,238 log 228 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js
+WARNING 2019-10-14 01:53:10,258 log 228 Not Found: /static/xadmin/js/xadmin.main.js
+WARNING 2019-10-14 01:53:10,260 log 228 Not Found: /static/xadmin/vendor/bootstrap/js/bootstrap.min.js
+WARNING 2019-10-14 01:53:10,287 log 228 Not Found: /static/xadmin/js/xadmin.responsive.js
+WARNING 2019-10-14 01:53:10,293 log 228 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js
+WARNING 2019-10-14 01:53:10,307 log 228 Not Found: /static/xadmin/js/xadmin.plugin.themes.js
+WARNING 2019-10-14 01:53:10,308 log 228 Not Found: /static/xadmin/vendor/jquery/jquery.min.js
+WARNING 2019-10-14 01:53:10,347 log 228 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js
+WARNING 2019-10-14 01:53:10,371 log 228 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js
+WARNING 2019-10-14 01:53:10,392 log 228 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js
+WARNING 2019-10-14 01:53:10,431 log 228 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js
+WARNING 2019-10-14 01:53:10,461 log 228 Not Found: /static/xadmin/vendor/bootstrap/js/bootstrap.min.js
+WARNING 2019-10-14 01:53:10,493 log 228 Not Found: /static/xadmin/js/xadmin.main.js
+WARNING 2019-10-14 01:53:10,513 log 228 Not Found: /static/xadmin/js/xadmin.responsive.js
+WARNING 2019-10-14 01:53:10,537 log 228 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js
+WARNING 2019-10-14 01:53:10,576 log 228 Not Found: /static/xadmin/js/xadmin.plugin.themes.js
+WARNING 2019-10-14 01:53:39,877 log 228 Not Found: /static/rest_framework/css/bootstrap.min.css
+WARNING 2019-10-14 01:53:39,886 log 228 Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+WARNING 2019-10-14 01:53:39,891 log 228 Not Found: /static/rest_framework/css/prettify.css
+WARNING 2019-10-14 01:53:39,900 log 228 Not Found: /static/rest_framework/css/default.css
+WARNING 2019-10-14 01:53:39,901 log 228 Not Found: /static/rest_framework/js/jquery-3.4.1.min.js
+WARNING 2019-10-14 01:53:39,912 log 228 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2019-10-14 01:53:39,913 log 228 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2019-10-14 01:53:39,926 log 228 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2019-10-14 01:53:39,927 log 228 Not Found: /static/rest_framework/js/default.js
+WARNING 2019-10-14 01:53:39,931 log 228 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2019-10-14 01:53:40,014 log 228 Not Found: /static/rest_framework/js/jquery-3.4.1.min.js
+WARNING 2019-10-14 01:53:40,038 log 228 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2019-10-14 01:53:40,059 log 228 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2019-10-14 01:53:40,075 log 228 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2019-10-14 01:53:40,105 log 228 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2019-10-14 01:53:40,130 log 228 Not Found: /static/rest_framework/js/default.js
+WARNING 2019-10-14 02:05:37,752 log 228 Not Found: /admin-scripts.asp
+WARNING 2019-10-14 02:05:38,497 log 228 Not Found: /admin-scripts.asp
+WARNING 2019-10-14 02:27:46,404 log 228 Not Found: /favicon.ico
+WARNING 2019-10-14 02:32:40,803 log 228 Not Found: /
+WARNING 2019-10-14 02:33:46,719 log 228 Not Found: /
+WARNING 2019-10-14 02:33:50,959 log 228 Not Found: /
+WARNING 2019-10-14 02:34:01,670 log 228 Not Found: /
+WARNING 2019-10-14 02:34:13,662 log 228 Not Found: /
+WARNING 2019-10-14 02:35:27,913 log 228 Not Found: /admin
+WARNING 2019-10-14 03:12:16,613 log 228 Not Found: /
+ERROR 2019-10-14 03:20:49,453 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-14 03:20:49,454 log 228 Bad Request: /
+WARNING 2019-10-14 03:51:38,931 log 228 Not Found: /
+WARNING 2019-10-14 04:16:15,978 log 228 Not Found: /
+WARNING 2019-10-14 04:16:19,503 log 228 Not Found: /admin
+WARNING 2019-10-14 04:19:21,145 log 228 Not Found: /favicon.ico
+WARNING 2019-10-14 04:34:32,135 log 228 Not Found: /
+WARNING 2019-10-14 05:15:04,165 log 228 Not Found: /
+WARNING 2019-10-14 05:15:05,217 log 228 Not Found: /
+WARNING 2019-10-14 05:15:30,830 log 228 Not Found: /
+WARNING 2019-10-14 05:18:42,467 log 228 Not Found: /
+WARNING 2019-10-14 05:19:17,488 log 228 Not Found: /
+WARNING 2019-10-14 05:19:42,382 log 228 Not Found: /
+WARNING 2019-10-14 05:26:14,794 log 228 Not Found: /
+WARNING 2019-10-14 05:28:10,319 log 228 Not Found: /
+WARNING 2019-10-14 05:28:48,343 log 228 Not Found: /
+WARNING 2019-10-14 05:33:04,560 log 228 Not Found: /
+WARNING 2019-10-14 05:33:04,561 log 228 Not Found: /
+WARNING 2019-10-14 05:33:04,562 log 228 Not Found: /
+WARNING 2019-10-14 05:33:04,713 log 228 Not Found: /
+WARNING 2019-10-14 05:33:04,714 log 228 Not Found: /
+WARNING 2019-10-14 05:33:04,720 log 228 Not Found: /
+WARNING 2019-10-14 05:50:22,179 log 228 Not Found: /
+WARNING 2019-10-14 05:50:22,182 log 228 Not Found: /
+WARNING 2019-10-14 05:50:22,233 log 228 Not Found: /
+WARNING 2019-10-14 06:13:56,101 log 228 Not Found: /
+WARNING 2019-10-14 06:13:56,183 log 228 Not Found: /
+WARNING 2019-10-14 06:17:10,791 log 228 Not Found: /
+WARNING 2019-10-14 07:03:04,969 log 228 Not Found: /
+WARNING 2019-10-14 07:03:04,970 log 228 Not Found: /
+WARNING 2019-10-14 07:03:05,073 log 228 Not Found: /
+WARNING 2019-10-14 07:03:05,086 log 228 Not Found: /
+WARNING 2019-10-14 07:03:05,099 log 228 Not Found: /
+WARNING 2019-10-14 07:03:05,106 log 228 Not Found: /
+WARNING 2019-10-14 07:13:17,562 log 228 Not Found: /
+WARNING 2019-10-14 07:54:43,755 log 228 Not Found: /
+WARNING 2019-10-14 08:36:22,034 log 228 Not Found: /
+WARNING 2019-10-14 08:58:19,912 log 228 Not Found: /
+WARNING 2019-10-14 09:07:57,084 log 228 Not Found: /phpmyadmin/
+WARNING 2019-10-14 09:20:21,405 log 228 Not Found: /
+WARNING 2019-10-14 09:20:21,407 log 228 Not Found: /
+WARNING 2019-10-14 09:20:21,509 log 228 Not Found: /
+WARNING 2019-10-14 09:20:21,517 log 228 Not Found: /
+WARNING 2019-10-14 09:20:21,528 log 228 Not Found: /
+WARNING 2019-10-14 09:20:21,546 log 228 Not Found: /
+WARNING 2019-10-14 09:59:59,962 log 228 Not Found: /
+WARNING 2019-10-14 11:54:53,582 log 228 Not Found: /
+ERROR 2019-10-14 12:05:53,333 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-14 12:05:53,334 log 228 Bad Request: /
+ERROR 2019-10-14 12:35:15,118 exception 77 Invalid HTTP_HOST header: 'check.proxyradar.com'. You may need to add 'check.proxyradar.com' to ALLOWED_HOSTS.
+WARNING 2019-10-14 12:35:15,118 log 228 Bad Request: /azenv.php
+WARNING 2019-10-14 12:39:58,397 log 228 Not Found: /
+WARNING 2019-10-14 13:29:56,029 log 228 Not Found: /
+WARNING 2019-10-14 13:35:20,131 log 228 Not Found: /
+ERROR 2019-10-14 13:36:24,148 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-14 13:36:24,149 log 228 Bad Request: /wp-login.php
+ERROR 2019-10-14 15:01:18,712 exception 77 Invalid HTTP_HOST header: 'btcarena.gg'. You may need to add 'btcarena.gg' to ALLOWED_HOSTS.
+WARNING 2019-10-14 15:01:18,712 log 228 Bad Request: /
+WARNING 2019-10-14 15:23:29,493 log 228 Not Found: /
+ERROR 2019-10-14 15:27:27,075 exception 77 Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+WARNING 2019-10-14 15:27:27,076 log 228 Bad Request: /cache/global/img/gs.gif
+ERROR 2019-10-14 15:31:00,316 exception 77 Invalid HTTP_HOST header: '39.107.31.235:2049'. You may need to add '39.107.31.235' to ALLOWED_HOSTS.
+WARNING 2019-10-14 15:31:00,317 log 228 Bad Request: /
+WARNING 2019-10-14 16:21:18,757 log 228 Not Found: /
+WARNING 2019-10-14 16:21:18,767 log 228 Not Found: /index.php
+WARNING 2019-10-14 16:35:04,650 log 228 Not Found: /
+WARNING 2019-10-14 16:39:12,045 log 228 Not Found: /
+WARNING 2019-10-14 16:41:34,943 log 228 Not Found: /
+WARNING 2019-10-14 17:02:18,432 log 228 Not Found: /
+WARNING 2019-10-14 17:05:55,734 log 228 Not Found: /
+WARNING 2019-10-14 17:09:46,764 log 228 Not Found: /
+ERROR 2019-10-14 18:34:14,440 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-14 18:34:14,440 log 228 Bad Request: /
+WARNING 2019-10-14 18:45:31,072 log 228 Not Found: /invoker/readonly
+ERROR 2019-10-14 19:37:30,804 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-14 19:37:30,804 log 228 Bad Request: /
+WARNING 2019-10-14 19:46:15,959 log 228 Not Found: /
+WARNING 2019-10-14 19:53:19,441 log 228 Not Found: /wp-login.php
+WARNING 2019-10-14 20:14:57,767 log 228 Not Found: /
+WARNING 2019-10-14 21:23:54,430 log 228 Not Found: /
+WARNING 2019-10-14 22:11:17,183 log 228 Not Found: /
+WARNING 2019-10-14 22:32:42,569 log 228 Not Found: /
+WARNING 2019-10-14 23:59:34,591 log 228 Not Found: /
+ERROR 2019-10-15 00:22:44,084 exception 77 Invalid HTTP_HOST header: 'check.proxyradar.com'. You may need to add 'check.proxyradar.com' to ALLOWED_HOSTS.
+WARNING 2019-10-15 00:22:44,084 log 228 Bad Request: /azenv.php
+ERROR 2019-10-15 00:44:03,383 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 00:44:03,383 log 228 Bad Request: /
+WARNING 2019-10-15 00:48:49,542 log 228 Not Found: /
+WARNING 2019-10-15 00:50:56,373 log 228 Not Found: /
+ERROR 2019-10-15 01:09:39,770 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 01:09:39,771 log 228 Bad Request: /
+ERROR 2019-10-15 01:30:54,588 exception 77 Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+WARNING 2019-10-15 01:30:54,588 log 228 Bad Request: /cache/global/img/gs.gif
+WARNING 2019-10-15 02:14:48,684 log 228 Not Found: /FxCodeShell.jsp 
+WARNING 2019-10-15 02:14:48,695 log 228 Not Found: /FxCodeShell.jsp::$DATA
+WARNING 2019-10-15 02:14:48,705 log 228 Not Found: /FxCodeShell.jsp/
+WARNING 2019-10-15 02:14:48,715 log 228 Not Found: /FxCodeShell.jsp
+WARNING 2019-10-15 02:34:19,579 log 228 Not Found: /
+ERROR 2019-10-15 03:23:57,515 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 03:23:57,515 log 228 Bad Request: /
+WARNING 2019-10-15 03:49:52,627 log 228 Not Found: /
+WARNING 2019-10-15 04:05:41,290 log 228 Not Found: /
+WARNING 2019-10-15 04:27:47,986 log 228 Not Found: /
+WARNING 2019-10-15 04:43:23,278 log 228 Not Found: /
+WARNING 2019-10-15 05:09:03,500 log 228 Not Found: /
+WARNING 2019-10-15 05:15:39,717 log 228 Not Found: /
+ERROR 2019-10-15 05:26:38,452 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 05:26:38,453 log 228 Bad Request: /
+WARNING 2019-10-15 06:53:54,423 log 228 Not Found: /secure/ContactAdministrators!default.jspa
+WARNING 2019-10-15 07:17:33,536 log 228 Not Found: /
+WARNING 2019-10-15 07:43:05,017 log 228 Not Found: /
+WARNING 2019-10-15 08:12:21,399 log 228 Not Found: /TP/public/index.php
+WARNING 2019-10-15 08:12:21,462 log 228 Not Found: /TP/index.php
+WARNING 2019-10-15 08:12:21,526 log 228 Not Found: /thinkphp/html/public/index.php
+WARNING 2019-10-15 08:12:21,587 log 228 Not Found: /html/public/index.php
+WARNING 2019-10-15 08:12:21,648 log 228 Not Found: /public/index.php
+WARNING 2019-10-15 08:12:21,709 log 228 Not Found: /TP/html/public/index.php
+WARNING 2019-10-15 08:12:21,772 log 228 Not Found: /elrekt.php
+WARNING 2019-10-15 08:12:21,832 log 228 Not Found: /index.php
+WARNING 2019-10-15 08:12:21,896 log 228 Not Found: /
+ERROR 2019-10-15 08:22:32,202 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 08:22:32,202 log 228 Bad Request: /
+WARNING 2019-10-15 08:42:29,105 log 228 Not Found: /
+WARNING 2019-10-15 09:24:33,408 log 228 Not Found: /
+WARNING 2019-10-15 09:30:28,986 log 228 Not Found: /
+WARNING 2019-10-15 09:37:15,344 log 228 Not Found: /
+WARNING 2019-10-15 10:18:36,708 log 228 Not Found: /editBlackAndWhiteList
+ERROR 2019-10-15 10:29:58,585 exception 77 Invalid HTTP_HOST header: '123.125.114.144'. You may need to add '123.125.114.144' to ALLOWED_HOSTS.
+WARNING 2019-10-15 10:29:58,585 log 228 Bad Request: /
+ERROR 2019-10-15 10:31:22,440 exception 77 Invalid HTTP_HOST header: 'check.proxyradar.com'. You may need to add 'check.proxyradar.com' to ALLOWED_HOSTS.
+WARNING 2019-10-15 10:31:22,441 log 228 Bad Request: /azenv.php
+WARNING 2019-10-15 10:47:00,530 log 228 Not Found: /
+WARNING 2019-10-15 10:50:24,613 log 228 Not Found: /
+WARNING 2019-10-15 11:00:30,981 log 228 Not Found: /wp-login.php
+WARNING 2019-10-15 12:02:09,375 log 228 Not Found: /
+WARNING 2019-10-15 12:22:12,625 log 228 Not Found: /
+WARNING 2019-10-15 12:35:56,709 log 228 Not Found: /
+WARNING 2019-10-15 13:26:25,235 log 228 Not Found: /
+WARNING 2019-10-15 13:38:26,127 log 228 Not Found: /
+ERROR 2019-10-15 14:06:27,556 exception 77 Invalid HTTP_HOST header: 'accountbot.io'. You may need to add 'accountbot.io' to ALLOWED_HOSTS.
+WARNING 2019-10-15 14:06:27,557 log 228 Bad Request: /
+ERROR 2019-10-15 14:42:51,753 exception 77 Invalid HTTP_HOST header: 'accountbot.io'. You may need to add 'accountbot.io' to ALLOWED_HOSTS.
+WARNING 2019-10-15 14:42:51,754 log 228 Bad Request: /
+WARNING 2019-10-15 15:02:18,879 log 228 Not Found: /invoker/readonly
+ERROR 2019-10-15 15:17:57,438 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:17:57,438 log 228 Bad Request: /wp-login.php
+ERROR 2019-10-15 15:43:56,590 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:43:56,590 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:43:56,704 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:43:56,704 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:43:58,636 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:43:58,636 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:43:59,087 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:43:59,087 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:44:12,492 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:44:12,493 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:45:33,103 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:45:33,103 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:45:33,386 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:45:33,386 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:45:34,626 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:45:34,626 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:45:35,049 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:45:35,049 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:46:12,167 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:46:12,167 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:46:12,209 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:46:12,210 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:47:57,628 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:47:57,628 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:48:00,497 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:48:00,497 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:48:00,758 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:48:00,758 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:48:18,722 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:48:18,722 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:48:18,933 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:48:18,934 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:48:18,935 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:48:18,935 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:48:56,250 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:48:56,251 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:48:56,273 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:48:56,273 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:49:40,077 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:49:40,077 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:50:12,473 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:50:12,473 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:50:13,476 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:50:13,476 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:50:49,265 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:50:49,265 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:50:49,350 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:50:49,350 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:51:26,080 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:51:26,080 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:51:26,215 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:51:26,216 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:52:03,228 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:52:03,229 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:52:03,771 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:52:03,772 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:52:29,535 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:52:29,535 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:52:29,536 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:52:29,536 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:52:57,122 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:52:57,122 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:52:57,139 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:52:57,140 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:53:19,401 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:53:19,402 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:53:20,411 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:53:20,412 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:53:39,308 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:53:39,308 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:53:39,944 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:53:39,945 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:54:06,874 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:54:06,874 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:54:06,879 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:54:06,879 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:54:45,149 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:54:45,149 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:54:45,854 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:54:45,854 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:54:48,710 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:54:48,710 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:54:56,351 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:54:56,352 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:54:56,858 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:54:56,859 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:54:57,166 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:54:57,166 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:54:57,448 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:54:57,449 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:54:58,243 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:54:58,244 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:55:05,376 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:55:05,376 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-15 15:55:05,394 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 15:55:05,395 log 228 Bad Request: /xmlrpc.php
+WARNING 2019-10-15 17:36:01,502 log 228 Not Found: /
+WARNING 2019-10-15 18:09:38,408 log 228 Not Found: /
+WARNING 2019-10-15 18:20:58,379 log 228 Not Found: /
+WARNING 2019-10-15 18:40:56,165 log 228 Not Found: /
+WARNING 2019-10-15 18:41:52,290 log 228 Not Found: /
+WARNING 2019-10-15 19:24:15,411 log 228 Not Found: /
+ERROR 2019-10-15 19:29:35,309 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 19:29:35,310 log 228 Bad Request: /
+ERROR 2019-10-15 19:32:44,146 exception 77 Invalid HTTP_HOST header: 'check.proxyradar.com'. You may need to add 'check.proxyradar.com' to ALLOWED_HOSTS.
+WARNING 2019-10-15 19:32:44,147 log 228 Bad Request: /azenv.php
+ERROR 2019-10-15 19:52:45,474 exception 77 Invalid HTTP_HOST header: '104.70.53.200'. You may need to add '104.70.53.200' to ALLOWED_HOSTS.
+WARNING 2019-10-15 19:52:45,475 log 228 Bad Request: /editBlackAndWhiteList
+ERROR 2019-10-15 20:06:01,793 exception 77 Invalid HTTP_HOST header: '123.125.114.144'. You may need to add '123.125.114.144' to ALLOWED_HOSTS.
+WARNING 2019-10-15 20:06:01,793 log 228 Bad Request: /
+WARNING 2019-10-15 20:07:45,521 log 228 Not Found: /
+ERROR 2019-10-15 20:32:34,954 exception 77 Invalid HTTP_HOST header: 'wujieliulan.com'. You may need to add 'wujieliulan.com' to ALLOWED_HOSTS.
+WARNING 2019-10-15 20:32:34,955 log 228 Bad Request: /
+ERROR 2019-10-15 20:32:34,957 exception 77 Invalid HTTP_HOST header: 'www.epochtimes.com'. You may need to add 'www.epochtimes.com' to ALLOWED_HOSTS.
+WARNING 2019-10-15 20:32:34,958 log 228 Bad Request: /
+ERROR 2019-10-15 20:32:34,960 exception 77 Invalid HTTP_HOST header: 'www.minghui.org'. You may need to add 'www.minghui.org' to ALLOWED_HOSTS.
+WARNING 2019-10-15 20:32:34,960 log 228 Bad Request: /
+ERROR 2019-10-15 20:32:34,986 exception 77 Invalid HTTP_HOST header: 'www.boxun.com'. You may need to add 'www.boxun.com' to ALLOWED_HOSTS.
+WARNING 2019-10-15 20:32:34,987 log 228 Bad Request: /
+ERROR 2019-10-15 20:32:34,991 exception 77 Invalid HTTP_HOST header: 'www.123cha.com'. You may need to add 'www.123cha.com' to ALLOWED_HOSTS.
+WARNING 2019-10-15 20:32:34,991 log 228 Bad Request: /
+ERROR 2019-10-15 20:32:34,995 exception 77 Invalid HTTP_HOST header: 'www.bing.com'. You may need to add 'www.bing.com' to ALLOWED_HOSTS.
+WARNING 2019-10-15 20:32:34,995 log 228 Bad Request: /
+ERROR 2019-10-15 20:32:34,998 exception 77 Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+WARNING 2019-10-15 20:32:34,998 log 228 Bad Request: /
+ERROR 2019-10-15 20:32:42,852 exception 77 Invalid HTTP_HOST header: 'www.rfa.org'. You may need to add 'www.rfa.org' to ALLOWED_HOSTS.
+WARNING 2019-10-15 20:32:42,852 log 228 Bad Request: /
+ERROR 2019-10-15 21:37:24,148 exception 77 Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+WARNING 2019-10-15 21:37:24,148 log 228 Bad Request: /cache/global/img/gs.gif
+ERROR 2019-10-15 21:43:47,518 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 21:43:47,519 log 228 Bad Request: /
+WARNING 2019-10-15 21:44:15,447 log 228 Not Found: /editBlackAndWhiteList
+WARNING 2019-10-15 22:04:06,991 log 228 Not Found: /
+WARNING 2019-10-15 22:26:29,744 log 228 Not Found: /
+WARNING 2019-10-15 22:40:54,975 log 228 Not Found: /
+ERROR 2019-10-15 22:46:56,032 exception 77 Invalid HTTP_HOST header: 'accountbot.io'. You may need to add 'accountbot.io' to ALLOWED_HOSTS.
+WARNING 2019-10-15 22:46:56,032 log 228 Bad Request: /
+ERROR 2019-10-15 23:49:03,794 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-15 23:49:03,795 log 228 Bad Request: /wp-content/plugins/wp-e-commerce/wpsc-components/marketplace-core-v1/static/sputnik.js
+WARNING 2019-10-16 00:38:50,140 log 228 Not Found: /
+WARNING 2019-10-16 00:44:03,422 log 228 Not Found: /
+ERROR 2019-10-16 00:52:50,674 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-16 00:52:50,675 log 228 Bad Request: /
+WARNING 2019-10-16 00:59:14,220 log 228 Not Found: /
+WARNING 2019-10-16 01:10:18,176 log 228 Not Found: /
+ERROR 2019-10-16 01:53:25,444 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-16 01:53:25,444 log 228 Bad Request: /
+WARNING 2019-10-16 03:12:21,142 log 228 Not Found: /
+WARNING 2019-10-16 04:29:08,352 log 228 Not Found: /
+WARNING 2019-10-16 04:30:05,609 log 228 Not Found: /
+WARNING 2019-10-16 04:48:03,664 log 228 Not Found: /
+ERROR 2019-10-16 05:16:07,089 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-16 05:16:07,090 log 228 Bad Request: /robots.txt
+ERROR 2019-10-16 05:16:07,345 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-16 05:16:07,346 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-16 05:16:07,609 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-16 05:16:07,610 log 228 Bad Request: /
+ERROR 2019-10-16 05:16:07,857 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-16 05:16:07,857 log 228 Bad Request: /blog/robots.txt
+ERROR 2019-10-16 05:16:08,141 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-16 05:16:08,142 log 228 Bad Request: /blog/
+ERROR 2019-10-16 05:16:08,403 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-16 05:16:08,403 log 228 Bad Request: /wordpress/
+ERROR 2019-10-16 05:16:08,656 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-16 05:16:08,657 log 228 Bad Request: /wp/
+ERROR 2019-10-16 05:35:40,670 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-16 05:35:40,670 log 228 Bad Request: /
+WARNING 2019-10-16 06:02:19,644 log 228 Not Found: /
+WARNING 2019-10-16 06:18:48,185 log 228 Not Found: /
+WARNING 2019-10-16 06:33:31,374 log 228 Not Found: /
+WARNING 2019-10-16 06:35:12,991 log 228 Not Found: /
+ERROR 2019-10-16 07:39:30,530 exception 77 Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+WARNING 2019-10-16 07:39:30,531 log 228 Bad Request: /cache/global/img/gs.gif
+WARNING 2019-10-16 09:16:49,521 log 228 Not Found: /
+WARNING 2019-10-16 11:00:31,686 log 228 Not Found: /
+ERROR 2019-10-16 11:13:44,277 exception 77 Invalid HTTP_HOST header: '208.187.116.7'. You may need to add '208.187.116.7' to ALLOWED_HOSTS.
+WARNING 2019-10-16 11:13:44,277 log 228 Bad Request: /editBlackAndWhiteList
+WARNING 2019-10-16 11:35:38,336 log 228 Not Found: /
+WARNING 2019-10-16 11:44:35,637 log 228 Not Found: /
+WARNING 2019-10-16 12:04:52,477 log 228 Not Found: /
+ERROR 2019-10-16 12:12:28,773 exception 77 Invalid HTTP_HOST header: 'clientapi.ipip.net'. You may need to add 'clientapi.ipip.net' to ALLOWED_HOSTS.
+WARNING 2019-10-16 12:12:28,773 log 228 Bad Request: /echo.php
+WARNING 2019-10-16 12:38:07,935 log 228 Not Found: /
+WARNING 2019-10-16 13:56:32,691 log 228 Not Found: /
+WARNING 2019-10-16 13:57:26,225 log 228 Not Found: /
+WARNING 2019-10-16 14:48:58,663 log 228 Not Found: /
+WARNING 2019-10-16 15:38:11,016 log 228 Not Found: /
+WARNING 2019-10-16 15:50:47,396 log 228 Not Found: /FxCodeShell.jsp 
+WARNING 2019-10-16 15:50:47,406 log 228 Not Found: /FxCodeShell.jsp::$DATA
+WARNING 2019-10-16 15:50:47,416 log 228 Not Found: /FxCodeShell.jsp/
+WARNING 2019-10-16 15:50:47,426 log 228 Not Found: /FxCodeShell.jsp
+WARNING 2019-10-16 16:52:46,281 log 228 Not Found: /
+WARNING 2019-10-16 17:31:41,220 log 228 Not Found: /
+WARNING 2019-10-16 17:52:28,253 log 228 Not Found: /
+ERROR 2019-10-16 18:47:13,146 exception 77 Invalid HTTP_HOST header: 'check.proxyradar.com'. You may need to add 'check.proxyradar.com' to ALLOWED_HOSTS.
+WARNING 2019-10-16 18:47:13,147 log 228 Bad Request: /azenv.php
+WARNING 2019-10-16 19:07:01,758 log 228 Not Found: /
+WARNING 2019-10-16 19:15:14,625 log 228 Not Found: /
+WARNING 2019-10-16 19:26:43,614 log 228 Not Found: /
+ERROR 2019-10-16 19:31:59,678 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-16 19:31:59,679 log 228 Bad Request: /
+WARNING 2019-10-16 20:45:53,635 log 228 Not Found: /
+WARNING 2019-10-16 21:44:32,441 log 228 Not Found: /
+ERROR 2019-10-16 23:26:36,791 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-16 23:26:36,792 log 228 Bad Request: /
+WARNING 2019-10-16 23:39:03,553 log 228 Not Found: /
+WARNING 2019-10-16 23:58:45,149 log 228 Not Found: /
+WARNING 2019-10-17 00:44:46,046 log 228 Not Found: /
+WARNING 2019-10-17 00:52:13,820 log 228 Not Found: /css/commen.css
+WARNING 2019-10-17 00:52:13,827 log 228 Not Found: /addons/vslai_shop/plugin/pcset/resource/css/iconfont.css
+WARNING 2019-10-17 00:52:13,832 log 228 Not Found: /src/css/common/common.css
+WARNING 2019-10-17 00:52:13,834 log 228 Not Found: /ajax/sd.js
+WARNING 2019-10-17 00:52:13,837 log 228 Not Found: /Js/Public.js
+WARNING 2019-10-17 00:52:13,840 log 228 Not Found: /kz/ui/source/zmzcloud/html-touch/common/css/sso/login/index.css
+WARNING 2019-10-17 00:52:13,841 log 228 Not Found: /assets/js/home/common.js
+WARNING 2019-10-17 00:52:13,843 log 228 Not Found: /wsc-shop-h5/css/global-theme/pink-theme_dbd0a9ee2b428a49369c85d4c1d01543.css
+WARNING 2019-10-17 00:52:13,845 log 228 Not Found: /js/site.min.js
+WARNING 2019-10-17 00:52:13,846 log 228 Not Found: /console/assets/css/bootstrap.min.css
+WARNING 2019-10-17 00:52:13,847 log 228 Not Found: /web/js/cms_ggw.js
+WARNING 2019-10-17 00:52:13,848 log 228 Not Found: /PublicMob/css/dist/preview/preview.css
+WARNING 2019-10-17 00:52:13,849 log 228 Not Found: /js/slide.js
+WARNING 2019-10-17 00:52:13,857 log 228 Not Found: /template/100/img/dtk.css
+WARNING 2019-10-17 00:52:13,858 log 228 Not Found: /addons/sz_yi/plugin/designer/template/imgsrc/designer.css
+WARNING 2019-10-17 00:52:13,860 log 228 Not Found: /template/superquan/css/supercommon.css
+WARNING 2019-10-17 00:52:13,863 log 228 Not Found: /template/wap/default/public/css/login_base.css
+WARNING 2019-10-17 00:52:13,873 log 228 Not Found: /Public/home/index/js/setting.js
+WARNING 2019-10-17 00:52:13,877 log 228 Not Found: /mall/views/default/css/base.css
+WARNING 2019-10-17 00:52:13,878 log 228 Not Found: /Public/css/index.css
+WARNING 2019-10-17 00:52:13,884 log 228 Not Found: /pinzhiV2.0/css/global.css
+WARNING 2019-10-17 00:52:13,885 log 228 Not Found: /Public/Home/xin_chaoaisong/css/chushi.css
+WARNING 2019-10-17 00:52:13,889 log 228 Not Found: /qiye/skin/common.css
+WARNING 2019-10-17 00:52:13,892 log 228 Not Found: /index_ad.css
+WARNING 2019-10-17 00:52:13,893 log 228 Not Found: /css/dtk.css
+WARNING 2019-10-17 00:52:13,894 log 228 Not Found: /app/app/qipn_side/web/css/side.css
+WARNING 2019-10-17 00:52:13,895 log 228 Not Found: /css/styles.css
+WARNING 2019-10-17 00:52:13,897 log 228 Not Found: /m/scripts/public.js
+WARNING 2019-10-17 00:52:13,898 log 228 Not Found: /
+WARNING 2019-10-17 00:52:13,899 log 228 Not Found: /web/resource/wshcms/css/style.css
+WARNING 2019-10-17 00:52:13,901 log 228 Not Found: /includes/libraries/javascript/cart.js
+WARNING 2019-10-17 00:52:13,903 log 228 Not Found: /assets/static/index-d53039d0.css
+WARNING 2019-10-17 00:52:13,904 log 228 Not Found: /home/template/taoniuping/static/css/common.css
+WARNING 2019-10-17 00:52:13,906 log 228 Not Found: /css/nav2.css
+WARNING 2019-10-17 00:52:13,907 log 228 Not Found: /js/download.js
+WARNING 2019-10-17 00:52:13,908 log 228 Not Found: /resources/js/common.js
+WARNING 2019-10-17 00:52:13,910 log 228 Not Found: /wap/build/css/app-afed1f36c9.css
+WARNING 2019-10-17 00:52:13,912 log 228 Not Found: /mobile/js/common.js
+WARNING 2019-10-17 00:52:13,913 log 228 Not Found: /pchtml/static/css/style.css
+WARNING 2019-10-17 00:52:13,914 log 228 Not Found: /themes/dorawhite/css/white.css
+WARNING 2019-10-17 00:52:13,915 log 228 Not Found: /my-199/static/css/app.5aceab5c72cb6663c9428954feca6a1a.css
+WARNING 2019-10-17 00:52:13,916 log 228 Not Found: /robots.txt
+WARNING 2019-10-17 00:52:13,919 log 228 Not Found: /css/dist/module.min.css
+WARNING 2019-10-17 00:52:13,925 log 228 Not Found: /Public/Shop/css/default.css
+WARNING 2019-10-17 00:52:13,927 log 228 Not Found: /assets/Index/css/index.css
+WARNING 2019-10-17 00:52:13,932 log 228 Not Found: /public/static/Admin/js/admin.js
+WARNING 2019-10-17 00:52:13,935 log 228 Not Found: /Public/static/common3.0.js
+WARNING 2019-10-17 00:52:13,936 log 228 Not Found: /index.js
+WARNING 2019-10-17 00:52:13,941 log 228 Not Found: /Public/static/install/static/login.css
+WARNING 2019-10-17 00:52:13,943 log 228 Not Found: /themes/default/Home/statics/css/index.css
+WARNING 2019-10-17 00:52:13,944 log 228 Not Found: /template/wozheka/js/index.js
+WARNING 2019-10-17 00:52:13,948 log 228 Not Found: /bundles/app/css/page_list.css
+WARNING 2019-10-17 00:52:13,949 log 228 Not Found: /mall-h5/css/mall4_1_1_css/style.css
+WARNING 2019-10-17 00:52:13,950 log 228 Not Found: /View/index/js/comm/cheackLogin.js
+WARNING 2019-10-17 00:52:13,953 log 228 Not Found: /css/mg_officeWeb.css
+WARNING 2019-10-17 00:52:13,955 log 228 Not Found: /addons/ewei_shopv2/plugin/diypage/static/css/foxui.diy.css
+ERROR 2019-10-17 01:45:22,145 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-17 01:45:22,145 log 228 Bad Request: /
+WARNING 2019-10-17 03:01:40,230 log 228 Not Found: /
+WARNING 2019-10-17 03:10:52,544 log 228 Not Found: /
+WARNING 2019-10-17 03:26:54,845 log 228 Not Found: /
+ERROR 2019-10-17 03:44:37,722 exception 77 Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+WARNING 2019-10-17 03:44:37,722 log 228 Bad Request: /cache/global/img/gs.gif
+WARNING 2019-10-17 04:06:04,981 log 228 Not Found: /
+WARNING 2019-10-17 04:28:03,406 log 228 Not Found: /
+WARNING 2019-10-17 04:36:23,901 log 228 Not Found: /
+WARNING 2019-10-17 04:57:43,220 log 228 Not Found: /
+ERROR 2019-10-17 05:22:49,235 exception 77 Invalid HTTP_HOST header: '14.45.81.75'. You may need to add '14.45.81.75' to ALLOWED_HOSTS.
+WARNING 2019-10-17 05:22:49,235 log 228 Bad Request: /editBlackAndWhiteList
+ERROR 2019-10-17 05:38:10,038 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-17 05:38:10,039 log 228 Bad Request: /
+WARNING 2019-10-17 06:16:44,391 log 228 Not Found: /
+WARNING 2019-10-17 06:21:56,768 log 228 Not Found: /
+ERROR 2019-10-17 06:34:16,064 exception 77 Invalid HTTP_HOST header: 'hashcsgo.com'. You may need to add 'hashcsgo.com' to ALLOWED_HOSTS.
+WARNING 2019-10-17 06:34:16,065 log 228 Bad Request: /
+ERROR 2019-10-17 07:26:53,712 exception 77 Invalid HTTP_HOST header: 'deadcell.cc'. You may need to add 'deadcell.cc' to ALLOWED_HOSTS.
+WARNING 2019-10-17 07:26:53,713 log 228 Bad Request: /
+WARNING 2019-10-17 08:01:11,942 log 228 Not Found: /
+WARNING 2019-10-17 08:01:11,979 log 228 Not Found: /
+WARNING 2019-10-17 09:28:30,763 log 228 Not Found: /
+WARNING 2019-10-17 09:58:53,660 log 228 Not Found: /
+WARNING 2019-10-17 10:33:59,783 log 228 Not Found: /editBlackAndWhiteList
+WARNING 2019-10-17 11:44:12,085 log 228 Not Found: /editBlackAndWhiteList
+WARNING 2019-10-17 12:15:47,810 log 228 Not Found: /
+WARNING 2019-10-17 12:42:02,093 log 228 Not Found: /
+WARNING 2019-10-17 13:05:39,401 log 228 Not Found: /
+WARNING 2019-10-17 13:29:34,292 log 228 Not Found: /
+ERROR 2019-10-17 13:45:42,727 exception 77 Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+WARNING 2019-10-17 13:45:42,728 log 228 Bad Request: /cache/global/img/gs.gif
+ERROR 2019-10-17 14:08:58,346 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-17 14:08:58,347 log 228 Bad Request: /wp-content/plugins/solid_best_corp/sys.php
+ERROR 2019-10-17 14:10:31,034 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-17 14:10:31,034 log 228 Bad Request: /wp-content/plugins/solid_best_corp/info.php
+WARNING 2019-10-17 14:19:11,672 log 228 Not Found: /
+WARNING 2019-10-17 14:26:40,594 log 228 Not Found: /
+WARNING 2019-10-17 14:36:47,279 log 228 Not Found: /
+WARNING 2019-10-17 14:42:51,305 log 228 Not Found: /
+WARNING 2019-10-17 14:56:41,652 log 228 Not Found: /
+WARNING 2019-10-17 14:56:41,933 log 228 Not Found: /favicon.ico
+ERROR 2019-10-17 15:44:29,834 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-17 15:44:29,835 log 228 Bad Request: /
+WARNING 2019-10-17 17:18:41,465 log 228 Not Found: /
+ERROR 2019-10-17 19:12:26,106 exception 77 Invalid HTTP_HOST header: 'check.proxyradar.com'. You may need to add 'check.proxyradar.com' to ALLOWED_HOSTS.
+WARNING 2019-10-17 19:12:26,107 log 228 Bad Request: /azenv.php
+ERROR 2019-10-17 20:30:09,820 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-17 20:30:09,820 log 228 Bad Request: /
+WARNING 2019-10-17 20:51:38,241 log 228 Not Found: /TP/public/index.php
+WARNING 2019-10-17 20:51:38,345 log 228 Not Found: /TP/index.php
+WARNING 2019-10-17 20:51:38,439 log 228 Not Found: /thinkphp/html/public/index.php
+WARNING 2019-10-17 20:51:38,536 log 228 Not Found: /html/public/index.php
+WARNING 2019-10-17 20:51:38,631 log 228 Not Found: /public/index.php
+WARNING 2019-10-17 20:51:38,723 log 228 Not Found: /TP/html/public/index.php
+WARNING 2019-10-17 20:51:38,818 log 228 Not Found: /elrekt.php
+WARNING 2019-10-17 20:51:38,912 log 228 Not Found: /index.php
+WARNING 2019-10-17 20:51:39,008 log 228 Not Found: /
+WARNING 2019-10-17 21:28:17,514 log 228 Not Found: /
+WARNING 2019-10-17 21:28:31,662 log 228 Not Found: /
+WARNING 2019-10-17 22:45:31,152 log 228 Not Found: /
+ERROR 2019-10-17 23:45:57,022 exception 77 Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+WARNING 2019-10-17 23:45:57,023 log 228 Bad Request: /cache/global/img/gs.gif
+WARNING 2019-10-17 23:59:54,033 log 228 Not Found: /
+WARNING 2019-10-18 00:27:57,939 log 228 Not Found: /
+WARNING 2019-10-18 00:53:07,174 log 228 Not Found: /
+ERROR 2019-10-18 01:48:08,923 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 01:48:08,923 log 228 Bad Request: /
+WARNING 2019-10-18 02:00:31,173 log 228 Not Found: /
+WARNING 2019-10-18 02:12:00,962 log 228 Not Found: /
+WARNING 2019-10-18 02:34:48,870 log 228 Not Found: /
+ERROR 2019-10-18 02:36:44,664 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 02:36:44,665 log 228 Bad Request: /
+WARNING 2019-10-18 03:49:34,025 log 228 Not Found: /
+WARNING 2019-10-18 03:49:50,997 log 228 Not Found: /
+ERROR 2019-10-18 04:12:43,290 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:43,290 log 228 Bad Request: /
+ERROR 2019-10-18 04:12:43,331 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:43,331 log 228 Bad Request: /explicit_not_exist_path
+ERROR 2019-10-18 04:12:43,408 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:43,409 log 228 Bad Request: /index.html
+ERROR 2019-10-18 04:12:43,457 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:43,458 log 228 Bad Request: /index.php
+ERROR 2019-10-18 04:12:43,506 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:43,506 log 228 Bad Request: /index.jsp
+ERROR 2019-10-18 04:12:43,561 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:43,561 log 228 Bad Request: /admin/
+ERROR 2019-10-18 04:12:43,741 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:43,741 log 228 Bad Request: /favicon.ico
+ERROR 2019-10-18 04:12:43,811 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:43,811 log 228 Bad Request: /robots.txt
+ERROR 2019-10-18 04:12:43,874 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:43,875 log 228 Bad Request: /tpl/public/js/url_control.js
+ERROR 2019-10-18 04:12:43,915 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:43,915 log 228 Bad Request: /tpl/login/user/images/tabli.png
+ERROR 2019-10-18 04:12:43,954 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:43,955 log 228 Bad Request: /tpl/user/tpl1/images/blue/bodybg.gif
+ERROR 2019-10-18 04:12:43,994 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:43,995 log 228 Bad Request: /tpl/public/images/logo.png
+ERROR 2019-10-18 04:12:44,035 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:44,035 log 228 Bad Request: /images/login/bg.gif
+ERROR 2019-10-18 04:12:44,076 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:44,077 log 228 Bad Request: /eyoucopyright.js
+ERROR 2019-10-18 04:12:44,117 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:44,117 log 228 Bad Request: /tpl/user/tpl1/js/settings.js
+ERROR 2019-10-18 04:12:44,157 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:44,157 log 228 Bad Request: /user/
+ERROR 2019-10-18 04:12:44,248 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:44,248 log 228 Bad Request: /wcm/
+ERROR 2019-10-18 04:12:44,295 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:44,296 log 228 Bad Request: /phpMyAdmin/
+ERROR 2019-10-18 04:12:44,344 exception 77 Invalid HTTP_HOST header: 'blog.cgtblog.top'. You may need to add 'blog.cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 04:12:44,344 log 228 Bad Request: /phpmyadmin/
+WARNING 2019-10-18 04:18:48,197 log 228 Not Found: /
+WARNING 2019-10-18 04:20:01,793 log 228 Not Found: /
+WARNING 2019-10-18 04:58:55,502 log 228 Not Found: /
+WARNING 2019-10-18 04:59:00,072 log 228 Not Found: /nmaplowercheck1571374740
+WARNING 2019-10-18 04:59:00,073 log 228 Not Found: /
+WARNING 2019-10-18 04:59:00,075 log 228 Not Found: /nmaplowercheck1571374739
+WARNING 2019-10-18 04:59:00,076 log 228 Not Found: /
+WARNING 2019-10-18 04:59:00,077 log 228 Not Found: /sdk
+WARNING 2019-10-18 04:59:00,491 log 228 Not Found: /
+WARNING 2019-10-18 04:59:00,492 log 228 Not Found: /evox/about
+WARNING 2019-10-18 04:59:00,493 log 228 Not Found: /HNAP1
+WARNING 2019-10-18 04:59:34,084 log 228 Not Found: /
+WARNING 2019-10-18 04:59:35,293 log 228 Not Found: /
+WARNING 2019-10-18 05:02:05,244 log 228 Not Found: /Public/home/appjs/Index.js
+ERROR 2019-10-18 07:02:56,351 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 07:02:56,352 log 228 Bad Request: /
+WARNING 2019-10-18 07:29:49,841 log 228 Not Found: /
+ERROR 2019-10-18 08:05:38,123 exception 77 Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+WARNING 2019-10-18 08:05:38,124 log 228 Bad Request: /cache/global/img/gs.gif
+WARNING 2019-10-18 09:26:54,695 log 228 Not Found: /
+WARNING 2019-10-18 10:19:14,873 log 228 Not Found: /
+ERROR 2019-10-18 10:36:51,650 exception 77 Invalid HTTP_HOST header: 'clientapi.ipip.net'. You may need to add 'clientapi.ipip.net' to ALLOWED_HOSTS.
+WARNING 2019-10-18 10:36:51,650 log 228 Bad Request: /echo.php
+WARNING 2019-10-18 10:46:13,563 log 228 Not Found: /
+WARNING 2019-10-18 11:35:26,553 log 228 Not Found: /
+WARNING 2019-10-18 12:25:19,857 log 228 Not Found: /
+WARNING 2019-10-18 13:41:27,005 log 228 Not Found: /
+WARNING 2019-10-18 14:00:33,747 log 228 Not Found: /
+WARNING 2019-10-18 14:38:22,029 log 228 Not Found: /
+WARNING 2019-10-18 14:59:28,186 log 228 Not Found: /
+WARNING 2019-10-18 16:05:01,553 log 228 Not Found: /editBlackAndWhiteList
+WARNING 2019-10-18 16:39:11,476 log 228 Not Found: /
+ERROR 2019-10-18 18:06:23,348 exception 77 Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+WARNING 2019-10-18 18:06:23,348 log 228 Bad Request: /cache/global/img/gs.gif
+WARNING 2019-10-18 19:02:05,428 log 228 Not Found: /Public/home/appjs/Index.js
+ERROR 2019-10-18 19:06:51,762 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,762 log 228 Bad Request: /ajax/sd.js
+ERROR 2019-10-18 19:06:51,764 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,764 log 228 Bad Request: /m/scripts/public.js
+ERROR 2019-10-18 19:06:51,765 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,765 log 228 Bad Request: /pchtml/static/css/style.css
+ERROR 2019-10-18 19:06:51,766 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,767 log 228 Bad Request: /template/100/img/dtk.css
+ERROR 2019-10-18 19:06:51,767 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,768 log 228 Bad Request: /template/superquan/css/supercommon.css
+ERROR 2019-10-18 19:06:51,769 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,769 log 228 Bad Request: /Public/css/index.css
+ERROR 2019-10-18 19:06:51,770 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,770 log 228 Bad Request: /themes/dorawhite/css/white.css
+ERROR 2019-10-18 19:06:51,771 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,771 log 228 Bad Request: /kz/ui/source/zmzcloud/html-touch/common/css/sso/login/index.css
+ERROR 2019-10-18 19:06:51,772 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,773 log 228 Bad Request: /template/wap/default/public/css/login_base.css
+ERROR 2019-10-18 19:06:51,773 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,773 log 228 Bad Request: /addons/sz_yi/plugin/designer/template/imgsrc/designer.css
+ERROR 2019-10-18 19:06:51,774 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,775 log 228 Bad Request: /wap/build/css/app-afed1f36c9.css
+ERROR 2019-10-18 19:06:51,776 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,776 log 228 Bad Request: /css/nav2.css
+ERROR 2019-10-18 19:06:51,776 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,776 log 228 Bad Request: /src/css/common/common.css
+ERROR 2019-10-18 19:06:51,777 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,777 log 228 Bad Request: /Public/Home/xin_chaoaisong/css/chushi.css
+ERROR 2019-10-18 19:06:51,778 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,778 log 228 Bad Request: /View/index/js/comm/cheackLogin.js
+ERROR 2019-10-18 19:06:51,779 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,779 log 228 Bad Request: /includes/libraries/javascript/cart.js
+ERROR 2019-10-18 19:06:51,780 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,780 log 228 Bad Request: /css/commen.css
+ERROR 2019-10-18 19:06:51,780 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,781 log 228 Bad Request: /console/assets/css/bootstrap.min.css
+ERROR 2019-10-18 19:06:51,782 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,782 log 228 Bad Request: /Js/Public.js
+ERROR 2019-10-18 19:06:51,782 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,783 log 228 Bad Request: /js/site.min.js
+ERROR 2019-10-18 19:06:51,783 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,784 log 228 Bad Request: /qiye/skin/common.css
+ERROR 2019-10-18 19:06:51,784 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,784 log 228 Bad Request: /resources/js/common.js
+ERROR 2019-10-18 19:06:51,785 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,786 log 228 Bad Request: /app/app/qipn_side/web/css/side.css
+ERROR 2019-10-18 19:06:51,786 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,786 log 228 Bad Request: /home/template/taoniuping/static/css/common.css
+ERROR 2019-10-18 19:06:51,787 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,787 log 228 Bad Request: /mall-h5/css/mall4_1_1_css/style.css
+ERROR 2019-10-18 19:06:51,788 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,788 log 228 Bad Request: /index_ad.css
+ERROR 2019-10-18 19:06:51,788 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,789 log 228 Bad Request: /css/dist/module.min.css
+ERROR 2019-10-18 19:06:51,790 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,790 log 228 Bad Request: /mobile/js/common.js
+ERROR 2019-10-18 19:06:51,790 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,791 log 228 Bad Request: /js/slide.js
+ERROR 2019-10-18 19:06:51,792 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,792 log 228 Bad Request: /my-199/static/css/app.5aceab5c72cb6663c9428954feca6a1a.css
+ERROR 2019-10-18 19:06:51,792 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,793 log 228 Bad Request: /assets/Index/css/index.css
+ERROR 2019-10-18 19:06:51,793 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,793 log 228 Bad Request: /Public/static/install/static/login.css
+ERROR 2019-10-18 19:06:51,794 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,794 log 228 Bad Request: /css/styles.css
+ERROR 2019-10-18 19:06:51,848 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,849 log 228 Bad Request: /themes/default/Home/statics/css/index.css
+ERROR 2019-10-18 19:06:51,849 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,850 log 228 Bad Request: /Public/home/index/js/setting.js
+ERROR 2019-10-18 19:06:51,851 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,851 log 228 Bad Request: /addons/ewei_shopv2/plugin/diypage/static/css/foxui.diy.css
+ERROR 2019-10-18 19:06:51,852 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,852 log 228 Bad Request: /PublicMob/css/dist/preview/preview.css
+ERROR 2019-10-18 19:06:51,854 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,854 log 228 Bad Request: /css/dtk.css
+ERROR 2019-10-18 19:06:51,854 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,855 log 228 Bad Request: /web/js/cms_ggw.js
+ERROR 2019-10-18 19:06:51,856 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,857 log 228 Bad Request: /template/wozheka/js/index.js
+ERROR 2019-10-18 19:06:51,857 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,857 log 228 Bad Request: /js/download.js
+ERROR 2019-10-18 19:06:51,858 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,859 log 228 Bad Request: /pinzhiV2.0/css/global.css
+ERROR 2019-10-18 19:06:51,860 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,860 log 228 Bad Request: /index.js
+ERROR 2019-10-18 19:06:51,860 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,861 log 228 Bad Request: /assets/static/index-d53039d0.css
+ERROR 2019-10-18 19:06:51,862 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,862 log 228 Bad Request: /Public/static/common3.0.js
+ERROR 2019-10-18 19:06:51,862 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,862 log 228 Bad Request: /mall/views/default/css/base.css
+ERROR 2019-10-18 19:06:51,863 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,863 log 228 Bad Request: /web/resource/wshcms/css/style.css
+ERROR 2019-10-18 19:06:51,865 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,865 log 228 Bad Request: /bundles/app/css/page_list.css
+ERROR 2019-10-18 19:06:51,866 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,866 log 228 Bad Request: /addons/vslai_shop/plugin/pcset/resource/css/iconfont.css
+ERROR 2019-10-18 19:06:51,866 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,867 log 228 Bad Request: /robots.txt
+ERROR 2019-10-18 19:06:51,867 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,868 log 228 Bad Request: /Public/Shop/css/default.css
+ERROR 2019-10-18 19:06:51,868 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,868 log 228 Bad Request: /wsc-shop-h5/css/global-theme/pink-theme_dbd0a9ee2b428a49369c85d4c1d01543.css
+ERROR 2019-10-18 19:06:51,869 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,869 log 228 Bad Request: /css/mg_officeWeb.css
+ERROR 2019-10-18 19:06:51,870 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,870 log 228 Bad Request: /public/static/Admin/js/admin.js
+ERROR 2019-10-18 19:06:51,870 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,871 log 228 Bad Request: /assets/js/home/common.js
+ERROR 2019-10-18 19:06:51,871 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:06:51,872 log 228 Bad Request: /
+WARNING 2019-10-18 19:27:50,885 log 228 Not Found: /
+ERROR 2019-10-18 19:42:35,413 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 19:42:35,414 log 228 Bad Request: /
+WARNING 2019-10-18 20:14:37,114 log 228 Not Found: /
+WARNING 2019-10-18 20:28:10,144 log 228 Not Found: /
+WARNING 2019-10-18 20:28:28,642 log 228 Not Found: /
+ERROR 2019-10-18 21:37:25,168 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:25,168 log 228 Bad Request: /
+ERROR 2019-10-18 21:37:25,212 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:25,212 log 228 Bad Request: /explicit_not_exist_path
+ERROR 2019-10-18 21:37:25,377 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:25,377 log 228 Bad Request: /index.html
+ERROR 2019-10-18 21:37:25,442 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:25,442 log 228 Bad Request: /index.php
+ERROR 2019-10-18 21:37:25,505 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:25,506 log 228 Bad Request: /index.jsp
+ERROR 2019-10-18 21:37:25,568 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:25,568 log 228 Bad Request: /admin/
+ERROR 2019-10-18 21:37:26,016 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:26,016 log 228 Bad Request: /favicon.ico
+ERROR 2019-10-18 21:37:26,156 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:26,156 log 228 Bad Request: /robots.txt
+ERROR 2019-10-18 21:37:26,287 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:26,287 log 228 Bad Request: /tpl/public/js/url_control.js
+ERROR 2019-10-18 21:37:26,329 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:26,329 log 228 Bad Request: /tpl/login/user/images/tabli.png
+ERROR 2019-10-18 21:37:26,371 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:26,371 log 228 Bad Request: /tpl/user/tpl1/images/blue/bodybg.gif
+ERROR 2019-10-18 21:37:26,413 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:26,413 log 228 Bad Request: /tpl/public/images/logo.png
+ERROR 2019-10-18 21:37:26,455 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:26,456 log 228 Bad Request: /images/login/bg.gif
+ERROR 2019-10-18 21:37:26,497 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:26,497 log 228 Bad Request: /eyoucopyright.js
+ERROR 2019-10-18 21:37:26,538 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:26,539 log 228 Bad Request: /tpl/user/tpl1/js/settings.js
+ERROR 2019-10-18 21:37:26,580 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:26,581 log 228 Bad Request: /user/
+ERROR 2019-10-18 21:37:26,785 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:26,785 log 228 Bad Request: /wcm/
+ERROR 2019-10-18 21:37:26,845 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:26,845 log 228 Bad Request: /phpMyAdmin/
+ERROR 2019-10-18 21:37:26,904 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-18 21:37:26,905 log 228 Bad Request: /phpmyadmin/
+WARNING 2019-10-18 21:53:29,082 log 228 Not Found: /
+WARNING 2019-10-18 21:56:42,676 log 228 Not Found: /
+WARNING 2019-10-18 22:00:52,217 log 228 Not Found: /
+WARNING 2019-10-19 01:32:41,007 log 228 Not Found: /
+WARNING 2019-10-19 01:47:33,529 log 228 Not Found: /
+WARNING 2019-10-19 02:24:44,281 log 228 Not Found: /
+WARNING 2019-10-19 03:12:23,403 log 228 Not Found: /
+ERROR 2019-10-19 03:13:29,217 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-19 03:13:29,218 log 228 Bad Request: /
+WARNING 2019-10-19 03:58:34,239 log 228 Not Found: /
+ERROR 2019-10-19 04:08:16,007 exception 77 Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+WARNING 2019-10-19 04:08:16,007 log 228 Bad Request: /cache/global/img/gs.gif
+ERROR 2019-10-19 04:29:48,659 exception 77 Invalid HTTP_HOST header: 'check.proxyradar.com'. You may need to add 'check.proxyradar.com' to ALLOWED_HOSTS.
+WARNING 2019-10-19 04:29:48,659 log 228 Bad Request: /azenv.php
+WARNING 2019-10-19 04:32:39,385 log 228 Not Found: /
+WARNING 2019-10-19 05:30:40,901 log 228 Not Found: /
+WARNING 2019-10-19 06:11:15,836 log 228 Not Found: /
+WARNING 2019-10-19 06:28:28,798 log 228 Not Found: /
+WARNING 2019-10-19 08:19:35,930 log 228 Not Found: /
+WARNING 2019-10-19 09:10:58,127 log 228 Not Found: /
+ERROR 2019-10-19 09:37:02,297 exception 77 Invalid HTTP_HOST header: 'clientapi.ipip.net'. You may need to add 'clientapi.ipip.net' to ALLOWED_HOSTS.
+WARNING 2019-10-19 09:37:02,297 log 228 Bad Request: /echo.php
+WARNING 2019-10-19 09:43:11,023 log 228 Not Found: /
+ERROR 2019-10-19 09:47:17,706 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-19 09:47:17,706 log 228 Bad Request: /
+ERROR 2019-10-19 09:47:18,507 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-19 09:47:18,508 log 228 Bad Request: /favicon.ico
+WARNING 2019-10-19 10:03:56,402 log 228 Not Found: /
+WARNING 2019-10-19 12:44:38,932 log 228 Not Found: /
+WARNING 2019-10-19 13:04:14,700 log 228 Not Found: /
+ERROR 2019-10-19 14:07:00,821 exception 77 Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+WARNING 2019-10-19 14:07:00,821 log 228 Bad Request: /cache/global/img/gs.gif
+WARNING 2019-10-19 14:56:45,036 log 228 Not Found: /
+WARNING 2019-10-19 15:07:39,666 log 228 Not Found: /
+WARNING 2019-10-19 15:08:43,349 log 228 Not Found: /
+WARNING 2019-10-19 15:22:47,022 log 228 Not Found: /
+ERROR 2019-10-19 16:07:08,090 exception 77 Invalid HTTP_HOST header: 'check.proxyradar.com'. You may need to add 'check.proxyradar.com' to ALLOWED_HOSTS.
+WARNING 2019-10-19 16:07:08,091 log 228 Bad Request: /azenv.php
+WARNING 2019-10-19 17:10:12,402 log 228 Not Found: /
+WARNING 2019-10-19 17:10:18,396 log 228 Not Found: /
+WARNING 2019-10-19 17:46:23,626 log 228 Not Found: /
+WARNING 2019-10-19 17:58:58,070 log 228 Not Found: /
+ERROR 2019-10-19 18:38:54,349 exception 77 Invalid HTTP_HOST header: 'www.123cha.com'. You may need to add 'www.123cha.com' to ALLOWED_HOSTS.
+WARNING 2019-10-19 18:38:54,349 log 228 Bad Request: /
+ERROR 2019-10-19 18:38:54,369 exception 77 Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+WARNING 2019-10-19 18:38:54,369 log 228 Bad Request: /
+ERROR 2019-10-19 18:39:01,780 exception 77 Invalid HTTP_HOST header: 'www.minghui.org'. You may need to add 'www.minghui.org' to ALLOWED_HOSTS.
+WARNING 2019-10-19 18:39:01,780 log 228 Bad Request: /
+ERROR 2019-10-19 18:39:01,789 exception 77 Invalid HTTP_HOST header: 'www.epochtimes.com'. You may need to add 'www.epochtimes.com' to ALLOWED_HOSTS.
+WARNING 2019-10-19 18:39:01,789 log 228 Bad Request: /
+ERROR 2019-10-19 18:39:01,795 exception 77 Invalid HTTP_HOST header: 'www.boxun.com'. You may need to add 'www.boxun.com' to ALLOWED_HOSTS.
+WARNING 2019-10-19 18:39:01,796 log 228 Bad Request: /
+ERROR 2019-10-19 18:39:01,834 exception 77 Invalid HTTP_HOST header: 'www.bing.com'. You may need to add 'www.bing.com' to ALLOWED_HOSTS.
+WARNING 2019-10-19 18:39:01,835 log 228 Bad Request: /
+ERROR 2019-10-19 18:39:06,633 exception 77 Invalid HTTP_HOST header: 'www.rfa.org'. You may need to add 'www.rfa.org' to ALLOWED_HOSTS.
+WARNING 2019-10-19 18:39:06,633 log 228 Bad Request: /
+ERROR 2019-10-19 18:39:06,651 exception 77 Invalid HTTP_HOST header: 'wujieliulan.com'. You may need to add 'wujieliulan.com' to ALLOWED_HOSTS.
+WARNING 2019-10-19 18:39:06,652 log 228 Bad Request: /
+WARNING 2019-10-19 18:40:13,311 log 228 Not Found: /
+WARNING 2019-10-19 19:03:49,373 log 228 Not Found: /editBlackAndWhiteList
+WARNING 2019-10-19 19:15:34,122 log 228 Not Found: /
+ERROR 2019-10-19 19:32:25,062 exception 77 Invalid HTTP_HOST header: 'www.qq.com'. You may need to add 'www.qq.com' to ALLOWED_HOSTS.
+WARNING 2019-10-19 19:32:25,063 log 228 Bad Request: /404/search_children.js
+ERROR 2019-10-19 19:38:35,124 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-19 19:38:35,124 log 228 Bad Request: /
+ERROR 2019-10-19 20:01:02,274 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-19 20:01:02,275 log 228 Bad Request: /
+WARNING 2019-10-19 20:57:59,000 log 228 Not Found: /
+WARNING 2019-10-19 23:05:28,089 log 228 Not Found: /
+ERROR 2019-10-20 00:06:08,003 exception 77 Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+WARNING 2019-10-20 00:06:08,004 log 228 Bad Request: /cache/global/img/gs.gif
+ERROR 2019-10-20 00:46:07,760 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 00:46:07,760 log 228 Bad Request: /
+WARNING 2019-10-20 00:47:47,379 log 228 Not Found: /
+WARNING 2019-10-20 01:11:42,898 log 228 Not Found: /
+WARNING 2019-10-20 02:24:16,208 log 228 Not Found: /
+WARNING 2019-10-20 03:12:17,908 log 228 Not Found: /
+WARNING 2019-10-20 04:07:37,494 log 228 Not Found: /
+WARNING 2019-10-20 04:36:49,972 log 228 Not Found: /
+ERROR 2019-10-20 04:58:31,963 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 04:58:31,963 log 228 Bad Request: /
+WARNING 2019-10-20 07:34:20,534 log 228 Not Found: /
+WARNING 2019-10-20 07:39:06,045 log 228 Not Found: /
+WARNING 2019-10-20 08:05:33,286 log 228 Not Found: /TP/public/index.php
+WARNING 2019-10-20 08:05:33,347 log 228 Not Found: /TP/index.php
+WARNING 2019-10-20 08:05:33,415 log 228 Not Found: /thinkphp/html/public/index.php
+WARNING 2019-10-20 08:05:33,478 log 228 Not Found: /html/public/index.php
+WARNING 2019-10-20 08:05:33,551 log 228 Not Found: /public/index.php
+WARNING 2019-10-20 08:05:33,617 log 228 Not Found: /TP/html/public/index.php
+WARNING 2019-10-20 08:05:33,684 log 228 Not Found: /elrekt.php
+WARNING 2019-10-20 08:05:33,745 log 228 Not Found: /index.php
+WARNING 2019-10-20 08:05:33,811 log 228 Not Found: /
+WARNING 2019-10-20 08:40:29,030 log 228 Not Found: /
+WARNING 2019-10-20 09:45:32,728 log 228 Not Found: /
+ERROR 2019-10-20 10:06:10,147 exception 77 Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+WARNING 2019-10-20 10:06:10,148 log 228 Bad Request: /cache/global/img/gs.gif
+WARNING 2019-10-20 13:26:16,540 log 228 Not Found: /editBlackAndWhiteList
+WARNING 2019-10-20 15:46:31,094 log 228 Not Found: /
+WARNING 2019-10-20 15:49:41,260 log 228 Not Found: /
+ERROR 2019-10-20 16:01:48,120 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:01:48,120 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:01:48,122 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:01:48,122 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:03:12,718 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:03:12,719 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:03:12,933 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:03:12,934 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:03:47,816 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:03:47,817 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:03:47,842 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:03:47,843 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:04:57,653 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:04:57,653 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:04:58,936 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:04:58,936 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:05:21,684 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:05:21,685 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:05:31,594 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:05:31,594 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:05:31,629 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:05:31,630 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:06:03,141 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:06:03,141 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:06:03,888 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:06:03,889 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:06:15,629 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:06:15,629 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:06:16,628 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:06:16,628 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:06:17,686 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:06:17,686 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:06:19,548 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:06:19,549 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:06:22,151 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:06:22,152 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:06:23,445 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:06:23,446 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:06:32,485 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:06:32,485 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:06:33,483 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:06:33,483 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:06:45,059 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:06:45,060 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:06:47,968 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:06:47,969 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:07:03,449 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:07:03,449 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:07:37,161 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:07:37,162 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:07:40,735 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:07:40,736 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:09:19,081 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:09:19,082 log 228 Bad Request: /
+ERROR 2019-10-20 16:11:55,880 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:11:55,881 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:11:55,888 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:11:55,888 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:12:43,612 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:12:43,613 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:12:51,652 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:12:51,652 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:13:26,413 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:13:26,414 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:13:26,414 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:13:26,415 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:13:30,083 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:13:30,083 log 228 Bad Request: /
+ERROR 2019-10-20 16:14:24,193 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:14:24,193 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:15:53,367 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:15:53,368 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:15:53,643 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:15:53,644 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:15:53,820 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:15:53,821 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:15:53,835 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:15:53,835 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:15:54,194 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:15:54,194 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:15:56,547 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:15:56,547 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:15:59,934 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:15:59,935 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:16:00,107 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:16:00,108 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:16:09,143 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:16:09,144 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:16:09,319 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:16:09,320 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:16:12,073 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:16:12,073 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:16:12,128 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:16:12,129 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:16:45,026 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:16:45,026 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:16:45,150 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:16:45,150 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:16:46,616 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:16:46,616 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:16:47,567 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:16:47,567 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:17:20,439 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:17:20,439 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:17:21,611 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:17:21,612 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:17:29,016 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:17:29,016 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:17:29,027 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:17:29,028 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:17:30,987 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:17:30,987 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:17:35,780 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:17:35,781 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:17:36,830 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:17:36,830 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:17:42,983 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:17:42,983 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:17:43,008 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:17:43,010 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:18:04,112 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:18:04,112 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:18:06,011 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:18:06,011 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:18:06,048 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:18:06,049 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:18:06,092 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:18:06,092 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:18:12,748 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:18:12,748 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:18:13,467 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:18:13,467 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:18:37,706 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:18:37,706 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:18:38,997 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:18:38,998 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:18:43,854 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:18:43,855 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:18:49,309 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:18:49,310 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:18:57,294 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:18:57,294 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:18:57,318 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:18:57,318 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:19:03,776 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:19:03,777 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:19:12,329 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:19:12,329 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:19:13,437 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:19:13,437 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:19:40,247 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:19:40,247 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:19:41,333 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:19:41,333 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:19:41,939 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:19:41,939 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:19:41,986 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:19:41,987 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:19:48,913 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:19:48,913 log 228 Bad Request: /
+ERROR 2019-10-20 16:20:04,182 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:20:04,182 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:20:05,990 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:20:05,991 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:20:05,991 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:20:05,991 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:20:15,091 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:20:15,091 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:20:55,777 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:20:55,778 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:20:57,139 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:20:57,139 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:20:59,475 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:20:59,475 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:20:59,974 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:20:59,974 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:20:59,975 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:20:59,975 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:21:00,488 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:21:00,488 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:21:00,624 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:21:00,625 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:21:14,615 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:21:14,615 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:21:15,593 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:21:15,594 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:21:28,194 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:21:28,194 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:21:28,218 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:21:28,219 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:21:35,853 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:21:35,854 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:21:36,689 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:21:36,690 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:21:36,762 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:21:36,763 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:21:37,933 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:21:37,933 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:21:37,960 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:21:37,960 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:21:38,237 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:21:38,238 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:21:38,472 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:21:38,472 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:21:43,436 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:21:43,437 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:21:43,506 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:21:43,507 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:21:59,487 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:21:59,487 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:22:05,025 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:22:05,026 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:22:05,040 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:22:05,040 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:22:11,193 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:22:11,193 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:22:11,197 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:22:11,198 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:22:18,122 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:22:18,123 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:22:30,482 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:22:30,482 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:22:46,505 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:22:46,505 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:22:46,981 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:22:46,982 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:23:17,302 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:23:17,302 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:23:17,400 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:23:17,400 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:24:11,120 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:24:11,121 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:24:11,158 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:24:11,159 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:24:12,219 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:24:12,220 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:24:12,428 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:24:12,429 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:24:13,006 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:24:13,006 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:24:13,807 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:24:13,807 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:24:29,179 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:24:29,180 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:24:29,302 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:24:29,302 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:24:49,243 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:24:49,243 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:24:50,615 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:24:50,615 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:25:01,569 exception 77 Invalid HTTP_HOST header: 'CGTBLOG.TOP'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:25:01,570 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:25:01,581 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:25:01,582 log 228 Bad Request: /xmlrpc.php
+ERROR 2019-10-20 16:25:21,409 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:25:21,410 log 228 Bad Request: /
+WARNING 2019-10-20 16:29:08,460 log 228 Not Found: /wp-login.php
+ERROR 2019-10-20 16:35:23,111 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:35:23,111 log 228 Bad Request: /
+WARNING 2019-10-20 16:54:40,281 log 228 Not Found: /
+ERROR 2019-10-20 16:56:43,855 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 16:56:43,856 log 228 Bad Request: /
+ERROR 2019-10-20 17:37:17,638 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 17:37:17,639 log 228 Bad Request: /
+WARNING 2019-10-20 17:51:11,263 log 228 Not Found: /
+ERROR 2019-10-20 17:52:12,546 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 17:52:12,546 log 228 Bad Request: /
+ERROR 2019-10-20 18:18:00,648 exception 77 Invalid HTTP_HOST header: 'footlocker.co.uk'. You may need to add 'footlocker.co.uk' to ALLOWED_HOSTS.
+WARNING 2019-10-20 18:18:00,649 log 228 Bad Request: /en/homepage/
+ERROR 2019-10-20 20:05:55,013 exception 77 Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+WARNING 2019-10-20 20:05:55,014 log 228 Bad Request: /cache/global/img/gs.gif
+WARNING 2019-10-20 20:52:53,292 log 228 Not Found: /editBlackAndWhiteList
+ERROR 2019-10-20 21:14:30,743 exception 77 Invalid HTTP_HOST header: 'cheapweed.ca'. You may need to add 'cheapweed.ca' to ALLOWED_HOSTS.
+WARNING 2019-10-20 21:14:30,743 log 228 Bad Request: /
+WARNING 2019-10-20 21:43:27,248 log 228 Not Found: /
+ERROR 2019-10-20 21:47:02,933 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-20 21:47:02,934 log 228 Bad Request: /
+WARNING 2019-10-20 23:14:37,862 log 228 Not Found: /
+WARNING 2019-10-20 23:41:12,918 log 228 Not Found: /
+WARNING 2019-10-21 00:05:52,940 log 228 Not Found: /
+WARNING 2019-10-21 00:16:06,948 log 228 Not Found: /editBlackAndWhiteList
+WARNING 2019-10-21 01:23:02,747 log 228 Not Found: /
+WARNING 2019-10-21 01:35:06,940 log 228 Not Found: /
+WARNING 2019-10-21 02:10:08,332 log 228 Not Found: /
+ERROR 2019-10-21 02:40:27,410 exception 77 Invalid HTTP_HOST header: 'cgtblog.top'. You may need to add 'cgtblog.top' to ALLOWED_HOSTS.
+WARNING 2019-10-21 02:40:27,410 log 228 Bad Request: /
+WARNING 2019-10-21 02:42:58,856 log 228 Not Found: /
+WARNING 2019-10-21 03:44:14,746 log 228 Not Found: /
+WARNING 2019-10-21 05:04:02,443 log 228 Not Found: /
+WARNING 2019-10-21 05:04:02,528 log 228 Not Found: /
+ERROR 2019-10-21 06:08:34,162 exception 77 Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+WARNING 2019-10-21 06:08:34,163 log 228 Bad Request: /cache/global/img/gs.gif
+ERROR 2019-10-21 06:08:34,750 exception 77 Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+WARNING 2019-10-21 06:08:34,750 log 228 Bad Request: /cache/global/img/gs.gif
+WARNING 2019-10-21 06:36:48,471 log 228 Not Found: /
+WARNING 2019-10-21 06:36:48,699 log 228 Not Found: /favicon.ico
+WARNING 2019-10-21 06:52:35,073 log 228 Not Found: /mdeditor/uploads/
+WARNING 2019-10-21 06:54:06,683 log 228 Not Found: /
+WARNING 2019-10-21 06:56:10,685 log 228 Not Found: /editBlackAndWhiteList
+WARNING 2019-10-21 07:16:44,793 log 228 Not Found: /mdeditor/uploads/
+WARNING 2019-10-21 07:19:03,341 log 228 Not Found: /
+WARNING 2019-10-21 07:23:22,042 log 228 Not Found: /mdeditor/uploads/
+WARNING 2019-10-21 07:24:54,646 log 228 Not Found: /mdeditor/uploads/
+WARNING 2019-10-21 07:53:09,595 log 228 Not Found: /
+WARNING 2019-10-21 08:18:29,260 log 228 Not Found: /robots.txt
+WARNING 2019-10-21 08:34:54,459 log 228 Not Found: /
+WARNING 2019-10-21 09:19:58,137 log 228 Not Found: /
+WARNING 2019-10-21 09:52:20,504 log 228 Not Found: /
+WARNING 2019-10-21 11:04:39,731 log 228 Not Found: /
