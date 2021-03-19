@@ -12,7 +12,7 @@ django-js-asset==1.2.2
 django-mdeditor==0.1.16
 django-restframework==0.0.1
 django-reversion==3.0.4
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 et-xmlfile==1.0.1
 future==0.17.1
 httplib2==0.9.2
